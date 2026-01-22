@@ -149,9 +149,7 @@ How a game lives - Jacob Geller 
   
 
 # Hola soy electricfinger y hago musica que suena asi.. y asi... Y asi .. 
-
-  
-  
+ 
 
 # Juegos retro que son una joya podes jugar en cualquier celu o pc
 
