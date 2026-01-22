@@ -1,10 +1,10 @@
-1) Compartir la Global Game Jam (26 enero al 2 de febrero)
+# Compartir la Global Game Jam (26 enero al 2 de febrero)
 
-2) Mostrar riff y riff con variaciones
+# Mostrar riff y riff con variaciones
 
   
 
-3) Cómo hice la música del trailer
+# Cómo hice la música del trailer
 
 A) musica ya hecha
 
@@ -19,7 +19,7 @@ E) como mezclar para q sea uniforme
   
   
 
-4) Analizar sonido de Nuclear Throne
+#  Analizar sonido de Nuclear Throne
 
 Te voy a contar por que NT es un juego de culto gracias a su game feel y por su puesto, a su sonido.
 
@@ -41,7 +41,7 @@ No le hace falta ser vistoso, confia en su frenetismo y en su personalidad. Y gr
 
   
 
-5) Cosas en las que hago foco en una mezcla
+#  Cosas en las que hago foco en una mezcla
 
 *No cebarse con sonidos extremistas (sobre todo gtrs)
 
@@ -59,7 +59,7 @@ No le hace falta ser vistoso, confia en su frenetismo y en su personalidad. Y gr
   
   
 
-6) Recomendacion libros de musica:
+# Recomendacion libros de musica:
 
   
 
@@ -128,7 +128,7 @@ Leading with sound
   
   
 
-7) Recomendación libros de juegos:
+#  Recomendación libros de juegos:
 
 Blood, sweat and pixels - Jason Schrier: historias de desarrollo sobre juegos como Uncharted 4, TW3, Stardew Valley, el infame star wars 1313 y más 
 
@@ -150,12 +150,12 @@ How a game lives - Jacob Geller 
 
   
 
-8) hola soy electricfinger y hago musica que suena asi.. y asi... Y asi .. 
+# Hola soy electricfinger y hago musica que suena asi.. y asi... Y asi .. 
 
   
   
 
-9) juegos retro que son una joya podes jugar en cualquier celu o pc
+# juegos retro que son una joya podes jugar en cualquier celu o pc
 
 Ver ig Retrogames1337
 
@@ -165,7 +165,7 @@ Megaman battle network
 
   
 
-10) old game- new game recs
+# old game- new game recs
 
 Ej: blasphemous - mariachi legends
 
