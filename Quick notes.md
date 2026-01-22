@@ -1,1 +1,1 @@
-- [ ] Bajar ezdrummer3 #todo
+- [x] Bajar ezdrummer3 #todo ✅ 2026-01-22
