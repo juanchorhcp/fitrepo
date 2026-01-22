@@ -1,0 +1,7 @@
+crtl L: checkbox
+
+
+
+
+
+[[Obsidian]]
