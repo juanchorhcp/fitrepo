@@ -1,3 +1,4 @@
+# Lista
 Superior drummer 3 (best when you know the subtleties and getting a deep dive into it)
 
 Ezdrummer 3 (instant goodness)
@@ -8,8 +9,6 @@ Triaz (drum machine sounds)
 
 Teletone tympo, soulfi y electro (inspiring)
 
-  
-
 Otros: atlas
 
   
@@ -18,4 +17,6 @@ Versátil: addictive
 
 Ligeras de gb: superior o bfd. Hard rock/metal
 
-Ezdrummer: pop/rock
+Pop rock y fáciles de usar: EZDrummer
+
+Conecta con [[Reaper]] [[Al]]
