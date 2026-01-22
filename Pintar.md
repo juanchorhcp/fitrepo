@@ -14,9 +14,9 @@ Calcular largo (de cada pared) x alto
 7. Pasillo (crema):
 8. Techo pasillo:
 
-Blanco:
-Verde:
-Crema:
+Blanco: 1+2+4+6+8 = 
+Verde: 3 = 
+Crema: 5+7 = 
   
 
 Son 2 manos, excepto pared roja 3-4 manos (O tener en cuenta pintura para cambio de color)
