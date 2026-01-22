@@ -2,13 +2,12 @@
 
 Calcular largo (de cada pared) x alto
 
-Baño: 
-
-Techo baño:
+1. Baño: 
+2. echo baño:
 
 Cocina:
 
-Techo cocina??
+Techo cocina:
 
 Living:
 
@@ -16,15 +15,13 @@ Techo living:
 
 Pasillo:
 
-Techo pasillo??
+Techo pasillo:
 
   
 
-Son 2 manos, excepto pared roja 3-4 manos
+Son 2 manos, excepto pared roja 3-4 manos (O tener en cuenta pintura para cambio de color)
 
-Tener en cuenta pintura para cambio de color
-
-Tener en cuenta pintura anti hongos
+Tener en cuenta pintura anti hongos para
 
 Comprar 1-2L de más 
 
