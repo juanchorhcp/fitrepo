@@ -1,5 +1,6 @@
 ```tasks
-group by tags
-sort by priority
+group by priority
+hide tags
+sort by tags
 not done
 ```
