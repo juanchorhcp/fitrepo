@@ -1,5 +1,5 @@
 ```tasks
-
-group by priority
+group by tags
+sort by priority
 not done
 ```
