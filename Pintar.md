@@ -1,6 +1,6 @@
 🎨 10m2 por litro por mano
 
-Calcular largo (de cada pared) x alto
+- [ ] Calcular largo (de cada pared) x alto #todo
 
 1. Baño: 
 2. Techo baño:
