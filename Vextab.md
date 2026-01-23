@@ -19,8 +19,12 @@ traste-traste-traste/cuerda traste/cuerda
 
 - la barra divisoria se hace con alt124 ---> |
 
-- Si queremos mas de una cuerda al mismo tiempo se escriben entre parentesis y separadas por un punto (traste/cuerda.traste/cuerda)
+- Si queremos mas de una cuerda al mismo tiempo se escriben entre parentesis y separadas por un punto (traste/cuerda.traste/cuerda). Se pueden escribir en cualquier orden de cuerda!
 
 ```quicktab
 (4/3.3/2)-5-6b7/3 10/4 
+```
+
+```quicktab
+(4/3.3/2.1/1.3/4.4/6.5/5)
 ```
