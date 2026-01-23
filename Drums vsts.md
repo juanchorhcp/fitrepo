@@ -19,6 +19,6 @@ Ligeras de gb: superior o bfd. Hard rock/metal
 
 Pop rock y fáciles de usar: EZDrummer
 
-Conecta con [[Álbum]]
+Conecta con [[Album]]
 
 #reaper #plugins
