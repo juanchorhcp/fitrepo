@@ -4,4 +4,6 @@ Conecta con [[Obsidian]]
 
 <div class="jtab tabonly">$2 0 1 3 $1 0 1 3/5 | $B 0 1 3 $e 0 1 3/5 ||</div>
 
+```<div class="jtab tabonly">$2 0 1 3 $1 0 1 3/5 | $B 0 1 3 $e 0 1 3/5 ||</div>
+```
 
