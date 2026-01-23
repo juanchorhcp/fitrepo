@@ -34,7 +34,11 @@ quicktab
 ```
 
 - Agregando esto: $.big.ACORDE $ se le puede poner el acorde a la tab
-
+quicktab
+(4/3.3/2) $.big.Cmaj7$ -5-6b7/3 10/4 
+```quicktab
+(4/3.3/2) $.big.Cmaj7$ -5-6b7/3 10/4 
+```
 
 
 
