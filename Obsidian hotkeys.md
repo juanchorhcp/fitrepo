@@ -7,6 +7,8 @@ crtl L: checkbox
 >[!note] Nota
 >Contenido de la nota
 
+>[!tip] Tips
+>Contenido del tip
 
 
 
