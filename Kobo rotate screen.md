@@ -8,10 +8,10 @@ A. Modify the Kobo eReader configuration file. You may need to use a PC to set i
     
 3. Open the file "Kobo eReader.conf" (use text application software like Notepad or Notepad++)
     
-4. Find [DeveloperSettings] and set the texts as the following code. If it does not exist, then create it.
+4. Find DeveloperSettings and set the texts as the following code. If it does not exist, then create it.
     
 
-[DeveloperSettings]
+DeveloperSettings
 ForceAllowLandscape=true
 
 5. Disconnect your kobo from your PC and reboot it.
