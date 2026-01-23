@@ -1,1 +1,1 @@
-- [ ] descargar x plugin #reaper
+- [x] descargar x plugin #reaper ✅ 2026-01-22
