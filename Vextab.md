@@ -1,4 +1,5 @@
 Conecta con [[Obsidian]]
+Plugin para 
 
 ```quicktab
 4-5-6b7/3 10/4 | 5-4-2/3 2/2
