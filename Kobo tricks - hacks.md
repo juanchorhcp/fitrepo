@@ -1,3 +1,5 @@
+# Rotate screen
+
 Enable Landscape mode in Clara HD, Clara 2E, and Nia.
 
 A. Modify the Kobo eReader configuration file. You may need to use a PC to set it up.
@@ -26,3 +28,5 @@ menu_item :main     :LANDSCAPE - handle above   :nickel_orientation :landscape
 menu_item :main     :LANDSCAPE - handle below   :nickel_orientation :inverted_landscape
 menu_item :main     :PORTRAIT - handle on left  :nickel_orientation :inverted_portrait
 menu_item :main     :PORTRAIT - handle on right :nickel_orientation :portrait
+
+# 
