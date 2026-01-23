@@ -15,3 +15,5 @@ quicktab
 
 #### Es decir:
 traste-traste-traste/cuerda traste/cuerda 
+
+la barra se hace con alt124
