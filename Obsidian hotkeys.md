@@ -10,6 +10,7 @@ crtl L: checkbox
 >[!tip] Tips
 >Contenido del tip
 
+También se puede !success !warning !info !example !quote !failure !question
 
 
 
