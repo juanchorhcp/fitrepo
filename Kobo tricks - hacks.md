@@ -1,3 +1,4 @@
+Conecta con [[Libros]]
 # Rotate screen
 
 Enable Landscape mode in Clara HD, Clara 2E, and Nia.
