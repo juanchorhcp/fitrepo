@@ -14,4 +14,4 @@ quicktab
 6-7b9b7/3 7/4 | 9-8-7-6/2
 
 #### Es decir:
-traste-traste-traste/cuerda
+traste-traste-traste/cuerda traste/cuerda 
