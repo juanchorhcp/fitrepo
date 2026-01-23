@@ -1,5 +1,5 @@
-Conecta con [[Obsidian]]
 Plugin para armar tabs
+Conecta con [[Obsidian]]
 
 ```quicktab
 4-5-6b7/3 10/4 | 5-4-2/3 2/2
@@ -19,7 +19,7 @@ traste-traste-traste/cuerda traste/cuerda
 
 - la barra divisoria se hace con alt124 ---> |
 
-- Si queremos mas de una cuerda al mismo tiempo se escriben entre parentesis y separadas por un punto (traste/cuerda.traste/cuerda). Se pueden escribir en cualquier orden de cuerda!
+- Si queremos mas de una cuerda al mismo tiempo se escriben entre parentesis y separadas por un punto **(traste/cuerda.traste/cuerda)**. Se pueden escribir en cualquier orden de cuerda!
 
 ```quicktab
 (4/3.3/2)-5-6b7/3 10/4 
