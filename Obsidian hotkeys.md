@@ -13,8 +13,13 @@ crtl L: checkbox
 También se puede !success !warning !info !example !quote !failure !question , etc.
 
 
-**Lista
-Asterisco, 
+**Lista**
++ Asterisco
++ Guión
++ Signo más
+
+
+
 
 
 [[Obsidian]]
