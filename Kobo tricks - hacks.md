@@ -29,4 +29,5 @@ menu_item :main     :LANDSCAPE - handle below   :nickel_orientation :inverted_la
 menu_item :main     :PORTRAIT - handle on left  :nickel_orientation :inverted_portrait
 menu_item :main     :PORTRAIT - handle on right :nickel_orientation :portrait
 
-# 
+# Page turner
+[Saved 30 bucks on the Kobo remote today - Small Guide for using a Switch Joy Con as page turner : r/kobo](https://www.reddit.com/r/kobo/comments/1pez9yp/saved_30_bucks_on_the_kobo_remote_today_small/?share_id=Mz8ELtkHNiRWKrFqDudwL&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
