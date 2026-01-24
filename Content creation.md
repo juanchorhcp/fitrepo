@@ -171,6 +171,8 @@ Cuando me hypeen un par de próximos lanz o tapados ya lanzados
 No hay excusa para jugar si están estos
 5 juegos gratis en Steam que la rompen
 
-Sheepy: si jugaste hollow knight lo vas a hermanar rapidamente con el, unas 3 horitas de exploracion y de ir cada vez más abajo de una fabrica abandonada donde vamos ganando poderes y conociendo
+Sheepy: si jugaste hollow knight lo vas a hermanar rapidamente con el, unas 3 horitas de exploracion y de ir cada vez más abajo de una fabrica abandonada donde vamos ganando poderes y conociendo que pasó con los humanos en este lugar
 
-Bloody hell:
+Bloody hell: mv bullethell que se ve muy divertido y visualmente buenisimo
+
+Doki doki: lo que empieza como un simulador de citas animé 
