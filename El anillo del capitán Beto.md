@@ -11,3 +11,4 @@ Respetar bata y bajo mostly. Se podría experimentar con un timbre mas lofi de b
 Guitarra puede ser mucho mas limpia y tirar melodías sueltas ya que el piano es la base en este cover
 
 Acordes: [EL ANILLO DEL CAPITÁN BETO ACORDES por Luis Alberto Spinetta @ Ultimate-Guitar.Com](https://es.ultimate-guitar.com/tab/1556884)
+ n
