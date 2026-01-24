@@ -166,3 +166,10 @@ Megaman battle network
 Ej: blasphemous - mariachi legends
 
 Cuando me hypeen un par de próximos lanz o tapados ya lanzados
+
+# Free games
+No hay excusa para jugar si están estos
+5 juegos gratis en Steam que la rompen
+
+Sheepy
+Bloody hell
