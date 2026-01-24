@@ -175,4 +175,5 @@ Sheepy: si jugaste hollow knight lo vas a hermanar rapidamente con el, unas 3 ho
 
 Bloody hell: mv bullethell que se ve muy divertido y visualmente buenisimo
 
-Doki doki: lo que empieza como un simulador de citas animé 
+Doki doki: lo que empieza como un simulador de citas onda animé da un repentino giro de 180 grados y eso es todo lo que te puedo decir de este juegazo. Se alarga un poco el principio pero metele que vale la pena.
+
