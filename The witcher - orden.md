@@ -12,3 +12,7 @@
 12. The Witcher 1
 13. The Witcher 2: Assassin of kings
 14. The Witcher 3: Wild hunt
+15. Curse of crows (comic)
+16. Of flesh and flame (comic)
+17. A night to remember (short film tribute)
+18. CDPR 10th Anniversary of The With
