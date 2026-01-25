@@ -1,6 +1,6 @@
-1. <mark style="background: #ABF7F7A6;">El camino sin retorno</mark>
-2. El último deseo
-3. La espada del destino
+1. El camino sin retorno
+2. <mark style="background: #FF5582A6;">El último deseo</mark>
+3. <mark style="background: #FFB8EBA6;">La espada del destino</mark>
 4. House of glass (comic)
 5. Fox children (comic)
 6. La sangre de los elfos
