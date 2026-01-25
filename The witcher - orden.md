@@ -21,4 +21,4 @@
 21. CDPR 10th Anniversary of The Witcher (short film tribute): [https://www.youtube.com/watch?v=zgqz8Je7P0s](https://www.youtube.com/watch?v=zgqz8Je7P0s)
 22. Farewell of the white wolf (expansion del witcher 2 fanmade)
 23. Algo termina, algo comienza (historia cómica sobre la boda de Geralt y Yenn): [https://witcher.fandom.com/wiki/Something_Ends,_Something_Begins_(unofficial_translation)](https://witcher.fandom.com/wiki/Something_Ends,_Something_Begins_\(unofficial_translation\)) Fan translation!
-24. Encrucijada de cuervos. Libro precuela pero es lo último que salió (*2024)
+24. <mark style="background: #FF5582A6;">Encrucijada de cuervos</mark>. Libro precuela pero es lo último que salió (*2024)
