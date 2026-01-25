@@ -14,7 +14,8 @@
 7. Pasillo (crema):
 8. Techo pasillo:
 
-Blanco: 1+2+4+6+8 = 
+Blanco antihongos: 1+2
+Blanco:4+6+8 = 
 Verde: 3 = 
 Crema: 5+7 = 
   
