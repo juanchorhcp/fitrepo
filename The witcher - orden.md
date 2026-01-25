@@ -18,6 +18,6 @@
 18. Curse of crows (comic)
 19. Of flesh and flame (comic)
 20. A night to remember (short film tribute): [https://www.youtube.com/watch?v=1-l29HlKkXU](https://www.youtube.com/watch?v=1-l29HlKkXU)
-21. CDPR 10th Anniversary of The Witcher (short film tribute)
+21. CDPR 10th Anniversary of The Witcher (short film tribute): [https://www.youtube.com/watch?v=zgqz8Je7P0s](https://www.youtube.com/watch?v=zgqz8Je7P0s)
 22. Farewell of the white wolf (expansion del witcher 2 fanmade)
-23. Algo termina, algo comienza (historia cómica sobre la boda de Geralt y Yenn)
+23. Algo termina, algo comienza (historia cómica sobre la boda de Geralt y Yenn): [https://witcher.fandom.com/wiki/Something_Ends,_Something_Begins_(unofficial_translation)](https://witcher.fandom.com/wiki/Something_Ends,_Something_Begins_\(unofficial_translation\)) Fan translation!
