@@ -15,4 +15,6 @@
 15. Curse of crows (comic)
 16. Of flesh and flame (comic)
 17. A night to remember (short film tribute)
-18. CDPR 10th Anniversary of The With
+18. CDPR 10th Anniversary of The Witcher (short film tribute)
+19. Farewell of the white wolf (expansion del witcher 2 fanmade)
+20. Some
