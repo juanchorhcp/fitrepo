@@ -1,11 +1,11 @@
-1. El camino sin retorno
+1. <mark style="background: #FF5582A6;">El camino sin retorno</mark>
 2. <mark style="background: #FF5582A6;">El último deseo</mark>
-3. <mark style="background: #FFB8EBA6;">La espada del destino</mark>
+3. <mark style="background: #FF5582A6;">La espada del destino</mark>
 4. House of glass (comic)
 5. Fox children (comic)
-6. La sangre de los elfos
-7. Tiempo de odio
-8. Jugar Thronebreaker!
+6. <mark style="background: #FF5582A6;">La sangre de los elfos</mark>
+7. <mark style="background: #FF5582A6;">Tiempo de odio</mark>
+8. <mark style="background: #BBFABBA6;">Thronebreaker</mark>
 9. Bautismo de fuego
 10. La torre de la golondrina
 11. La dama del lago
