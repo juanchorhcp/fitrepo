@@ -9,4 +9,6 @@
 9. Bautismo de fuego
 10. La torre de la golondrina
 11. La dama del lago
-12. 
+12. The Witcher 1
+13. The Witcher 2: Assassin of kings
+14. The Witcher 3: Wild hunt
