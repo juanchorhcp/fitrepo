@@ -17,4 +17,4 @@
 17. A night to remember (short film tribute)
 18. CDPR 10th Anniversary of The Witcher (short film tribute)
 19. Farewell of the white wolf (expansion del witcher 2 fanmade)
-20. Some
+20. Algo termina, algo comienza (historia cómica sobre la boda de Geralt y Yenn)
