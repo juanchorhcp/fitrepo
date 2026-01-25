@@ -5,4 +5,8 @@
 5. Fox children (comic)
 6. La sangre de los elfos
 7. Tiempo de odio
-8. 
+8. Jugar Thronebreaker!
+9. Bautismo de fuego
+10. La torre de la golondrina
+11. La dama del lago
+12. 
