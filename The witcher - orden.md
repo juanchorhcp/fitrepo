@@ -11,10 +11,13 @@
 11. La dama del lago
 12. The Witcher 1
 13. The Witcher 2: Assassin of kings
-14. The Witcher 3: Wild hunt
-15. Curse of crows (comic)
-16. Of flesh and flame (comic)
-17. A night to remember (short film tribute)
-18. CDPR 10th Anniversary of The Witcher (short film tribute)
-19. Farewell of the white wolf (expansion del witcher 2 fanmade)
-20. Algo termina, algo comienza (historia cómica sobre la boda de Geralt y Yenn)
+14. Matters of conscience (comic)
+15. Killing monsters (comic)
+16. Killing monsters (cinematic trailer)
+17. The Witcher 3: Wild hunt
+18. Curse of crows (comic)
+19. Of flesh and flame (comic)
+20. A night to remember (short film tribute)
+21. CDPR 10th Anniversary of The Witcher (short film tribute)
+22. Farewell of the white wolf (expansion del witcher 2 fanmade)
+23. Algo termina, algo comienza (historia cómica sobre la boda de Geralt y Yenn)
