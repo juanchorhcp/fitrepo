@@ -14,10 +14,10 @@
 7. Pasillo (crema):
 8. Techo pasillo:
 
-Blanco antihongos: 1+2
-Blanco:4+6+8 = 
-Verde: 3 = 
-Crema: 5+7 = 
+Blanco antihongos: 1+2= 7 m2
+Blanco:4+6+8 = 24.5 m2
+Verde: 3 = 9.1 m2
+Crema: 5+7 = 41.4 m2
   
 
 Son 2 manos, excepto pared roja 3-4 manos (O tener en cuenta pintura para cambio de color)
