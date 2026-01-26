@@ -23,7 +23,9 @@ Música:
 - Tema de exploración:
 	- Debe servir para: menú, explorar, pelear contra enemigos comunes y para cuando dialogamos
 	- Bombo
-	- Charango arpegiado
+	- Charango arpegiado en A, charango acordes en B
+	- Sensación de viento (drones? de sikus o quenas)
+	- Melodía alargada con quena/sikus/otro
 - Tema bossfight:
 	- Bombo + caja
 
