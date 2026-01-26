@@ -56,7 +56,8 @@ Main character:
 	- traje serpiente: sonido de cascabel?, sonido de siseo?
 	- traje 2:
 
-Enemigos: espíritus deformados por el exceso: burla, alcohol, olvido del ritual.
+Enemigos: 
+- Espíritus deformados por el exceso: burla, alcohol, olvido del ritual. (?)
 - Más ruidosos
 - Respiración exagerada?
 - Murmullos lejanos?
@@ -67,5 +68,7 @@ Amigos:
 3. Susurros
 
 Footsteps: pasos sobre tierra seca?
+
+Wooshes: con quena
 
 
