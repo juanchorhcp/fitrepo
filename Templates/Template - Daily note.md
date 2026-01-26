@@ -36,6 +36,7 @@ _(realista, humano, no épico)_
 ---
 
 ## 🧠 Algo con lo que estoy struggling
+- ¿Qué es?
 - ¿Qué lo hace difícil?
 - ¿Qué emoción aparece primero?
 
