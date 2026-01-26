@@ -55,6 +55,7 @@ Main character:
 	- humano: footsteps
 	- traje serpiente: sonido de cascabel?, sonido de siseo?
 	- traje 2:
+
 Enemigos: espíritus deformados por el exceso: burla, alcohol, olvido del ritual.
 - Más ruidosos
 - Respiración exagerada?
