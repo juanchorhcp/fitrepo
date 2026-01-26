@@ -68,8 +68,7 @@ _(no hace falta completar todo)_
   (ambiente, ruido, textura, sample mental)
 - 🧪 **Idea sonora:**  
   (procesamiento, efecto, cadena, concepto)
-- 🎼 **Estado musical:**  
-  (armónico / rítmico / atmosférico / caótico / minimal)
+- 🎼 **Canción del día:**
 - 🧠 **Referencia que apareció:**  
   (tema, OST, artista, juego, película)
 - 🛠️ **¿Probé algo técnico hoy?**  
