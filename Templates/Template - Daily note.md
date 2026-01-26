@@ -75,7 +75,7 @@ _(rescate del día anterior)_
 
 ---
 
-##  Logros del día 
+## 🏆 Logros del día 
 - Algo que hice bien hoy:
 - Algo que evité hacer y estuvo bien:
 
@@ -129,6 +129,7 @@ _(elegir una o escribir otra)_
 - Algo por lo que agradezco hoy:
 - Algo que solté:
 - Cómo me iría a dormir si hoy terminara acá:
+- Pregunta que ronda en mi cabeza:
 
 ---
 
