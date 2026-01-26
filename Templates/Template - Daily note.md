@@ -8,18 +8,6 @@ tags: [[Daily Notes]]
 << [[Timestamps/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|Yesterday]] | [[Timestamps/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|Tomorrow]] >>
 
 ---
-### 📅 Daily Questions
-##### 🌜 Algo que pense anoche:
-- 
-
-##### 🙌 Algo que me emociona es:
-- 
-
-
-##### 👎 Algo con lo que estoy struggling:
-- 
-
----
 # [[🌅Morning pages]]
 _(escribir sin filtro, sin corregir, sin releer)_
 
@@ -29,7 +17,7 @@ _(escribir sin filtro, sin corregir, sin releer)_
 
 ---
 
-# 📝 Notes
+# 📝 Nota rápida 
 - <% tp.file.cursor() %>
 
 
