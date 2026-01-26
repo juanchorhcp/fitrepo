@@ -12,13 +12,13 @@ tags: [[Daily Notes]]
 ##### 🌜 Algo que pense anoche:
 - 
 
+##### 🚀 Cosas que me gustaría hacer hoy:
+- [ ] 
 ##### 🙌 Algo que me emociona es:
 - 
 
-##### 🚀 One+ thing I plan to accomplish today is...
-- [ ] 
 
-##### 👎 One thing I'm struggling with today is...
+##### 👎 Algo con lo que estoy struggling:
 - 
 
 ---
