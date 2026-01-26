@@ -60,7 +60,7 @@ _(rescate del día anterior)_
 ---
 
 ## 🏆 Logros del día 
-- Algo que hice bien hoy/ayer:
+- Algo que hice bien ayer/hoy:
 - Algo que evité hacer y estuvo bien:
 
 ---
@@ -68,7 +68,7 @@ _(rescate del día anterior)_
 ## 🎨 Chispa creativa (captura rápida)
 - Imagen / escena:
 - Sonido / textura / ruido:
-- Frase suelta:
+- Frase:
 - Idea sin juzgar:
 
 ---
@@ -112,8 +112,7 @@ _(no hace falta completar todo)_
 ---
 ## 🪞 Pregunta del día
 _(elegir una o escribir otra)_
-- ¿Qué estoy evitando mirar?
-- ¿Esto es miedo o intuición?
+Ej: ¿Qué estoy evitando mirar? ¿Esto es miedo o intuición?
 - ¿Qué necesita mi parte creativa hoy?
 - ¿Estoy creando o solo preparándome para crear?
 
