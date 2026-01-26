@@ -106,6 +106,7 @@ _(no hace falta completar todo)_
 ---
 
 ## 🎮 Registro creativo — Juegos / Mundos
+- 🎮 **Juego de hoy:** 
 - 🗺️ **Idea de mundo / escenario:**
 - 👤 **Personaje que apareció hoy:**
 - ⚔️ **Mecánica o interacción interesante:**
