@@ -116,11 +116,11 @@ _(no hace falta completar todo)_
   (ataque, UI, ambiente, feedback)
 
 ---
-# 🎮 Registro creativo — Juegos / Mundos
-- 🎮 **Juego de hoy:** 
+## 📚 Registro creativo — Libros
+- 📕 **Libro de hoy:** 
 - 🗺️ **Idea de mundo / escenario:**
-- 👤 **Personaje que apareció hoy:**
-- ⚔️ **Mecánica o interacción interesante:**
+- 👤 **Personaje de hoy:**
+- ⚔️ **Fraseinteresante:**
 - 🎭 **Tono emocional del juego hoy:**  
   (opresivo / lúdico / melancólico / absurdo / tenso)
 - 🔊 **Idea de sonido para gameplay:**  
