@@ -80,10 +80,9 @@ _(no hace falta completar todo)_
 ## 🎮 Registro creativo — Juegos / Mundos
 - 🎮 **Juego de hoy:** 
 - 🗺️ **Idea de mundo / escenario:**
-- 👤 **Personaje que apareció hoy:**
-- ⚔️ **Mecánica o interacción interesante:**
-- 🎭 **Tono emocional del juego hoy:**  
-  (opresivo / lúdico / melancólico / absurdo / tenso)
+- 👤 **Personaje:**
+- ⚔️ **Mecánica:**
+- 🎭 **Tono emocional:**  
 - 🔊 **Idea de sonido para gameplay:**  
 
 ---
