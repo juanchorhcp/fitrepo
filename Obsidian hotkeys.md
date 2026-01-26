@@ -1,6 +1,7 @@
 crtl L: checkbox
 crtl D: open today's daily note
 crtl Ñ: cerrar todas las demás tabs
+crtl P: abre todas las acciones
 
 ==resaltar==
 ~~tachar~~
