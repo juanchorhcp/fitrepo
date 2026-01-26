@@ -11,6 +11,10 @@ Música:
 	- Huayno. Más emotivo, puede ser festivo o melancólico
 	- Saya. Más tribal, hipnótico
 	- Bailecito. Más "liviano"
+- Mezcla:
+	- Saturación suave
+	- Desprolijidad
+	- Reverbs largas tipo paisaje (¿c)
 
 
 Instrumentos:
@@ -21,7 +25,7 @@ Instrumentos:
 - Voces varias a lo lejos quedaría épico. Ver refe
 - Cascabeles (forman parte del traje de diablo del carnaval)
 - Silbato puede ser
-- Según gpt: sikus/zampoñas, quenas, charango, bombo le[u]
+- Según gpt: sikus/zampoñas, quenas, charango, bombo leguero, cajas andinas, cascabeles/semillas
 
 Lore:
 El diablo es una figura ambigue y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano.
