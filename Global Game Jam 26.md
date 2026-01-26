@@ -5,7 +5,11 @@ Refe: [El desentierro del Diablo | Carnaval De Jujuy](https://www.youtube.com/wa
 Música:
 - Carnaval de Jujuy
 - El desentierro del diablo
-- Carnavalito? Comparar con refe del video (1st tema). El compás es de 2/4 (escuchar para ver como debe sentirse)
+- Ritmos:
+	- Carnavalito? Comparar con refe del video (1st tema). El compás es de 2/4 (escuchar para ver como debe sentirse)
+	- Huayno. Más emotivo, puede ser festivo o melancólico
+	- Saya. Más tribal, hipnótico
+	- Bailecito. Más "liviano"
 - "Música ritual"
 
 Instrumentos:
