@@ -28,3 +28,4 @@ Son 2 manos, excepto pared roja 3-4 manos (O tener en cuenta pintura para cambio
 Tener en cuenta pintura anti hongos para 1 y 2
 
 Comprar 1-2L de más 
+
