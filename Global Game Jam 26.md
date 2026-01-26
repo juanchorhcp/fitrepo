@@ -39,4 +39,4 @@ Enemigos: espíritus deformados por el exceso: burla, alcohol, olvido del ritual
 - Ritmos rotos
 - Sonidos más ásperos
 
-
+Main character: ¿Que arma tiene? ¿Lleva un traje
