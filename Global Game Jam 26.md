@@ -28,6 +28,8 @@ Música:
 	- Melodía alargada con quena/sikus/otro
 - Tema bossfight:
 	- Bombo + caja
+	- Ostinatos (con qué instru?)
+	- Motivos cortos de viento madera (pregunta y respuesta rítmica)
 
 
 Instrumentos:
