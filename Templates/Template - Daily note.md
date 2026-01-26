@@ -23,8 +23,7 @@ tags: [[Daily Notes]]
 
 ---
 # [[🌅Morning pages]]
-
-
+_(escribir sin filtro, sin corregir, sin releer)_
 
 
 
@@ -34,10 +33,7 @@ tags: [[Daily Notes]]
 
 # 📝 Notes
 - <% tp.file.cursor() %>
-# 🗓️ {{date:YYYY-MM-DD}} — Nota diaria
 
-## 🌅 Página matutina
-_(escribir sin filtro, sin corregir, sin releer)_
 
 ---
 
