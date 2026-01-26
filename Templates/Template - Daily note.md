@@ -75,7 +75,7 @@ _(rescate del día anterior)_
 
 ---
 
-## 🧩 Micro-victorias
+##  Logros del día 
 - Algo que hice bien hoy:
 - Algo que evité hacer y estuvo bien:
 
