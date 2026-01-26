@@ -14,7 +14,9 @@ Música:
 - Mezcla:
 	- Saturación suave
 	- Desprolijidad
-	- Reverbs largas tipo paisaje (¿c)
+	- Reverbs largas tipo paisaje (¿cómo se logra?)
+	- Drones con quena estirada
+	- Que suene onírico, ancestral
 
 
 Instrumentos:
@@ -36,3 +38,5 @@ Enemigos: espíritus deformados por el exceso: burla, alcohol, olvido del ritual
 - Más ruidosos
 - Ritmos rotos
 - Sonidos más ásperos
+
+
