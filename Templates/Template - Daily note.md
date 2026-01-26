@@ -56,16 +56,11 @@ _(aunque sea chiquito o a futuro)_
 
 ## 🧠 Algo que pensé ayer
 _(rescate del día anterior)_
-
----
-
-## 🎯 UNA sola cosa (anti-overwhelm)
-**Si hoy solo hiciera UNA cosa, sería:**
-
+ 
 ---
 
 ## 🏆 Logros del día 
-- Algo que hice bien hoy:
+- Algo que hice bien hoy/ayer:
 - Algo que evité hacer y estuvo bien:
 
 ---
