@@ -1,8 +1,3 @@
----
-created: <% tp.file.creation_date() %>
----
-
-
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
 << [[Timestamps/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|Yesterday]] | [[Timestamps/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|Tomorrow]] >>
@@ -19,13 +14,6 @@ _(escribir sin filtro, sin corregir, sin releer)_
 
 # 📝 Nota rápida 
 - <% tp.file.cursor() %>
-
-
----
-
-## 🌅 Check-in rápido
-- **Cómo me siento (1 palabra):**
-- 🔋**Nivel de energía:**  /10
 
 ---
 
