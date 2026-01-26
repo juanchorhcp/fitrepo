@@ -1,10 +1,12 @@
 Conecta con [[Game jams]]
 
-Refe: [El desentierro del Diablo | Carnaval De Jujuy](https://www.youtube.com/watch?v=WkVMnkA_ApA)
+Nombre: ¿Quién mató al carnaval?
 
-Lore:
+Referencia musical: [El desentierro del Diablo | Carnaval De Jujuy](https://www.youtube.com/watch?v=WkVMnkA_ApA)
+
+# Lore:
 El diablo es una figura ambigua y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano.
-Persona se encuentra con un carnaval lleno de espíritus y cuando se acerca a investigar encuentra una mascara que le da poderes espirituales. El prota quiere averiguar porque ya no se celebran estos carnavales. Hay espíritus buenos y malos . El villano quiere explotar/usar a los espíritus para su beneficio(?
+Plot:Persona se encuentra con un carnaval lleno de espíritus y cuando se acerca a investigar encuentra una mascara que le da poderes espirituales. El prota quiere averiguar porque ya no se celebran estos carnavales. Hay espíritus buenos y malos . El villano quiere explotar/usar a los espíritus para su beneficio(?
 
 Carnaval de la Pachamama y los espíritus que protegen la Tierra
 
