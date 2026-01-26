@@ -51,7 +51,6 @@ _(rescate del día anterior)_
 - Algo que hice bien ayer/hoy:
 - Algo que evité hacer y estuvo bien:
 
-
 ---
 
 ## 🎵 Registro creativo — Música & Sonido
