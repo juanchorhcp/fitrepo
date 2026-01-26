@@ -12,8 +12,6 @@ tags: [[Daily Notes]]
 ##### 🌜 Algo que pense anoche:
 - 
 
-##### 🚀 Cosas que me gustaría hacer hoy:
-- [ ] 
 ##### 🙌 Algo que me emociona es:
 - 
 
@@ -46,7 +44,7 @@ _(escribir sin filtro, sin corregir, sin releer)_
 
 ## 🎯 Algo que me gustaría hacer hoy
 _(realista, humano, no épico)_
-
+ - [ ] 
 ---
 
 ## 🧠 Algo con lo que estoy struggling
