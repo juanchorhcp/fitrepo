@@ -22,7 +22,7 @@ tags: [[Daily Notes]]
 - 
 
 ---
-# [[Morning pages]]
+# [[🌅Morning pages]]
 
 
 
