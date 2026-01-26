@@ -111,16 +111,15 @@ _(no hace falta completar todo)_
   
 ---
 ## 🪞 Pregunta del día
-_(elegir una o escribir otra)_
-Ej: ¿Qué estoy evitando mirar? ¿Esto es miedo o intuición?
-- ¿Qué necesita mi parte creativa hoy?
-- ¿Estoy creando o solo preparándome para crear?
+*Ej: ¿Qué estoy evitando mirar? ¿Esto es miedo o intuición? ¿Qué necesita mi parte creativa hoy? ¿Estoy creando o solo preparándome para crear?*
 
 ---
 
 ## 🌙 Mini cierre
 - Pregunta que ronda en mi cabeza:
 - Necesito ser guiado en:
+
+
 *... por la mañana quizás escuche alguna respuesta*
 
 
