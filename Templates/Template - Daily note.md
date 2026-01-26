@@ -85,20 +85,18 @@ _(no hace falta completar todo)_
 - 🎭 **Tono emocional del juego hoy:**  
   (opresivo / lúdico / melancólico / absurdo / tenso)
 - 🔊 **Idea de sonido para gameplay:**  
-  (ataque, UI, ambiente, feedback)
 
 ---
 ## 📚 Registro creativo — Libros
 - 📕 **Libro de hoy:** 
 - 🗺️ **Idea de mundo / escenario:**
-- 👤 **Personaje de hoy:**
+- 👤 **Personaje:**
 - ✍🏼 **Frase interesante:** 
-- 🎭 **Tono emocional del libro hoy:**  
-  (opresivo / lúdico / melancólico / absurdo / tenso)
+- 🎭 **Tono emocional:**  
 - 📝 **Idea de plot:**  
   
 ---
-## 🪞❓❔ Pregunta del día
+## ❔ Pregunta del día
 *Ej: ¿Qué estoy evitando mirar? ¿Esto es miedo o intuición? ¿Qué necesita mi parte creativa hoy? ¿Estoy creando o solo preparándome para crear?*
 
 ---
