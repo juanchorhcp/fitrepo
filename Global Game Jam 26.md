@@ -20,13 +20,13 @@ Música:
 	- Reverbs largas tipo paisaje (¿cómo se logra?)
 	- Drones con quena estirada
 	- Que suene onírico, ancestral
-- Tema de exploración:
+- *Tema de exploración:*
 	- Debe servir para: menú, explorar, pelear contra enemigos comunes y para cuando dialogamos
 	- Bombo
 	- Charango arpegiado en A, charango acordes en B
 	- Sensación de viento (drones? de sikus o quenas)
 	- Melodía alargada con quena/sikus/otro
-- Tema bossfight:
+- *Tema bossfight:*
 	- Bombo + caja. Darle sensación tribal
 	- Ostinatos (con qué instru?)
 	- Motivos cortos de viento madera (pregunta y respuesta rítmica)
@@ -50,6 +50,9 @@ Enemigos: espíritus deformados por el exceso: burla, alcohol, olvido del ritual
 - Más ruidosos
 - Ritmos rotos
 - Sonidos más ásperos
+Amigos:
+- Voces filtradas (low-pass)
+- Doble capa (una grave y una muy)
 
 Main character: 
 - ¿Que arma tiene? Hasta ahora melee
