@@ -15,3 +15,6 @@ Instrumentos:
 - Voces varias a lo lejos quedaría épico. Ver refe
 - Cascabeles (forman parte del traje de diablo del carnaval)
 - Silbato puede ser
+
+Lore:
+El diablo es una figura ambigue y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano
