@@ -2,6 +2,9 @@ Conecta con [[Game jams]]
 
 Refe: [El desentierro del Diablo | Carnaval De Jujuy](https://www.youtube.com/watch?v=WkVMnkA_ApA)
 
+Lore:
+El diablo es una figura ambigua y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano.
+
 Música:
 - Carnaval de Jujuy
 - El desentierro del diablo
@@ -29,8 +32,6 @@ Instrumentos:
 - Silbato puede ser
 - Según gpt: sikus/zampoñas, quenas, charango, bombo leguero, cajas andinas, cascabeles/semillas
 
-Lore:
-El diablo es una figura ambigua y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano.
 
 Sound design:
 
