@@ -125,12 +125,9 @@ _(no hace falta completar todo)_
 
 ---
 
-## 🧠 Meta-nota (Obsidian mode)
-- ¿Esto conecta con algo más?  
-  `[[proyecto]] [[idea]] [[bloqueo]]`
-- ¿Alguna de estas ideas merece nota propia? ☐
-- Tags suaves:  
-  `#diaria #animo/ #creatividad/`
+#### 🧠 Conecta con:
+
+#### Tags:
 
 ---
 ---
