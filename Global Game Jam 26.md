@@ -27,9 +27,10 @@ Música:
 	- Sensación de viento (drones? de sikus o quenas)
 	- Melodía alargada con quena/sikus/otro
 - Tema bossfight:
-	- Bombo + caja
+	- Bombo + caja. Darle sensación tribal
 	- Ostinatos (con qué instru?)
 	- Motivos cortos de viento madera (pregunta y respuesta rítmica)
+	- Puede terminar con golpe seco (no complicar programación)
 
 
 Instrumentos:
