@@ -6,6 +6,7 @@ Música:
 - Carnaval de Jujuy
 - El desentierro del diablo
 - Carnavalito? Comparar con refe del video (1st tema)
+- "Música ritual"
 
 Instrumentos:
 - Charango
@@ -17,4 +18,13 @@ Instrumentos:
 - Silbato puede ser
 
 Lore:
-El diablo es una figura ambigue y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano
+El diablo es una figura ambigue y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano.
+
+Sound design:
+**Enemigos: Espíritus deformados por el exceso: burla, alcohol, olvido del ritual.
+
+- Más ruidosos
+    
+- Ritmos rotos
+    
+- Sonidos más ásperos
