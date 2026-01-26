@@ -125,12 +125,10 @@ _(elegir una o escribir otra)_
 ---
 
 ## 🌙 Mini cierre
-- Algo por lo que agradezco hoy:
-- Algo que solté:
-- Cómo me iría a dormir si hoy terminara acá:
 - Pregunta que ronda en mi cabeza:
 - Necesito ser guiado en:
-... por la mañana quizás escuche alguna *respuesta*
+*... por la mañana quizás escuche alguna respuesta*
+
 
 ---
 
