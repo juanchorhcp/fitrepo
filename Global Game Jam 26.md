@@ -30,7 +30,7 @@ Instrumentos:
 - Según gpt: sikus/zampoñas, quenas, charango, bombo leguero, cajas andinas, cascabeles/semillas
 
 Lore:
-El diablo es una figura ambigue y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano.
+El diablo es una figura ambigua y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano.
 
 Sound design:
 
@@ -41,4 +41,7 @@ Enemigos: espíritus deformados por el exceso: burla, alcohol, olvido del ritual
 
 Main character: 
 - ¿Que arma tiene? Hasta ahora melee
-- 3 formas: humano, traje serpiente, traje 2
+- 3 formas: 
+	- humano: footsteps
+	- traje serpiente: sonido de cascabel?, sonido de siseo?
+	- traje 2:
