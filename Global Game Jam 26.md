@@ -20,6 +20,8 @@ Música:
 	- Reverbs largas tipo paisaje (¿cómo se logra?)
 	- Drones con quena estirada
 	- Que suene onírico, ancestral
+- Tema de exploración:
+	- Debe servir para: menú
 
 
 Instrumentos:
