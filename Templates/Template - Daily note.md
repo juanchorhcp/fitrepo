@@ -98,7 +98,7 @@ _(no hace falta completar todo)_
 - 📝 **Idea de plot:**  
   
 ---
-## 🪞 Pregunta del día
+## 🪞❓❔ Pregunta del día
 *Ej: ¿Qué estoy evitando mirar? ¿Esto es miedo o intuición? ¿Qué necesita mi parte creativa hoy? ¿Estoy creando o solo preparándome para crear?*
 
 ---
@@ -115,8 +115,7 @@ _(no hace falta completar todo)_
 
 #### 🧠 Conecta con:
 
-#### 🏷Tags:
-
+#### 🏷Tags: [[Daily Notes]]
 ---
 ---
 ### Notes created today
