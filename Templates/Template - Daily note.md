@@ -44,7 +44,8 @@ _(escribir sin filtro, sin corregir, sin releer)_
 
 ## 🎯 Algo que me gustaría hacer hoy
 _(realista, humano, no épico)_
- - [ ] 
+- [ ] 
+
 ---
 
 ## 🧠 Algo con lo que estoy struggling
