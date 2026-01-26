@@ -1,0 +1,3 @@
+Título:
+BPM:
+Tonalidad
