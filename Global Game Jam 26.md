@@ -39,4 +39,6 @@ Enemigos: espíritus deformados por el exceso: burla, alcohol, olvido del ritual
 - Ritmos rotos
 - Sonidos más ásperos
 
-Main character: ¿Que arma tiene? ¿Lleva un traje
+Main character: 
+- ¿Que arma tiene? Hasta ahora melee
+- 3 formas: humano, traje serpiente, traje 2
