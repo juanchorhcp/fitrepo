@@ -5,7 +5,7 @@ Refe: [El desentierro del Diablo | Carnaval De Jujuy](https://www.youtube.com/wa
 Música:
 - Carnaval de Jujuy
 - El desentierro del diablo
-- Carnavalito? Comparar con refe del video (1st tema)
+- Carnavalito? Comparar con refe del video (1st tema). El compás es de 2/4 (escuchar para ver como debe sentirse)
 - "Música ritual"
 
 Instrumentos:
@@ -21,10 +21,8 @@ Lore:
 El diablo es una figura ambigue y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano.
 
 Sound design:
-**Enemigos: Espíritus deformados por el exceso: burla, alcohol, olvido del ritual.
 
+Enemigos: espíritus deformados por el exceso: burla, alcohol, olvido del ritual.
 - Más ruidosos
-    
 - Ritmos rotos
-    
 - Sonidos más ásperos
