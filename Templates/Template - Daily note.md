@@ -120,11 +120,11 @@ _(no hace falta completar todo)_
 - 📕 **Libro de hoy:** 
 - 🗺️ **Idea de mundo / escenario:**
 - 👤 **Personaje de hoy:**
-- ⚔️ **Fraseinteresante:**
-- 🎭 **Tono emocional del juego hoy:**  
+- ✍🏼 **Frase interesante:** 
+- 🎭 **Tono emocional del libro hoy:**  
   (opresivo / lúdico / melancólico / absurdo / tenso)
-- 🔊 **Idea de sonido para gameplay:**  
-  (ataque, UI, ambiente, feedback)
+- 📝 **Idea de plot:**  
+  
 ---
 ## 🪞 Pregunta del día
 _(elegir una o escribir otra)_
