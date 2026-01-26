@@ -34,7 +34,118 @@ tags: [[Daily Notes]]
 
 # 📝 Notes
 - <% tp.file.cursor() %>
+# 🗓️ {{date:YYYY-MM-DD}} — Nota diaria
 
+## 🌅 Página matutina
+_(escribir sin filtro, sin corregir, sin releer)_
+
+---
+
+## 🌅 Check-in rápido
+- **Cómo me siento (1 palabra):**
+- **Nivel de energía:** 🔋▢▢▢▢▢
+- **Clima interno:** (calmo / ansioso / disperso / enfocado / nublado)
+
+---
+
+## 🎯 Algo que me gustaría hacer hoy
+_(realista, humano, no épico)_
+
+---
+
+## 🧠 Algo con lo que estoy struggling
+- ¿Qué lo hace difícil?
+- ¿Qué emoción aparece primero?
+
+---
+
+## 💭 En qué está girando mi cabeza
+- Pensamiento recurrente:
+- Preocupación no invitada:
+- Idea que apareció sin contexto:
+
+---
+
+## ✨ Algo que me emociona
+_(aunque sea chiquito o a futuro)_
+
+---
+
+## 🧠 Algo que pensé ayer
+_(rescate del día anterior)_
+
+---
+
+## 🎯 UNA sola cosa (anti-overwhelm)
+**Si hoy solo hiciera UNA cosa, sería:**
+
+---
+
+## 🧩 Micro-victorias
+- Algo que hice bien hoy:
+- Algo que evité hacer y estuvo bien:
+
+---
+
+## 🎨 Chispa creativa (captura rápida)
+- Imagen / escena:
+- Sonido / textura / ruido:
+- Frase suelta:
+- Idea sin juzgar:
+
+---
+
+## 🎵 Registro creativo — Música & Sonido
+_(no hace falta completar todo)_
+
+- 🎧 **Sonido del día:**  
+  (ambiente, ruido, textura, sample mental)
+- 🧪 **Idea sonora:**  
+  (procesamiento, efecto, cadena, concepto)
+- 🎼 **Estado musical:**  
+  (armónico / rítmico / atmosférico / caótico / minimal)
+- 🧠 **Referencia que apareció:**  
+  (tema, OST, artista, juego, película)
+- 🛠️ **¿Probé algo técnico hoy?**  
+  (plugin, mic, técnica, error interesante)
+
+---
+
+## 🎮 Registro creativo — Juegos / Mundos
+- 🗺️ **Idea de mundo / escenario:**
+- 👤 **Personaje que apareció hoy:**
+- ⚔️ **Mecánica o interacción interesante:**
+- 🎭 **Tono emocional del juego hoy:**  
+  (opresivo / lúdico / melancólico / absurdo / tenso)
+- 🔊 **Idea de sonido para gameplay:**  
+  (ataque, UI, ambiente, feedback)
+
+---
+
+## 🪞 Pregunta del día
+_(elegir una o escribir otra)_
+- ¿Qué estoy evitando mirar?
+- ¿Esto es miedo o intuición?
+- ¿Qué necesita mi parte creativa hoy?
+- ¿Estoy creando o solo preparándome para crear?
+
+---
+
+## 🌙 Mini cierre
+- Algo por lo que agradezco hoy:
+- Algo que solté:
+- Cómo me iría a dormir si hoy terminara acá:
+
+---
+
+## 🧠 Meta-nota (Obsidian mode)
+- ¿Esto conecta con algo más?  
+  `[[proyecto]] [[idea]] [[bloqueo]]`
+- ¿Alguna de estas ideas merece nota propia? ☐
+- Tags suaves:  
+  `#diaria #animo/ #creatividad/`
+
+---
 ---
 ### Notes created today
 ```dataview
