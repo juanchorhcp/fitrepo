@@ -1,5 +1,6 @@
 # Compartir la Global Game Jam (26 enero al 2 de febrero)
 
+
 # Mostrar riff y riff con variaciones
 
 # Cómo hice la música del trailer
