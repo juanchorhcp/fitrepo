@@ -1,3 +1,8 @@
 Título:
 BPM:
-Tonalidad
+Tonalidad:
+Sensaciones:
+Su idea principal es:
+Habla de:
+
+## Letra
