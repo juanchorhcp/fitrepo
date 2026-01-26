@@ -3,4 +3,10 @@ date: YYYY/MM/DD
 tags:
 created:
 ---
-#Horario
+# Horario
+
+# Dónde
+# Notas
+
+
+# Tareas
