@@ -4,6 +4,25 @@ Refe: [El desentierro del Diablo | Carnaval De Jujuy](https://www.youtube.com/wa
 
 Lore:
 El diablo es una figura ambigua y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano.
+Persona se encuentra con un carnaval lleno de espíritus y cuando se acerca a investigar encuentra una mascara que le da poderes espirituales. El prota quiere averiguar porque ya no se celebran estos carnavales. Hay espíritus buenos y malos . El villano quiere explotar/usar a los espíritus para su beneficio(?
+
+Carnaval de la Pachamama y los espíritus que protegen la Tierra
+
+Pujllay es de los ultimos que siguen la tradicion del carnaval hasta que desaparece y uno de los espiritus buenos le pide ayuda al protagonista para ver que fue lo que le paso. Descubrimos que hay personas que quieren destruir el medio ambiente O quieren usar los poderes de los espiritus, los espiritus violentos son asi porque estan resentidos con los humanos, pero los buenos todavia creen en que hay personas buenas y por eso nos ayudan. El villano engaño a una deidad poderosa para que lo ayude a hacer sus maldades sin saberlo
+
+- Espíritus buenos (los que respetan el ciclo). Al terminar el carnaval:
+    
+    - El diablo se vuelve a enterrar
+        
+    - Se pide perdón a la tierra
+        
+    - Se restaura el orden
+        
+- Espíritus malos (los que quieren alargar el ritual).
+    
+    - Ritual equivale a: excesos, caos, "todo está permitido"
+        
+    - El villano conecta con la deidad para que el ciclo no se cierre y persista el caos (para nosotros el caos puede ser que haya espíritus malos por doquier)
 
 --- 
 
