@@ -48,13 +48,15 @@ Sound design:
 
 Enemigos: espíritus deformados por el exceso: burla, alcohol, olvido del ritual.
 - Más ruidosos
-- Respiración exagerada
-- Ritmos rotos
+- Respiración exagerada?
+- Murmullos lejanos?
 - Sonidos más ásperos
 Amigos:
 1. Voces filtradas (low-pass)
 2. Doble capa (una grave y una muy highpasseada)
 3. Susurros
+
+Footsteps: pasos sobre tierra seca?
 
 Main character: 
 - ¿Que arma tiene? Hasta ahora melee
