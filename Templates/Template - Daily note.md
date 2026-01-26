@@ -51,13 +51,6 @@ _(rescate del día anterior)_
 - Algo que hice bien ayer/hoy:
 - Algo que evité hacer y estuvo bien:
 
----
-
-## 🎨 Chispa creativa (captura rápida)
-- Imagen / escena:
-- Sonido / textura / ruido:
-- Frase:
-- Idea sin juzgar:
 
 ---
 
@@ -65,14 +58,14 @@ _(rescate del día anterior)_
 _(no hace falta completar todo)_
 
 - 🎧 **Sonido del día:**  
-  (ambiente, ruido, textura, sample mental)
+  *(ambiente, ruido, textura, sample mental)*
 - 🧪 **Idea sonora:**  
-  (procesamiento, efecto, cadena, concepto)
+  *(procesamiento, efecto, cadena, concepto)*
 - 🎼 **Canción del día:**
-- 🧠 **Referencia que apareció:**  
-  (tema, OST, artista, juego, película)
-- 🛠️ **¿Probé algo técnico hoy?**  
-  (plugin, mic, técnica, error interesante)
+- 🧠 **Música que apareció:**  
+  *(tema, OST, artista, juego, película*)
+- 🛠️ **Algo técnico:**  
+  *(plugin, mic, técnica, error interesante)*
 
 ---
 
