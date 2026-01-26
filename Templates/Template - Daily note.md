@@ -25,8 +25,7 @@ _(escribir sin filtro, sin corregir, sin releer)_
 
 ## 🌅 Check-in rápido
 - **Cómo me siento (1 palabra):**
-- **Nivel de energía:** 🔋▢▢▢▢▢
-- **Clima interno:** (calmo / ansioso / disperso / enfocado / nublado)
+- 🔋**Nivel de energía:**  /10
 
 ---
 
