@@ -64,7 +64,7 @@ Enemigos:
 
 Amigos:
 1. Amigo 1: Voces filtradas (low-pass)
-2. Amigo 2: Doble capa (una grave y una muy highpasseada)
+2. Amigo 2: Doble capa (una grave y una muy high-passeada)
 3. Amigo 3: Susurros
 
 Footsteps: pasos sobre tierra seca?
