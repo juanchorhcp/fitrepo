@@ -22,6 +22,16 @@ tags: [[Daily Notes]]
 - 
 
 ---
+# [[Morning pages]]
+
+
+
+
+
+
+
+---
+
 # 📝 Notes
 - <% tp.file.cursor() %>
 
