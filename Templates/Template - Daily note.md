@@ -1,7 +1,7 @@
 ---
 created: <% tp.file.creation_date() %>
 ---
-tags:: [[+Daily Notes]]
+tags: [[Daily Notes]]
 
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
@@ -9,10 +9,10 @@ tags:: [[+Daily Notes]]
 
 ---
 ### 📅 Daily Questions
-##### 🌜 Last night, after 
+##### 🌜 Algo que pense anoche:
 - 
 
-##### 🙌 One thing I'm excited about right now is...
+##### 🙌 Algo que me emociona es:
 - 
 
 ##### 🚀 One+ thing I plan to accomplish today is...
