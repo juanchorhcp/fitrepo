@@ -1,10 +1,11 @@
 # Grabado
 Reflexión: usá internet a tu favor
 
-#Reflexiones
+# Reflexiones
+- Jugamos para huir o para encontrarnos?
 # Compartir la Global Game Jam (26 enero al 2 de febrero)
 
-
+Imágenes de Virzi sobre guia de suervivencia de game am
 # Mostrar riff y riff con variaciones
 
 # Cómo hice la música del trailer
