@@ -33,52 +33,52 @@ a veces entusiasmado nerd
 Ejemplos de tono:
 ❌ “tips para triunfar como músico”
 ✅ “esto me pasó componiendo música para un juego y no me lo esperaba”
-4️⃣ Temas pilares (tu contenido gira siempre acá)
+# 4️⃣ Temas pilares (tu contenido gira siempre acá)
 Todo lo que subas debería tocar al menos uno de estos pilares:
-🎮 1. Creatividad en videojuegos
+### 🎮 1. Creatividad en videojuegos
 game jams
 música para juegos
 decisiones creativas
 errores comunes
 cosas que nadie te cuenta
-🎧 2. Proceso musical real
+### 🎧 2. Proceso musical real
 cómo grabás
 por qué elegís ciertos sonidos
 cómo nace una canción
 bloqueos creativos
 probar y fallar
-🧠 3. Reflexiones creativas
+### 🧠 3. Reflexiones creativas
 crear vs consumir
 frustración creativa
 identidad artística
 motivación (sin frases vacías)
-📚 4. Cultura que te inspira
+### 📚 4. Cultura que te inspira
 juegos
 libros
 música
 historias que te marcaron
-5️⃣ Frase guía de tu marca (esto es ORO)
+# 5️⃣ Frase guía de tu marca (esto es ORO)
 No es un slogan para poner en bio, es para que vos tengas claro qué hacés.
 Algunas opciones (elegí la que más te represente o la ajustamos):
 “Pienso en voz alta sobre crear música y juegos.”
 “Creatividad real, sin glamour, desde adentro.”
 “Hablo de crear: música, juegos y todo lo que pasa en el medio.”
 “Proceso creativo > resultado final.”
-6️⃣ Qué NO sos (esto también define marca)
+# 6️⃣ Qué NO sos (esto también define marca)
 Importante para no desviarte:
 ❌ No sos motivacional vacío
 ❌ No sos tutorialista técnico extremo
 ❌ No sos influencer de trends
 ❌ No sos experto inalcanzable
 ✔ Sos alguien caminando el camino, invitando a otros a mirar.
-7️⃣ Cómo debería sentirse alguien que te sigue
+# 7️⃣ Cómo debería sentirse alguien que te sigue
 Después de ver un video tuyo, la persona piensa:
 “esto me hizo pensar”
 “no estoy solo creando”
 “me dieron ganas de probar”
 “no todo tiene que ser perfecto”
 Ese es tu impacto.
-8️⃣ Próximo paso práctico (te propongo esto)
+# 8️⃣ Próximo paso práctico (te propongo esto)
 Si querés, en el próximo mensaje puedo:
 definir tu bio exacta para TikTok / Instagram
 armar 3 formatos fijos de video (ej: reflexión corta, proceso, storytime creativo)
