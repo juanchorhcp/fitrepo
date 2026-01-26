@@ -9,7 +9,7 @@ tags:: [[+Daily Notes]]
 
 ---
 ### 📅 Daily Questions
-##### 🌜 Last night, after work, I...
+##### 🌜 Last night, after 
 - 
 
 ##### 🙌 One thing I'm excited about right now is...
