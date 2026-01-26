@@ -5,6 +5,8 @@ Refe: [El desentierro del Diablo | Carnaval De Jujuy](https://www.youtube.com/wa
 Lore:
 El diablo es una figura ambigua y terrenal ligada a la Pachamama, la fertilidad, el caos festivo y lo instintivo/humano.
 
+--- 
+
 Música:
 - Carnaval de Jujuy
 - El desentierro del diablo
@@ -43,20 +45,9 @@ Instrumentos:
 - Silbato puede ser
 - Según gpt: sikus/zampoñas, quenas, charango, bombo leguero, cajas andinas, cascabeles/semillas
 
+--- 
 
 Sound design:
-
-Enemigos: espíritus deformados por el exceso: burla, alcohol, olvido del ritual.
-- Más ruidosos
-- Respiración exagerada?
-- Murmullos lejanos?
-- Sonidos más ásperos
-Amigos:
-1. Voces filtradas (low-pass)
-2. Doble capa (una grave y una muy highpasseada)
-3. Susurros
-
-Footsteps: pasos sobre tierra seca?
 
 Main character: 
 - ¿Que arma tiene? Hasta ahora melee
@@ -64,3 +55,16 @@ Main character:
 	- humano: footsteps
 	- traje serpiente: sonido de cascabel?, sonido de siseo?
 	- traje 2:
+Enemigos: espíritus deformados por el exceso: burla, alcohol, olvido del ritual.
+- Más ruidosos
+- Respiración exagerada?
+- Murmullos lejanos?
+
+Amigos:
+1. Voces filtradas (low-pass)
+2. Doble capa (una grave y una muy highpasseada)
+3. Susurros
+
+Footsteps: pasos sobre tierra seca?
+
+
