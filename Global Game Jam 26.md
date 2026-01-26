@@ -21,7 +21,11 @@ Música:
 	- Drones con quena estirada
 	- Que suene onírico, ancestral
 - Tema de exploración:
-	- Debe servir para: menú
+	- Debe servir para: menú, explorar, pelear contra enemigos comunes y para cuando dialogamos
+	- Bombo
+	- Charango arpegiado
+- Tema bossfight:
+	- Bombo + caja
 
 
 Instrumentos:
