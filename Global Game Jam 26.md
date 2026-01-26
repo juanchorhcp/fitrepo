@@ -7,4 +7,5 @@ Música:
 Instrumentos:
 - Charango
 - Gtr acústica
-- 
+- Vientos madera (buscar autóctonos de Jujuy o más bien Argentina)
+- Perc: bombo
