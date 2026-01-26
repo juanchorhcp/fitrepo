@@ -63,9 +63,9 @@ Enemigos:
 - Murmullos lejanos?
 
 Amigos:
-1. Voces filtradas (low-pass)
-2. Doble capa (una grave y una muy highpasseada)
-3. Susurros
+1. Amigo 1: Voces filtradas (low-pass)
+2. Amigo 2: Doble capa (una grave y una muy highpasseada)
+3. Amigo 3: Susurros
 
 Footsteps: pasos sobre tierra seca?
 
