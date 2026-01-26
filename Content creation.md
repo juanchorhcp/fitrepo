@@ -1,3 +1,7 @@
+# Grabado
+Reflexión: usá internet a tu favor
+
+#Reflexiones
 # Compartir la Global Game Jam (26 enero al 2 de febrero)
 
 
