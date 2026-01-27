@@ -22,6 +22,9 @@ También se puede !success !warning !info !example !quote !failure !question , e
 + Guión
 + Signo más
 
+%%comentario - esto no sale en la reading view%%
+
+|tablas|columna 2|columna 3|
 
 
 
