@@ -27,7 +27,9 @@ Contame que otro tip esenciale tenés para las game jams en los comentarios
 Conocer al equipo
 Rescatar de la idea general lo que mas necesito saber o definir
 Empezar a hacer mi documento de audio(texto) y mi tabla de assets de sonido(excel) y los comparto con el equipo
-Buscar referencias sonoras
+Buscar referencias sonoras, mirar todas las referencias visuales
+Anotar todo: instrumentos que puedo usar, sensaciones que quiera transmitir, características de pj y entornos que quiero resaltar
+
 
 
 
