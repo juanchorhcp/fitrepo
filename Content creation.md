@@ -29,7 +29,8 @@ Rescatar de la idea general lo que mas necesito saber o definir
 Empezar a hacer mi documento de audio(texto) y mi tabla de assets de sonido(excel) y los comparto con el equipo
 Buscar referencias sonoras, mirar todas las referencias visuales
 Anotar todo: instrumentos que puedo usar, sensaciones que quiera transmitir, características de pj y entornos que quiero resaltar
-Gralmente hago 2 canciones, aunque he hecho 1 y otras veces hasta 6, asi que hay que definir para que
+Gralmente hago 2 canciones, aunque he hecho 1 y otras veces hasta 6, asi que hay que definir para que seria cada una. En este caso van a ser una musica de exploracion/combate y una musica de jefe final.
+Trato de darle carácter a la música sin depender de muchos cambios en tiempo real ya que el equipo de programadores ya tiene much
 
 
 
