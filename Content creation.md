@@ -8,7 +8,9 @@ Reflexión: usá internet a tu favor
 Arrancó la GGJ 2026 y esta es una guía de supervivencia para esta semana creando un videojuego
 Shoutout a mi compañera Virzi por compartirla.
 
-La mayoría de las jams son de 48 hs y trabajando con gente que no conocemos así que optimiz
+La mayoría de las jams son de 48 hs y trabajando con gente que no conocemos así que optimizar cada momento es clave para lograr un lindo producto final
+
+Primeras horas: 
 # Mostrar riff y riff con variaciones
 
 # Cómo hice la música del trailer
