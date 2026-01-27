@@ -9,9 +9,9 @@ Descubrimiento (para llegar a gente nueva)
 2 de alcance (#parati,#fyp)
 
 📸 INSTAGRAM
-menos hashtags (5)
-más “limpios”
-muy bien definidos por nicho
+Menos hashtags (5)
+Más “limpios”
+Muy bien definidos por nicho
 
 
 🧠 Storytime / reflexiones
@@ -57,8 +57,8 @@ muy bien definidos por nicho
 #creativetok
 ```
 
-🎧 Música + game jams / sonido para juegos
-(acá tenés un nicho MUY bueno)
+🎧 Música - game jams - sonido para juegos
+(nicho MUY bueno)
 ```
 #musicaparajuegos
 #sounddesign
@@ -69,7 +69,6 @@ muy bien definidos por nicho
 #gamedevmusic
 #indiegames
 ```
-
 
 🎼 Proceso creativo / grabación / composición
 ```
@@ -83,10 +82,7 @@ muy bien definidos por nicho
 #creatividad
 ```
 
-
-
 🧠 Storytime / reflexiones
-
 ```
 #reflexiones
 #pensamientos
@@ -98,7 +94,6 @@ muy bien definidos por nicho
 ```
 
 🎮 Juegos / game dev
-
 ```#gamedev
 #indiedev
 #videojuegos
@@ -109,7 +104,6 @@ muy bien definidos por nicho
 ```
 
 🎧 Música / composición / audio
-
 ```
 #musica
 #composicion
@@ -122,7 +116,6 @@ muy bien definidos por nicho
 ```
 
 📚 Libros / cultura
-
  ```
 #libros
 #lecturas
