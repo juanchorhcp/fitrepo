@@ -1,0 +1,1 @@
+Idea: voz que narra artisticamente entre cada sección del álbum. Cada sección se corresponde con un juego distinto. Así, se va tematizando cada sección. 
