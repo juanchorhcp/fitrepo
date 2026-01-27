@@ -7,6 +7,7 @@ descubrimiento (para llegar a gente nueva)
 🧠 Storytime / reflexiones
 
 
+```
 #storytime
 #reflexiones
 #pensamientos
@@ -17,9 +18,11 @@ descubrimiento (para llegar a gente nueva)
 #tiktokargentina
 #parati
 #fyp 
+```
 
 🎮 Juegos / recomendaciones / game jams
 
+```
 #gamedev
 #indiedev
 #gamedevlatam
@@ -30,10 +33,12 @@ descubrimiento (para llegar a gente nueva)
 #devlog
 #gametok
 #gaminglatam
+```
 
 📚 Libros / música / recomendaciones culturales
 
 
+```
 #recomendaciones
 #libros
 #lecturas
@@ -43,10 +48,12 @@ descubrimiento (para llegar a gente nueva)
 #creatividad
 #inspiracion
 #creativetok
+```
 🎧 Música + game jams / sonido para juegos
 (acá tenés un nicho MUY bueno)
 Copiar código
 
+```
 #musicaparajuegos
 #sounddesign
 #audiogame
@@ -55,10 +62,12 @@ Copiar código
 #musicaparavideojuegos
 #gamedevmusic
 #indiegames
+```
 
 🎼 Proceso creativo / grabación / composición
 
 
+```
 #procesocreativo
 #musicaoriginal
 #compositor
@@ -67,6 +76,7 @@ Copiar código
 #musicprocess
 #behindthescenes
 #creatividad
+```
 
 👉 Tip TikTok:
 Usá entre 5 y 9 hashtags.
@@ -123,5 +133,4 @@ Usá entre 5 y 12.
 #arte
 #inspiracion
 #recomendaciones```
-
-[^1]: 
+ 
