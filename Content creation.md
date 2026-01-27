@@ -5,7 +5,7 @@ Reflexión: usá internet a tu favor
 - Jugamos para huir o para encontrarnos?
 # Compartir la Global Game Jam (26 enero al 2 de febrero)
 
-Arrancó la GGJ 2026 y esta es una guía de supervivencia para esta semana creando un videojuego
+Arrancó la GGJ 2026 y esta es una guía de supervivencia para crear un videojuego
 Shoutout a mi compañera Virzi por compartirla.
 
 La mayoría de las jams son de 48 hs y trabajando con gente que no conocemos así que optimizar cada momento es clave para lograr un lindo producto final -  *(blanco y negro) si no sabes lo que es una jam te lo explico en la descripción*
