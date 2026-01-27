@@ -1,11 +1,12 @@
-# tiGrabado
+# ✅Grabado
 Reflexión: usá internet a tu favor
 
 # Reflexiones
 - Jugamos para huir o para encontrarnos?
 # Compartir la Global Game Jam (26 enero al 2 de febrero)
 
-Imágenes de Virzi sobre guia de suervivencia de game am
+Arrancó la GGJ 2026 y 
+Shoutout a Virzi por pasar esta guía de supervivencia
 # Mostrar riff y riff con variaciones
 
 # Cómo hice la música del trailer
