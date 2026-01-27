@@ -5,8 +5,10 @@ Reflexión: usá internet a tu favor
 - Jugamos para huir o para encontrarnos?
 # Compartir la Global Game Jam (26 enero al 2 de febrero)
 
-Arrancó la GGJ 2026 y 
-Shoutout a Virzi por pasar esta guía de supervivencia
+Arrancó la GGJ 2026 y esta es una guía de supervivencia para esta semana creando un videojuego
+Shoutout a mi compañera Virzi por compartirla.
+
+La mayoría de las jams son de 48 hs y trabajando con gente que no conocemos así que optimiz
 # Mostrar riff y riff con variaciones
 
 # Cómo hice la música del trailer
