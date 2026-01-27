@@ -3,6 +3,7 @@ En TikTok conviene mezclar:
 nicho específico (lo que hablás)
 formato (storytime, reflexión, proceso)
 descubrimiento (para llegar a gente nueva)
+
 🧠 Storytime / reflexiones
 
 ```
@@ -54,8 +55,9 @@ Copiar código
 #musicaparavideojuegos
 #gamedevmusic
 #indiegames
+
 🎼 Proceso creativo / grabación / composición
-Copiar código
+
 
 #procesocreativo
 #musicaoriginal
@@ -65,6 +67,7 @@ Copiar código
 #musicprocess
 #behindthescenes
 #creatividad
+
 👉 Tip TikTok:
 Usá entre 5 y 9 hashtags.
 Ejemplo combo ideal:
@@ -77,8 +80,8 @@ menos hashtags
 más “limpios”
 muy bien definidos por nicho
 Usá entre 5 y 12.
+
 🧠 Storytime / reflexiones
-Copiar código
 
 #reflexiones
 #pensamientos
@@ -88,9 +91,8 @@ Copiar código
 #ideas
 #vida
 🎮 Juegos / game dev
-Copiar código
-```
-#gamedev
+
+```#gamedev
 #indiedev
 #videojuegos
 #juegosindie
@@ -99,7 +101,7 @@ Copiar código
 #creadores ```
 🎧 Música / composición / audio
 
-```
+
 #musica
 #composicion
 #sounddesign
@@ -110,10 +112,10 @@ Copiar código
 #homestudio```
 
 📚 Libros / cultura
-
+ ```
 #libros
 #lecturas
 #cultura
 #arte
 #inspiracion
-#recomendaciones
+#recomendaciones```
