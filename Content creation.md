@@ -23,7 +23,7 @@ Si todo va sobre ruedas acá es donde se pule la estética, se corrigen los bugs
 Contame que otro tip esenciale tenés para las game jams en los comentarios
 
 
-### Guía de audio
+### Guía de audio para jams
 Conocer al equipo
 Rescatar de la idea general lo que mas necesito saber o definir
 Empezar a hacer mi documento de audio(texto) y mi tabla de assets de sonido(excel) y los comparto con el equipo
