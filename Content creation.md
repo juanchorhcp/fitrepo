@@ -5,6 +5,7 @@ GGJ2026
 - Jugamos para huir o para encontrarnos?
 # Compartir la Global Game Jam (26 enero al 2 de febrero)
 
+### Guía de supervivencia
 Arrancó la GGJ 2026 y esta es una guía de supervivencia para crear un videojuego
 *(blanco y negro) si no sabes lo que es una jam te lo explico en la descripción*
 
@@ -20,6 +21,11 @@ Puliendo:
 Si todo va sobre ruedas acá es donde se pule la estética, se corrigen los bugs grosos y se mejora la implementación del audio. Se puede compartir el juego con mentores y el más libre del grupo para que vaya armando la página de itch.io así queda bien bonita para que se pueda subir la build final!
 
 Contame que otro tip esenciale tenés para las game jams en los comentarios
+
+
+### Guía de audio
+
+
 
 
 
