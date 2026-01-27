@@ -4,8 +4,8 @@ nicho específico (lo que hablás)
 formato (storytime, reflexión, proceso)
 descubrimiento (para llegar a gente nueva)
 🧠 Storytime / reflexiones
-Copiar código
 
+```
 #storytime
 #reflexiones
 #pensamientos
@@ -15,7 +15,8 @@ Copiar código
 #creadoresdetiktok
 #tiktokargentina
 #parati
-#fyp
+#fyp ```
+
 🎮 Juegos / recomendaciones / game jams
 Copiar código
 
@@ -88,14 +89,14 @@ Copiar código
 #vida
 🎮 Juegos / game dev
 Copiar código
-
+```
 #gamedev
 #indiedev
 #videojuegos
 #juegosindie
 #gamedevlatam
 #devlife
-#creadores
+#creadores ```
 🎧 Música / composición / audio
 
 ```
