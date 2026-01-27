@@ -1,4 +1,4 @@
-# Grabado
+# tiGrabado
 Reflexión: usá internet a tu favor
 
 # Reflexiones
