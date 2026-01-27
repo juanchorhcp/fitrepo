@@ -1,12 +1,23 @@
 🎥 TIKTOK
-En TikTok conviene mezclar:
 nicho específico (lo que hablás)
 formato (storytime, reflexión, proceso)
 descubrimiento (para llegar a gente nueva)
+👉TikTok:
+Usá entre 5 y 9 hashtags.
+Ejemplo combo ideal:
+2 de formato (#storytime)
+3 de nicho (#sounddesign,#gamedev)
+2 de alcance (#parati,#fyp)
+
+📸 INSTAGRAM
+En Instagram funciona mejor:
+menos hashtags
+más “limpios”
+muy bien definidos por nicho
+Usá 5
+
 
 🧠 Storytime / reflexiones
-
-
 ```
 #storytime
 #reflexiones
@@ -20,8 +31,8 @@ descubrimiento (para llegar a gente nueva)
 #fyp 
 ```
 
-🎮 Juegos / recomendaciones / game jams
 
+🎮 Juegos / recomendaciones / game jams
 ```
 #gamedev
 #indiedev
@@ -35,9 +46,8 @@ descubrimiento (para llegar a gente nueva)
 #gaminglatam
 ```
 
+
 📚 Libros / música / recomendaciones culturales
-
-
 ```
 #recomendaciones
 #libros
@@ -49,10 +59,9 @@ descubrimiento (para llegar a gente nueva)
 #inspiracion
 #creativetok
 ```
+
 🎧 Música + game jams / sonido para juegos
 (acá tenés un nicho MUY bueno)
-Copiar código
-
 ```
 #musicaparajuegos
 #sounddesign
@@ -64,9 +73,8 @@ Copiar código
 #indiegames
 ```
 
+
 🎼 Proceso creativo / grabación / composición
-
-
 ```
 #procesocreativo
 #musicaoriginal
@@ -78,19 +86,7 @@ Copiar código
 #creatividad
 ```
 
-👉TikTok:
-Usá entre 5 y 9 hashtags.
-Ejemplo combo ideal:
-2 de formato (#storytime)
-3 de nicho (#sounddesign,#gamedev)
-2 de alcance (#parati,#fyp)
 
-📸 INSTAGRAM
-En Instagram funciona mejor:
-menos hashtags
-más “limpios”
-muy bien definidos por nicho
-Usá entre 5 y 12.
 
 🧠 Storytime / reflexiones
 
