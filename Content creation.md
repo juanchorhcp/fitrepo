@@ -17,7 +17,7 @@ Prototipado:
 Así con una sola mecánica central y un principio-final claro nos lanzamos a crear el prototipo. Acá me gusta mucho recalcar que la comunicación es clave. No hace falta estar hablando todo el tiempo, pero sí usar moodboards para compartir referencias visuales, actualizarse a medida que avanzamos (ej si el pj pega a distancia o cuerpo a cuerpo) y tratar de que todos vayan en sintonía. Es muy fácil mezclarse ideas cuando cada uno cumple distintos roles!
 
 Puliendo:
-Si todo va sobre ruedas acá es donde se mejora la estética, se corrigen los bugs grosos y se mejora la implementación del audio.
+Si todo va sobre ruedas acá es donde se mejora la estética, se corrigen los bugs grosos y se mejora la implementación del audio. Acá hay que asignar al más libre del grupo para que vaya armando la página de itch.io así queda b
 
 
 
