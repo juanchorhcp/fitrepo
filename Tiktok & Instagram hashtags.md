@@ -78,14 +78,14 @@ Copiar código
 #creatividad
 ```
 
-👉 Tip TikTok:
+👉TikTok:
 Usá entre 5 y 9 hashtags.
 Ejemplo combo ideal:
 2 de formato (#storytime)
 3 de nicho (#sounddesign,#gamedev)
 2 de alcance (#parati,#fyp)
 
-📸 INSTAGRAM (Reels)
+📸 INSTAGRAM
 En Instagram funciona mejor:
 menos hashtags
 más “limpios”
@@ -112,10 +112,12 @@ Usá entre 5 y 12.
 #juegosindie
 #gamedevlatam
 #devlife
-#creadores ```
+#creadores
+```
+
 🎧 Música / composición / audio
 
-
+```
 #musica
 #composicion
 #sounddesign
@@ -123,14 +125,17 @@ Usá entre 5 y 12.
 #gameaudio
 #musico
 #producer
-#homestudio```
+#homestudio
+```
 
 📚 Libros / cultura
+
  ```
 #libros
 #lecturas
 #cultura
 #arte
 #inspiracion
-#recomendaciones```
+#recomendaciones
+```
  
