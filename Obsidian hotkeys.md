@@ -28,7 +28,7 @@ También se puede !success !warning !info !example !quote !failure !question , e
 
 |instertar     |    tabla |
 | --- | --- |
-|     |     |
+| :alinenado izq    | alineado der:    |
 
 
 
