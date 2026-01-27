@@ -6,7 +6,7 @@ descubrimiento (para llegar a gente nueva)
 
 🧠 Storytime / reflexiones
 
-```
+
 #storytime
 #reflexiones
 #pensamientos
@@ -16,10 +16,9 @@ descubrimiento (para llegar a gente nueva)
 #creadoresdetiktok
 #tiktokargentina
 #parati
-#fyp ```
+#fyp 
 
 🎮 Juegos / recomendaciones / game jams
-Copiar código
 
 #gamedev
 #indiedev
@@ -31,8 +30,9 @@ Copiar código
 #devlog
 #gametok
 #gaminglatam
+
 📚 Libros / música / recomendaciones culturales
-Copiar código
+
 
 #recomendaciones
 #libros
@@ -89,7 +89,8 @@ Usá entre 5 y 12.
 #creadoresdecontenido
 #hablando
 #ideas
-#vida
+#vida```
+
 🎮 Juegos / game dev
 
 ```#gamedev
