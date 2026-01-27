@@ -8,9 +8,11 @@ Reflexión: usá internet a tu favor
 Arrancó la GGJ 2026 y esta es una guía de supervivencia para esta semana creando un videojuego
 Shoutout a mi compañera Virzi por compartirla.
 
-La mayoría de las jams son de 48 hs y trabajando con gente que no conocemos así que optimizar cada momento es clave para lograr un lindo producto final
+La mayoría de las jams son de 48 hs y trabajando con gente que no conocemos así que optimizar cada momento es clave para lograr un lindo producto final -  *(blanco y negro) si no sabes lo que es una jam te lo explico en la descripción*
 
 Primeras horas: lo ideal es hacer una buena lluvia de ideas, no todo tiene que tener lógica entre sí, hay que anotar todo lo que se venga a la mente para abrir el panorama lo más posible. Luego de ideas tanto escritas como visuales, es muy importante ponerse de acuerdo rápido y achicar el scope o alcance a la minima posibilidad... dejando como opcionales algunas features, enemigos, zonas, etc. y finalmente descartar tooodo lo demás
+
+Con esta idea jam-friendly
 # Mostrar riff y riff con variaciones
 
 # Cómo hice la música del trailer
