@@ -12,3 +12,7 @@ Acordes dominantes7
 
 Acordes disminuídos
 ![Acordes disminuídos](https://static.wixstatic.com/media/476fe9_a901d6188269493582ffd5e7ece1e00c~mv2.jpg/v1/crop/x_0,y_42,w_1341,h_506/fill/w_980,h_395,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/clases2_edited.jpg)
+
+Progresion común:
+G7 C E7 Am
+
