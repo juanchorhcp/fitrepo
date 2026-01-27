@@ -3,4 +3,7 @@ Idea: voz que narra artisticamente entre cada sección del álbum. Cada sección
 #### Juegos:
 - Aliencito
 - Mutatio adventures
-- Rada
+- Mago (Rada)
+- Desentierro del diablo
+- Hospital Penna
+- 
