@@ -12,11 +12,6 @@ _(escribir sin filtro, sin corregir, sin releer)_
 
 ---
 
-# 📝 Nota rápida 
-- <% tp.file.cursor() %>
-
----
-
 ## 🎯 Algo que me gustaría hacer hoy
 _(realista, humano, no épico)_
 
