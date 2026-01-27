@@ -1,20 +1,17 @@
 🎥 TIKTOK
-nicho específico (lo que hablás)
-formato (storytime, reflexión, proceso)
-descubrimiento (para llegar a gente nueva)
-👉TikTok:
-Usá entre 5 y 9 hashtags.
-Ejemplo combo ideal:
+Nicho específico
+Formato (storytime, reflexión, proceso)
+Descubrimiento (para llegar a gente nueva)
+
+5-9 hashtags:
 2 de formato (#storytime)
 3 de nicho (#sounddesign,#gamedev)
 2 de alcance (#parati,#fyp)
 
 📸 INSTAGRAM
-En Instagram funciona mejor:
-menos hashtags
+menos hashtags (5)
 más “limpios”
 muy bien definidos por nicho
-Usá 5
 
 
 🧠 Storytime / reflexiones
