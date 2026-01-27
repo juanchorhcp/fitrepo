@@ -12,7 +12,7 @@ La mayoría de las jams son de 48 hs y trabajando con gente que no conocemos as�
 
 Primeras horas: lo ideal es hacer una buena lluvia de ideas, no todo tiene que tener lógica entre sí, hay que anotar todo lo que se venga a la mente para abrir el panorama lo más posible. Luego de ideas tanto escritas como visuales, es muy importante ponerse de acuerdo rápido y achicar el scope o alcance a la minima posibilidad... dejando como opcionales algunas features, enemigos, zonas, etc. y finalmente descartar tooodo lo demás
 
-Así con una sola mecánica central y un principio y final claro nos lanzamos a crear. Acá me gusta mucho recalcar que la comunicación es clave. No hace falta estar hablando tood el tiempo, pero sí usar moodboards para compartir referencias visuales, actualizarse a medida que se van tomando decisiones (ej si el pj pega a distancia o cuerpo a cuerpo) y tratar de que todos vayan en sintonía. Es muy fácil mezclarse ideas cuando cada uno cumple distintos roles!
+Así con una sola mecánica central y un principio-final claro nos lanzamos a crear el prototipo. Acá me gusta mucho recalcar que la comunicación es clave. No hace falta estar hablando todo el tiempo, pero sí usar moodboards para compartir referencias visuales, actualizarse a medida que avanzamos (ej si el pj pega a distancia o cuerpo a cuerpo) y tratar de que todos vayan en sintonía. Es muy fácil mezclarse ideas cuando cada uno cumple distintos roles!
 
 
 # Mostrar riff y riff con variaciones
