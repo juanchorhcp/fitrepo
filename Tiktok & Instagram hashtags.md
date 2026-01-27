@@ -72,8 +72,9 @@ Copiar código
 Usá entre 5 y 9 hashtags.
 Ejemplo combo ideal:
 2 de formato (#storytime)
-3 de nicho (#sounddesign, #gamedev)
-2 de alcance (#parati, #fyp)
+3 de nicho (#sounddesign,#gamedev)
+2 de alcance (#parati,#fyp)
+
 📸 INSTAGRAM (Reels)
 En Instagram funciona mejor:
 menos hashtags
@@ -83,13 +84,15 @@ Usá entre 5 y 12.
 
 🧠 Storytime / reflexiones
 
+```
 #reflexiones
 #pensamientos
 #creatividad
 #creadoresdecontenido
 #hablando
 #ideas
-#vida```
+#vida
+```
 
 🎮 Juegos / game dev
 
@@ -120,3 +123,5 @@ Usá entre 5 y 12.
 #arte
 #inspiracion
 #recomendaciones```
+
+[^1]: 
