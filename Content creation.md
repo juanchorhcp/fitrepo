@@ -17,8 +17,9 @@ Prototipado:
 Así con una sola mecánica central y un principio-final claro nos lanzamos a crear el prototipo. Acá me gusta mucho recalcar que la comunicación es clave. No hace falta estar hablando todo el tiempo, pero sí usar moodboards para compartir referencias visuales, actualizarse con archivos compartidos a medida que avanzamos (ej si el pj pega a distancia o cuerpo a cuerpo) y tratar de que todos vayan en sintonía. Es muy fácil mezclarse ideas cuando cada uno cumple distintos roles! Todo lo que se pueda escribir, se escribe!!
 
 Puliendo:
-Si todo va sobre ruedas acá es donde se pule la estética, se corrigen los bugs grosos y se mejora la implementación del audio. Acá hay que asignar al más libre del grupo para que vaya armando la página de itch.io así queda bien bonita customizada con imágenes y videos del juego.
+Si todo va sobre ruedas acá es donde se pule la estética, se corrigen los bugs grosos y se mejora la implementación del audio. Se puede compartir el juego con mentores y el más libre del grupo para que vaya armando la página de itch.io así queda bien bonita para que se pueda subir la build final!
 
+Contame si
 
 
 
