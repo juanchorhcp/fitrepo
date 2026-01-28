@@ -121,3 +121,10 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 - Sonidos de
 	- Altares que tengas que gastar como 100 de energia para activarlos y sirvan de checkpoint
 
+
+--- 
+--- 
+---
+- [ ] Buscar bombo
+- [ ] Buscar quena
+
