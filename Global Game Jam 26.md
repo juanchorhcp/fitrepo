@@ -151,6 +151,8 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Leafy branch (es un hit) (Glade en Kontakt - 13 Forest Percussion)
 ✅Caja ver las de Glade
 
+✅Super viento para epico dialogo Kontakt - Glade - 08 Fujara
+
 ✅
 ✅
 ✅
