@@ -126,7 +126,7 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 --- 
 ---
 - [ ] Buscar bombo
-- [ ] Buscar quena mejor (si no esta bien)
+- [x] Buscar quena mejor (si no esta bien) ✅ 2026-01-28
 - [x] Buscar shaker ✅ 2026-01-28
 - [x] Buscar ocarina? ✅ 2026-01-28
 - [ ] Ver si es necesario hacer andar este en Kontak [Folk Winds – Pianobook](https://www.pianobook.co.uk/packs/folk-winds/)
@@ -140,8 +140,12 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Silencio y entra la quena, y luego rápido entran todos juntos
 ✅Platillos valen pero al no ser canción hay que usar pocos
 ✅Sección caja + viento (caja en ritmo de charango en loop)
-✅Cajón (Kontakt - ver si funca)
+
+
 ✅Quena Decent sampler (Robs Andean)
+✅Kontakt - Glade - 12 Pan Pipes
+
+✅Cajón (Kontakt - ver si funca)
 ✅Shekere (Glade en Kontakt - 05 Atonal Percussion)
 ✅Pine cone shaker (Glade en Kontakt - 13 Forest Percussion)
 ✅Leafy branch (es un hit) (Glade en Kontakt - 13 Forest Percussion)
