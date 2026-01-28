@@ -140,7 +140,7 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Platillos valen pero al no ser canción hay que usar pocos
 ✅Sección caja + viento (caja en ritmo de charango en loop)
 ✅Cajón
-✅Quena Decent sampler 
+✅Quena Decent sampler (Robs Andean)
 ✅
 ✅
 ✅
