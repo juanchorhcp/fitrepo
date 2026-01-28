@@ -149,6 +149,7 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Shekere (Glade en Kontakt - 05 Atonal Percussion)
 ✅Pine cone shaker (Glade en Kontakt - 13 Forest Percussion)
 ✅Leafy branch (es un hit) (Glade en Kontakt - 13 Forest Percussion)
+✅Caja ver las de Glade
 
 ✅
 ✅
