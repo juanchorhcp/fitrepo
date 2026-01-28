@@ -150,8 +150,8 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Pine cone shaker (Glade en Kontakt - 13 Forest Percussion)
 ✅Leafy branch (es un hit) (Glade en Kontakt - 13 Forest Percussion)
 
-✅Bombo: Sine - 
-✅Caja
+✅Bombo: Sine - Dynamo - 03 Kickdrum Ensemble
+✅Caja: Sine - Dynamo - 02
 
 ✅Super viento para epico dialogo Kontakt - Glade - 08 Fujara
 
