@@ -1,0 +1,1 @@
+- [ ] Googlear para conseguir licencia mecánica 

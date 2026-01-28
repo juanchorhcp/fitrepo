@@ -1,5 +1,7 @@
 [[Album]]
 
+Necesito una [[Licencia mecánica]]
+
 Tengo la idea de hacerlo estilo lofi 
 
 Wurli: 
