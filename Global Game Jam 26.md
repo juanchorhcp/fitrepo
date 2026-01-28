@@ -125,11 +125,11 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 --- 
 --- 
 ---
-- [ ] Buscar bombo
+- [x] Buscar bombo ✅ 2026-01-28
 - [x] Buscar quena mejor (si no esta bien) ✅ 2026-01-28
 - [x] Buscar shaker ✅ 2026-01-28
 - [x] Buscar ocarina? ✅ 2026-01-28
-- [ ] Ver si es necesario hacer andar este en Kontak [Folk Winds – Pianobook](https://www.pianobook.co.uk/packs/folk-winds/)
+- [x] Ver si es necesario hacer andar este en Kontak [Folk Winds – Pianobook](https://www.pianobook.co.uk/packs/folk-winds/) ✅ 2026-01-28
 
 ✅Arctic swells para intro de boss
 ✅Bajo long notes (graves obvio)
