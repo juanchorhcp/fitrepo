@@ -127,8 +127,8 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ---
 - [ ] Buscar bombo
 - [ ] Buscar quena mejor (si no esta bien)
-- [ ] Buscar shaker
-- [ ] Buscar ocarina?
+- [x] Buscar shaker ✅ 2026-01-28
+- [x] Buscar ocarina? ✅ 2026-01-28
 - [ ] Ver si es necesario hacer andar este en Kontak [Folk Winds – Pianobook](https://www.pianobook.co.uk/packs/folk-winds/)
 
 ✅Arctic swells para intro de boss
@@ -143,8 +143,8 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Cajón (Kontakt - ver si funca)
 ✅Quena Decent sampler (Robs Andean)
 ✅Shekere (Glade en Kontakt - 05 Atonal Percussion)
+✅Pine cone shaker (Glade en Kontakt - 13 Forest Percussion)
 ✅Leafy branch (es un hit) (Glade en Kontakt - 13 Forest Percussion)
-✅
 ✅
 ✅
 ✅
