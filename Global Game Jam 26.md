@@ -132,8 +132,6 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 - [ ] Ver si es necesario hacer andar este en Kontak [Folk Winds – Pianobook](https://www.pianobook.co.uk/packs/folk-winds/)
 
 ✅Arctic swells para intro de boss
-✅Cascabel A#4 del Percussion (Splice)
-✅Congas/bongo C#4 D4 D#4 y E4 del Percussion (Splice)
 ✅Bajo long notes (graves obvio)
 ✅Riffs gtr acústica en las cuerdas graves [Santa Catalina](https://www.youtube.com/watch?v=y7mJkLHH_8A&list=PLzEI6-tQy-z5qxG5eSGq8aYh1kEz-gTlP&index=6))
 ✅Usan caja tipo marcha - *no se si va o no va*
@@ -143,12 +141,16 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 
 
 ✅Quena Decent sampler (Robs Andean)
-✅Kontakt - Glade - 12 Pan Pipes
+✅***Kontakt - Glade - 12 Pan Pipes***
 
+✅Cascabel A#4 del Percussion (Splice)
+✅Congas/bongo C#4 D4 D#4 y E4 del Percussion (Splice)
 ✅Cajón (Kontakt - ver si funca)
 ✅Shekere (Glade en Kontakt - 05 Atonal Percussion)
 ✅Pine cone shaker (Glade en Kontakt - 13 Forest Percussion)
 ✅Leafy branch (es un hit) (Glade en Kontakt - 13 Forest Percussion)
+
 ✅
 ✅
 ✅
+
