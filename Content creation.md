@@ -76,8 +76,8 @@ No le hace falta ser vistoso, confia en su frenetismo y en su personalidad. Y gr
  la da la música, los sonidos se los mutantes y las armas
 
   
-
-
+# Pianobook hidden gems
+1 samplepack por reel
 # Cosas en las que hago foco en una mezcla
 
 *No cebarse con sonidos extremistas (sobre todo gtrs)
