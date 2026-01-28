@@ -93,10 +93,10 @@ Footsteps: pasos sobre tierra seca?
 Wooshes: con quena
 base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de los bordes
 
-### base: 
-estar quieta, saltar, caer, correr, doble salto, wall jump, colgarse de los bordes
+### Modo base: 
+Estar quieta, saltar, caer, correr, doble salto, wall jump, colgarse de los bordes
 - Basado en movilidad
-### serpiente: 
+### Modo serpiente 
 estar quieta, salto, caer, caminar, golpe direccional, columpiarse
 :heart:
 
