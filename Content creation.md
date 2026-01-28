@@ -77,6 +77,7 @@ No le hace falta ser vistoso, confia en su frenetismo y en su personalidad. Y gr
 
   
 
+
 # Cosas en las que hago foco en una mezcla
 
 *No cebarse con sonidos extremistas (sobre todo gtrs)
