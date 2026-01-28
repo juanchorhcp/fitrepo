@@ -106,8 +106,14 @@ Estar quieta, saltar, caer, correr, doble salto, wall jump, colgarse de los bord
 estar quieta, salto, caer, caminar, golpe direccional, columpiarse
 :heart:
 
--  Basado en ataques
-- S
+- Basado en ataques
+- Sonidos de
+	- Salto
+	- Caer
+	- Caminar (suena la cola arrastrandose?)
+	- Golpe
+	- Columpiarse
 
-Y despues que cuando mates enemigo suelten energía espiritual, que tambien encontras por ahi, y haya altares que tengas que gastar como 100 de energia para activarlos y sirvan de checkpoint
+### Enemigos
+Y después que cuando mates enemigo suelten energía espiritual, que tambien encontras por ahi, y haya altares que tengas que gastar como 100 de energia para activarlos y sirvan de checkpoint
 
