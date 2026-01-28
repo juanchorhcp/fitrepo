@@ -135,6 +135,6 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Riffs gtr acústica en las cuerdas graves
 ✅Usan caja tipo marcha - *no se si va o no va*
 ✅Silencio y entra la quena, y luego rápido entran todos juntos
-✅
+✅Platillos valen pero al no ser canción hay que usar pocos
 ✅
 ✅
