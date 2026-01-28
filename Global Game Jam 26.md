@@ -134,7 +134,7 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Bajo long notes (graves obvio)
 ✅Riffs gtr acustica en las cuerdas graves
 ✅Usan caja tipo marcha - *no se si va o no va*
-✅
+✅Silencio y entra la quena, y luego rapido entran todos juntos
 ✅
 ✅
 ✅
