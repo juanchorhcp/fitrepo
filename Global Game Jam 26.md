@@ -145,14 +145,14 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 
 ✅Cascabel A#4 del Percussion (Splice)
 ✅Congas/bongo C#4 D4 D#4 y E4 del Percussion (Splice)
-✅Cajón (Kontakt - ver si funca)
+✅Cajón (Kontakt - ver si funca). Tamb hay cajon en sine Gearbox
 ✅Shekere (Glade en Kontakt - 05 Atonal Percussion)
 ✅Pine cone shaker (Glade en Kontakt - 13 Forest Percussion)
 ✅Leafy branch (es un hit) (Glade en Kontakt - 13 Forest Percussion)
 
-✅Bombo: Sine - Dynamo - 03 Kickdrum Ensemble
-✅Caja: Sine - Dynamo - 01 Solo Snare (02 es mas bestia)
-✅Percu grave: Sine - Dynamo - 08 Dundun
+***✅Bombo: Sine - Dynamo - 03 Kickdrum Ensemble***
+***✅Caja: Sine - Dynamo - 01 Solo Snare (02 es mas bestia)***
+***✅Percu grave: Sine - Dynamo - 08 Dundun***
 
 ✅Super viento para épico dialogo Kontakt - Glade - 08 Fujara
 
