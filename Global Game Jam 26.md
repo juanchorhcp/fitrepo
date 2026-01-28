@@ -133,7 +133,7 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Congas/bongo C#4 D4 D#4 y E4 del Percussion (Splice)
 ✅Bajo long notes (graves obvio)
 ✅Riffs gtr acustica en las cuerdas graves
-✅Usan caja
+✅Usan caja tipo marcha - *no se si va o no va*
 ✅
 ✅
 ✅
