@@ -115,5 +115,9 @@ estar quieta, salto, caer, caminar, golpe direccional, columpiarse
 	- Columpiarse
 
 ### Enemigos
-Y después que cuando mates enemigo suelten energía espiritual, que tambien encontras por ahi, y haya altares que tengas que gastar como 100 de energia para activarlos y sirvan de checkpoint
+Sonidos de
+Sueltan energía espiritual al morir (que tambien encontras por ahi suelta)
+
+### Entorno
+Altares que tengas que gastar como 100 de energia para activarlos y sirvan de checkpoint
 
