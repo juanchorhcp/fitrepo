@@ -127,6 +127,7 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ---
 - [ ] Buscar bombo
 - [ ] Buscar quena
+- [ ] Buscar shaker
 
 ✅Arctic swells para intro de boss
 ✅Cascabel A#4 del Percussion (Splice)
