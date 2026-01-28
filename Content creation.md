@@ -217,4 +217,6 @@ Doki doki: lo que empieza como un simulador de citas onda animé da un repentino
 
 The big catch: Tacklebox: aventura 3D estilo ps1 en la que tenes una caña para pescar pero tambien para moverte por el entorno. Funciona como prologo para the big catch que sale en... Esta nueva moda se esta haciendo cada vez mas fuerte y ...
 
-Grimms hollow: este es un hijo de Undertale y Deltarune, con una narrativa muy buena como es de esperarse y un combate por turnos bastante original (cheque)
+Grimms hollow: este es un hijo de Undertale y Deltarune, con una narrativa muy buena como es de esperarse y un combate por turnos bastante original (chequear)
+
+
