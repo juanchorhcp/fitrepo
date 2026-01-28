@@ -126,9 +126,10 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 --- 
 ---
 - [ ] Buscar bombo
-- [ ] Buscar quena
+- [ ] Buscar quena mejor (si no esta b)
 - [ ] Buscar shaker
 - [ ] Buscar ocarina?
+- [ ] Ver si es necesario hacer andar este en Kontak [Folk Winds – Pianobook](https://www.pianobook.co.uk/packs/folk-winds/)
 
 ✅Arctic swells para intro de boss
 ✅Cascabel A#4 del Percussion (Splice)
