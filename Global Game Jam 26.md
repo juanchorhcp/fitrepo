@@ -139,4 +139,11 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Silencio y entra la quena, y luego rápido entran todos juntos
 ✅Platillos valen pero al no ser canción hay que usar pocos
 ✅Sección caja + viento (caja en ritmo de charango en loop)
+✅Cajón
+✅
+✅
+✅
+✅
+✅
+✅
 ✅
