@@ -126,7 +126,7 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 --- 
 ---
 - [ ] Buscar bombo
-- [ ] Buscar quena mejor (si no esta b)
+- [ ] Buscar quena mejor (si no esta bien)
 - [ ] Buscar shaker
 - [ ] Buscar ocarina?
 - [ ] Ver si es necesario hacer andar este en Kontak [Folk Winds – Pianobook](https://www.pianobook.co.uk/packs/folk-winds/)
@@ -140,7 +140,7 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Silencio y entra la quena, y luego rápido entran todos juntos
 ✅Platillos valen pero al no ser canción hay que usar pocos
 ✅Sección caja + viento (caja en ritmo de charango en loop)
-✅Cajón
+✅Cajón (Kontakt - ver si funca)
 ✅Quena Decent sampler (Robs Andean)
 ✅
 ✅
