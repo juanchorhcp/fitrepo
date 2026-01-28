@@ -94,7 +94,7 @@ Wooshes: con quena
 base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de los bordes
 
 ### Modo base: 
-Estar quieta, saltar, caer, correr, doble salto, wall jump, colgarse de los bordes
+*Estar quieta, saltar, caer, correr, doble salto, wall jump, colgarse de los bordes*
 - Basado en movilidad
 - Sonidos de
 	- Saltar/doble salto
@@ -103,8 +103,7 @@ Estar quieta, saltar, caer, correr, doble salto, wall jump, colgarse de los bord
 	- Wall jump?
 	- Colgarse del borde
 ### Modo serpiente 
-estar quieta, salto, caer, caminar, golpe direccional, columpiarse
-:heart:
+*Estar quieta, salto, caer, caminar, golpe direccional, columpiarse*
 
 - Basado en ataques
 - Sonidos de
@@ -115,9 +114,10 @@ estar quieta, salto, caer, caminar, golpe direccional, columpiarse
 	- Columpiarse
 
 ### Enemigos
-Sonidos de
-Sueltan energía espiritual al morir (que tambien encontras por ahi suelta)
+- Sonidos de
+	- Sueltan energía espiritual al morir (que tambien encontras por ahi suelta)
 
 ### Entorno
-Altares que tengas que gastar como 100 de energia para activarlos y sirvan de checkpoint
+- Sonidos de
+	- Altares que tengas que gastar como 100 de energia para activarlos y sirvan de checkpoint
 
