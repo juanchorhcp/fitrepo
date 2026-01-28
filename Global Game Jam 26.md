@@ -128,3 +128,7 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 - [ ] Buscar bombo
 - [ ] Buscar quena
 
+✅Arctic swells para intro de boss
+✅Cascabel
+✅
+✅
