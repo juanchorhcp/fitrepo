@@ -151,9 +151,9 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Leafy branch (es un hit) (Glade en Kontakt - 13 Forest Percussion)
 
 ✅Bombo: Sine - Dynamo - 03 Kickdrum Ensemble
-✅Caja: Sine - Dynamo - 02
+✅Caja: Sine - Dynamo - 01 Solo Snare (02 es mas bestia)
 
-✅Super viento para epico dialogo Kontakt - Glade - 08 Fujara
+✅Super viento para épico dialogo Kontakt - Glade - 08 Fujara
 
 ✅
 ✅
