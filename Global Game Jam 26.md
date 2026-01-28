@@ -96,11 +96,18 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ### Modo base: 
 Estar quieta, saltar, caer, correr, doble salto, wall jump, colgarse de los bordes
 - Basado en movilidad
+- Sonidos de
+	- Saltar/doble salto
+	- Caer
+	- Correr
+	- Wall jump?
+	- Colgarse del borde
 ### Modo serpiente 
 estar quieta, salto, caer, caminar, golpe direccional, columpiarse
 :heart:
 
 -  Basado en ataques
+- S
 
 Y despues que cuando mates enemigo suelten energía espiritual, que tambien encontras por ahi, y haya altares que tengas que gastar como 100 de energia para activarlos y sirvan de checkpoint
 
