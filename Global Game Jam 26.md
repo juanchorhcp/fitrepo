@@ -93,30 +93,14 @@ Footsteps: pasos sobre tierra seca?
 Wooshes: con quena
 base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de los bordes
 
+### base: 
+estar quieta, saltar, caer, correr, doble salto, wall jump, colgarse de los bordes
+- Basado en movilidad
 ### serpiente: 
 estar quieta, salto, caer, caminar, golpe direccional, columpiarse
 :heart:
-Haz clic para reaccionar
-:sparkling_heart:
-Haz clic para reaccionar
-:fire:
-Haz clic para reaccionar
-Añadir reacción
-Responder
-Reenviar
-Más
-[12:34]martes, 27 de enero de 2026 12:34
-esas seriena las animaciones que necesitamos por ahora
-:heart:
-Haz clic para reaccionar
-:sparkling_heart:
-Haz clic para reaccionar
-:fire:
-Haz clic para reaccionar
-Añadir reacción
-Responder
-Reenviar
-Más
-[12:35]martes, 27 de enero de 2026 12:35
+
+-  Basado en ataques
+
 Y despues que cuando mates enemigo suelten energía espiritual, que tambien encontras por ahi, y haya altares que tengas que gastar como 100 de energia para activarlos y sirvan de checkpoint
 
