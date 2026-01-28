@@ -142,7 +142,7 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Sección caja + viento (caja en ritmo de charango en loop)
 ✅Cajón (Kontakt - ver si funca)
 ✅Quena Decent sampler (Robs Andean)
-✅
+✅Shekere (Glade en Kontakt - 05 Atonal Percussion)
 ✅
 ✅
 ✅
