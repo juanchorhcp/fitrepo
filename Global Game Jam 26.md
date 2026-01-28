@@ -134,7 +134,7 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Cascabel A#4 del Percussion (Splice)
 ✅Congas/bongo C#4 D4 D#4 y E4 del Percussion (Splice)
 ✅Bajo long notes (graves obvio)
-✅Riffs gtr acústica en las cuerdas graves
+✅Riffs gtr acústica en las cuerdas graves [Santa Catalina](https://www.youtube.com/watch?v=y7mJkLHH_8A&list=PLzEI6-tQy-z5qxG5eSGq8aYh1kEz-gTlP&index=6))
 ✅Usan caja tipo marcha - *no se si va o no va*
 ✅Silencio y entra la quena, y luego rápido entran todos juntos
 ✅Platillos valen pero al no ser canción hay que usar pocos
