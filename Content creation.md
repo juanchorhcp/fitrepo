@@ -23,7 +23,7 @@ Si todo va sobre ruedas acá es donde se pule la estética, se corrigen los bugs
 Contame que otro tip esenciale tenés para las game jams en los comentarios
 
 
-### Guía de audio para jams
+### Guía de audio
 Conocer al equipo
 Rescatar de la idea general lo que mas necesito saber o definir
 Empezar a hacer mi documento de audio(texto) y mi tabla de assets de sonido(excel) y los comparto con el equipo
@@ -215,3 +215,6 @@ Bloody hell: mv bullethell que se ve muy divertido y visualmente buenisimo
 
 Doki doki: lo que empieza como un simulador de citas onda animé da un repentino giro de 180 grados y eso es todo lo que te puedo decir de este juegazo. Se alarga un poco el principio pero metele que vale la pena.
 
+The big catch: Tacklebox: aventura 3D estilo ps1 en la que tenes una caña para pescar pero tambien para moverte por el entorno. Funciona como prologo para the big catch que sale en... Esta nueva moda se esta haciendo cada vez mas fuerte y ...
+
+Grimms hollow: un
