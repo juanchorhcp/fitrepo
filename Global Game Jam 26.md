@@ -103,6 +103,7 @@ Perc
 
 
 - [ ] Freezar quena outblown y controlar las caidas del vibrato
+- [ ] 
 
 
 --- 
