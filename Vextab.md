@@ -31,6 +31,7 @@ quicktab
 (4/3.3/2.1/1.3/4.4/6.5/5)
 ```quicktab
 (4/3.3/2.1/1.3/4.4/6.5/5)
+(3/1.)
 ```
 
 - Agregando esto: $.big.ACORDE $ se le puede poner el acorde a la tab
