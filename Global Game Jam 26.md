@@ -157,6 +157,4 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ✅Super viento para épico dialogo Kontakt - Glade - 08 Fujara
 
 ✅Sfx dialogo: Sine - Dynamo - 22 Wood ensemble 1
-✅
-✅
 
