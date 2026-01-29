@@ -101,9 +101,7 @@ Perc
 ***✅Caja: Sine - Dynamo - 01 Solo Snare (02 es mas bestia)***
 ***✅Percu grave: Sine - Dynamo - 08 Dundun***
 
-✅Super viento para épico dialogo Kontakt - Glade - 08 Fujara
 
-✅Sfx dialogo: Sine - Dynamo - 22 Wood ensemble 1
 
 --- 
 
@@ -155,6 +153,11 @@ base: estar quieta, saltar,  caer, correr, doble salto, wall jump, colgarse de l
 ### Enemigos
 - Sonidos de
 	- Sueltan energía espiritual al morir (que tambien encontras por ahi suelta)
+
+### Amigos
+Dialogos sfx musicales
+✅Super viento para épico dialogo Kontakt - Glade - 08 Fujara
+✅Sfx dialogo: Sine - Dynamo - 22 Wood ensemble 1-...................................
 
 ### Entorno
 - Sonidos de
