@@ -104,6 +104,7 @@ Perc
 
 - [ ] Freezar quena outblown y controlar las caidas del vibrato
 - [ ] Sincronizar Dundun entre compases 285 y 293
+- [ ] Idem 297-301
 
 
 --- 
