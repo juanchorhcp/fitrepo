@@ -102,6 +102,8 @@ Perc
 ***✅Percu grave: Sine - Dynamo - 08 Dundun***
 
 
+- [ ] Freezar quena outblown y controlar las caidas del vibrato
+
 
 --- 
 
