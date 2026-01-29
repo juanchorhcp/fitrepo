@@ -68,6 +68,8 @@ Instrumentos:
 - Según gpt: sikus/zampoñas, quenas, charango, bombo leguero, cajas andinas, cascabeles/semillas
 
 ---
+### Instrumentación
+
 - [x] Buscar bombo ✅ 2026-01-28
 - [x] Buscar quena mejor (si no esa esta bien) ✅ 2026-01-28
 - [x] Buscar shaker ✅ 2026-01-28
