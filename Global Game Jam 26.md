@@ -29,6 +29,7 @@ Pujllay es de los ultimos que siguen la tradicion del carnaval hasta que desapar
 --- 
 
 ## Música:
+### Conceptos
 - Carnaval de Jujuy
 - El desentierro del diablo
 - "Música ritual"
@@ -65,6 +66,40 @@ Instrumentos:
 - Cascabeles (forman parte del traje de diablo del carnaval)
 - Silbato puede ser
 - Según gpt: sikus/zampoñas, quenas, charango, bombo leguero, cajas andinas, cascabeles/semillas
+
+---
+- [x] Buscar bombo ✅ 2026-01-28
+- [x] Buscar quena mejor (si no esa esta bien) ✅ 2026-01-28
+- [x] Buscar shaker ✅ 2026-01-28
+- [x] Buscar ocarina? ✅ 2026-01-28
+- [x] Ver si es necesario hacer andar este en Kontak [Folk Winds – Pianobook](https://www.pianobook.co.uk/packs/folk-winds/) ✅ 2026-01-28
+
+✅Arctic swells para intro de boss
+✅Bajo long notes (graves obvio)
+✅Riffs gtr acústica en las cuerdas graves [Santa Catalina](https://www.youtube.com/watch?v=y7mJkLHH_8A&list=PLzEI6-tQy-z5qxG5eSGq8aYh1kEz-gTlP&index=6))
+✅Usan caja tipo marcha - *no se si va o no va*
+✅Silencio y entra la quena, y luego rápido entran todos juntos
+✅Platillos valen pero al no ser canción hay que usar pocos
+✅Sección caja + viento (caja en ritmo de charango en loop)
+
+
+✅Quena Decent sampler (Robs Andean)
+✅***Kontakt - Glade - 12 Pan Pipes***
+
+✅Cascabel A#4 del Percussion (Splice)
+✅Congas/bongo C#4 D4 D#4 y E4 del Percussion (Splice)
+✅Cajón (Kontakt - ver si funca). Tamb hay cajon en sine Gearbox
+✅Shekere (Glade en Kontakt - 05 Atonal Percussion)
+✅Pine cone shaker (Glade en Kontakt - 13 Forest Percussion)
+✅Leafy branch (es un hit) (Glade en Kontakt - 13 Forest Percussion)
+
+***✅Bombo: Sine - Dynamo - 03 Kickdrum Ensemble***
+***✅Caja: Sine - Dynamo - 01 Solo Snare (02 es mas bestia)***
+***✅Percu grave: Sine - Dynamo - 08 Dundun***
+
+✅Super viento para épico dialogo Kontakt - Glade - 08 Fujara
+
+✅Sfx dialogo: Sine - Dynamo - 22 Wood ensemble 1
 
 --- 
 
