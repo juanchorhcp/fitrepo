@@ -76,6 +76,7 @@ Instrumentos:
 - [x] Buscar ocarina? ✅ 2026-01-28
 - [x] Ver si es necesario hacer andar este en Kontak [Folk Winds – Pianobook](https://www.pianobook.co.uk/packs/folk-winds/) ✅ 2026-01-28
 
+Tips
 ✅Arctic swells para intro de boss
 ✅Bajo long notes (graves obvio)
 ✅Riffs gtr acústica en las cuerdas graves [Santa Catalina](https://www.youtube.com/watch?v=y7mJkLHH_8A&list=PLzEI6-tQy-z5qxG5eSGq8aYh1kEz-gTlP&index=6))
@@ -84,10 +85,11 @@ Instrumentos:
 ✅Platillos valen pero al no ser canción hay que usar pocos
 ✅Sección caja + viento (caja en ritmo de charango en loop)
 
-
+Quena
 ✅Quena Decent sampler (Robs Andean)
 ✅***Kontakt - Glade - 12 Pan Pipes***
 
+Perc
 ✅Cascabel A#4 del Percussion (Splice)
 ✅Congas/bongo C#4 D4 D#4 y E4 del Percussion (Splice)
 ✅Cajón (Kontakt - ver si funca). Tamb hay cajon en sine Gearbox
