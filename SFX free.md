@@ -1,4 +1,4 @@
-Youtube Audiolibrary https://www.youtube.com/audiolibrary/music?ar=3
+ [Audio Library - YouTube](https://www.youtube.com/@audiolibrary_/videos) music
 Free Fx http://freesfx.co.uk/
 Sound Bible http://soundbible.com/
 Free Sound http://www.freesound.org/
