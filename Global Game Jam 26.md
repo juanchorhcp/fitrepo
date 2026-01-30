@@ -177,7 +177,7 @@ Dialogos sfx musicales
     - [ ] Muerte Jarron
     - [x] Muerte Luz mala ✅ 2026-01-30
     - [x] Activar Altar ✅ 2026-01-30
-    - [ ] Agarrar Almas
+    - [x] Agarrar Almas ✅ 2026-01-30
     
 2. caminar vamos viendo si queda bien
     
