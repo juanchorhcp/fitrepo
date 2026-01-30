@@ -168,10 +168,11 @@ Dialogos sfx musicales
 	- Altares que tengas que gastar como 100 de energia para activarlos y sirvan de checkpoint
 1. SFX que faltan:
     
-    - [ ] Golpear con el traje serpiente
+    - [x] Golpear con el traje serpiente ✅ 2026-01-30
     - [x] Recibir daño ✅ 2026-01-30
-    - [ ] Caminar
-    - [ ] Colgarse
+    - [x] Caminar ✅ 2026-01-30
+    - [x] caminar serpiente ✅ 2026-01-30
+    - [x] Colgarse ✅ 2026-01-30
     - [ ] Saltar
     - [ ] Muerte Jarron
     - [ ] Muerte Luz mala
