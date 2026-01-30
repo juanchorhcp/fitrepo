@@ -174,7 +174,7 @@ Dialogos sfx musicales
     - [x] caminar serpiente ✅ 2026-01-30
     - [x] Colgarse ✅ 2026-01-30
     - [ ] Saltar
-    - [ ] Muerte Jarron
+    - [x] Muerte Jarron ✅ 2026-01-30
     - [x] Muerte Luz mala ✅ 2026-01-30
     - [x] Activar Altar ✅ 2026-01-30
     - [x] Agarrar Almas ✅ 2026-01-30
