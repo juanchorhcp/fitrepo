@@ -186,7 +186,7 @@ Dialogos sfx musicales
     - [x] Rugido ✅ 2026-01-30
     - [x] Escupir fuego ✅ 2026-01-30
     - [ ] Cascabel
-    - [ ] Golpe contra el piso
+    - [x] Golpe contra el piso ✅ 2026-01-30
 
 
 --- 
