@@ -175,7 +175,7 @@ Dialogos sfx musicales
     - [x] Colgarse ✅ 2026-01-30
     - [ ] Saltar
     - [ ] Muerte Jarron
-    - [ ] Muerte Luz mala
+    - [x] Muerte Luz mala ✅ 2026-01-30
     - [ ] Activar Altar
     - [ ] Agarrar Almas
     
