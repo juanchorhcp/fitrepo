@@ -102,9 +102,9 @@ Perc
 ***✅Percu grave: Sine - Dynamo - 08 Dundun***
 
 
-- [ ] Freezar quena outblown y controlar las caidas del vibrato
-- [ ] Sincronizar Dundun entre compases 285 y 293
-- [ ] Idem 297-301
+- [x] Freezar quena outblown y controlar las caidas del vibrato ✅ 2026-01-31
+- [x] Sincronizar Dundun entre compases 285 y 293 ✅ 2026-01-31
+- [x] Idem 297-301 ✅ 2026-01-31
 
 
 --- 
