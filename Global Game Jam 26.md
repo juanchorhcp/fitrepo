@@ -200,7 +200,7 @@ Boss fight
 sfx_ui
 Necesito ver el menu y menu de pausa
 sfx_win
-Necesito
+Necesito saber que pasa cuando matamos al jefe
 
 sfx_vx_npc1
 sfx_vx_npc2
