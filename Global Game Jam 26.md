@@ -195,4 +195,4 @@ Dialogos sfx musicales
 
 
 Boss fight
-	- El tema principal debe iniciar en el segundo 0: de la intro
+	- El tema principal debe iniciar en el segundo 00:37.09 de la intro
