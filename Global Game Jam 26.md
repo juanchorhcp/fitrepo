@@ -196,3 +196,13 @@ Dialogos sfx musicales
 
 Boss fight
 	- El tema principal debe iniciar en el segundo 00:37.09 de la intro
+
+sfx_ui
+Necesito ver el menu y menu de pausa
+sfx_win
+Necesito
+
+sfx_vx_npc1
+sfx_vx_npc2
+sfx_vx_npc3
+De estos necesito ver cada npc para hacerle una voz acorde
