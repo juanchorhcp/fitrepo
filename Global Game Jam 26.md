@@ -195,8 +195,4 @@ Dialogos sfx musicales
 
 
 Boss fight
-	- El tema principal debe iniciar en el segundo  de la intro
-- 17.46.589
-- 18.23.757
-- 17.46.589
--  01.17.168 
+	- El tema principal debe iniciar en el segundo 0: de la intro
