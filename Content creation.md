@@ -6,7 +6,7 @@ GGJ2026
 # Compartir la Global Game Jam (26 enero al 2 de febrero)
 ### Making of 
 Asi compuse la banda sonora para un videojuego inspirado en el Carnaval de Jujuy
-Importantisimo para empezar es entender el tono que va a tener el juego y como se va a jugar. Y de ahi trasladarlo a referencias musicales. 
+Importantisimo para empezar es entender el tono que va a tener el juego y como se va a jugar. Y de ahi trasladarlo a referencias musicales. El juego tenia que transmitir una sensacion de aventura, conexion con la madre tierra
 
 Por suerte tengo mi charango que me lo trajo mi abuelo del altiplano hace años y decidí que sea el protagonista de esta musica
 
