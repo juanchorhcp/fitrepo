@@ -10,6 +10,7 @@ kanban-plugin: board
 
 
 ## Próximo a grabar 🔴⏫
+## 2. Próximo a grabar
 %%kanban:settings
 template: "- [ ] {{title}} 🔼"
 %%
