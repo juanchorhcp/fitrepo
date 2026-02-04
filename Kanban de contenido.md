@@ -7,11 +7,12 @@ kanban-plugin: board
 ## Ideas ✨
 
 - [ ] [[Guía de audio para game jams]]
-- [ ] [[Making of Quién mató al carnaval]]
 
 
 ## Próximo a grabar 🔴
 
+- [ ] Reel percusión
+- [ ] [[Making of Quién mató al carnaval]]
 
 
 ## Editar ✂
