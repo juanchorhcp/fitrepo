@@ -8,10 +8,18 @@ kanban-plugin: board
 
 
 
+## Próximo a grabar 🔴
+
+
+
+## Editar ✂
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
