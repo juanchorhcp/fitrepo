@@ -14,10 +14,12 @@ kanban-plugin: board
 
 ## Editar ✂
 
+- [ ] [[Reflexión: usá internet a tu favor]]
 
 
 ## Subido 🔼
 
+- [ ] [[Guía de supervivencia GGJ2026]]
 
 
 
