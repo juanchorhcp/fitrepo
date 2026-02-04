@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Ideas ✨
 
 - [ ] [[Guía de audio para game jams]]
-- [ ] [[Making of ¿Quién mató al Carnaval?]]
+- [ ] [[Making of Quién mató al carnaval]]
 
 
 ## Próximo a grabar 🔴
