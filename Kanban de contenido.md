@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Ideas ✨
 
+**Complete**
 - [ ] [[Guía de audio para game jams]]
 
 
