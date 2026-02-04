@@ -8,7 +8,7 @@ _(escribir sin filtro, sin corregir, sin releer)_
 
 Buenos días! Nos levantamos con la primer alarma hoy. Escribí la nota semanal (jam) y me va a quedar tiempo para leer un poco. El desayuno es simple pero cope. Rina está tranca en la ventana. Anoche metimos guiso de lentejas y pes en lo de Lucas. Hoy tengo psico a las 19 hs. Creo que la voy a aprovechar mejor que si hubiese sido el lunes. 
 
-Debería aprovechar el material que me dió el juego del carna
+Debería aprovechar el material que me dió el juego del carnaval para hacer mucho content: dump de capturas de pantalla, 1/2 reels haciendo la musica, reel gracioso percusión,
 
 ---
 
