@@ -18,7 +18,6 @@ kanban-plugin: board
 ## Editar ✂ 🔺
 
 - [ ] [[Reflexión: usá internet a tu favor]]
-- [ ] sadasdasd
 
 
 ## Subido 🔼
