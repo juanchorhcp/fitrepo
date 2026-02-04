@@ -5,7 +5,7 @@ GGJ2026
 - Jugamos para huir o para encontrarnos?
 # Compartir la Global Game Jam (26 enero al 2 de febrero)
 ### Making of 
-Asi compuse la 
+Asi compuse la banda sonora para un videojuego ambientado
 
 
 ### Guíade supervivencia
