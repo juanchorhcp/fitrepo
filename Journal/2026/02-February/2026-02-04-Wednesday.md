@@ -6,7 +6,7 @@
 # [[🌅Morning pages]]
 _(escribir sin filtro, sin corregir, sin releer)_
 
-Buenos días! Nos levantamos con la primer alarma hoy. Escribí la nota semanal (jam) y me va a quedar tiempo para leer un poco. El desayuno es simple pero cope. Rina está tranca en la ventana. Anoche metimos guiso de lentejas y pes en lo de Lucas. 
+Buenos días! Nos levantamos con la primer alarma hoy. Escribí la nota semanal (jam) y me va a quedar tiempo para leer un poco. El desayuno es simple pero cope. Rina está tranca en la ventana. Anoche metimos guiso de lentejas y pes en lo de Lucas. Hoy tengo psico a las 19 hs. Creo que la voy a aprovechar mejor que si hubiese sido el lunes. 
 
 
 
@@ -15,11 +15,12 @@ Buenos días! Nos levantamos con la primer alarma hoy. Escribí la nota semanal 
 ## 🎯 Algo que me gustaría hacer hoy
 _(realista, humano, no épico)_
 
+Planear contenido
 
 ---
 
 ## 🧠 Algo con lo que estoy struggling
-- ¿Qué es?
+- ¿Qué es? Filmarme devuelta
 - ¿Qué lo hace difícil?
 - ¿Qué emoción aparece primero?
 
