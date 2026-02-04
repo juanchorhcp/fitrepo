@@ -1,20 +1,3 @@
-# ✅Grabado
-
-
-# Reflexiones
-- Jugamos para huir o para encontrarnos?
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Mostrar riff de Coffee bombon
 
