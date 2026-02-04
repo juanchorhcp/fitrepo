@@ -6,11 +6,10 @@ kanban-plugin: board
 
 ## Ideas ✨
 
-**Complete**
 - [x] [[Guía de audio para game jams]] ✅ 2026-02-04
 
 
-## Próximo a grabar 🔴
+## Próximo a grabar 🔴⏫
 
 - [ ] Reel percusión
 - [ ] [[Making of Quién mató al carnaval]]
