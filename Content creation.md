@@ -12,7 +12,7 @@ Por suerte tengo mi charango que me lo trajo mi abuelo del altiplano hace años 
 
 Me pase una tarde entera escuchando mucha musica y tocando de oído fragmentos de canciones, probando rasguidos y acordes.
 
-Al dia siguiente ya estaba grabando la base del tema de exploracion i-VI y la parte B seria v-III-v-
+Al dia siguiente ya estaba grabando la base del tema de exploracion 
 
 
 ### Guíade supervivencia
