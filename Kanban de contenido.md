@@ -11,10 +11,6 @@ kanban-plugin: board
 
 ## Próximo a grabar 🔴⏫
 
-%%kanban:settings
-template: "- [ ] {{title}} 🔼"
-%%
-
 - [ ] Reel percusión
 - [ ] [[Making of Quién mató al carnaval]]
 
@@ -22,6 +18,7 @@ template: "- [ ] {{title}} 🔼"
 ## Editar ✂ 🔺
 
 - [ ] [[Reflexión: usá internet a tu favor]]
+- [ ] sadasdasd
 
 
 ## Subido 🔼
