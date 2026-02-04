@@ -7,4 +7,9 @@ Arte
 Mezcla de un fremen atravesando el desierto y el drifter
 
 Sensación 
-Aventura dura de aattavesar
+Aventura dura
+atravesar adversidades 
+Epico
+
+Concepto
+Buscar que
