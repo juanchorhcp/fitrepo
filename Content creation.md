@@ -10,7 +10,9 @@ Importantisimo para empezar es entender el tono que va a tener el juego y como s
 
 Por suerte tengo mi charango que me lo trajo mi abuelo del altiplano hace años y decidí que sea el protagonista de esta musica.
 
-Me pase una tarde entera escuchando mucha musica y tocando de oído fragmentos de canciones
+Me pase una tarde entera escuchando mucha musica y tocando de oído fragmentos de canciones, probando rasguidos y acordes.
+
+Al dia siguiente ya estaba grabando 
 
 
 ### Guíade supervivencia
