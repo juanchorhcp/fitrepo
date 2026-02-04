@@ -4,8 +4,11 @@ GGJ2026
 # Reflexiones
 - Jugamos para huir o para encontrarnos?
 # Compartir la Global Game Jam (26 enero al 2 de febrero)
+### Making of 
 
-### Guía de supervivencia
+
+
+### Guíade supervivencia
 Arrancó la GGJ 2026 y esta es una guía de supervivencia para crear un videojuego
 *(blanco y negro) si no sabes lo que es una jam te lo explico en la descripción*
 
@@ -76,8 +79,7 @@ No le hace falta ser vistoso, confia en su frenetismo y en su personalidad. Y gr
  la da la música, los sonidos se los mutantes y las armas
 
   
-# Pianobook hidden gems
-1 samplepack por reel
+
 # Cosas en las que hago foco en una mezcla
 
 *No cebarse con sonidos extremistas (sobre todo gtrs)
@@ -218,6 +220,6 @@ Doki doki: lo que empieza como un simulador de citas onda animé da un repentino
 
 The big catch: Tacklebox: aventura 3D estilo ps1 en la que tenes una caña para pescar pero tambien para moverte por el entorno. Funciona como prologo para the big catch que sale en... Esta nueva moda se esta haciendo cada vez mas fuerte y ...
 
-Grimms hollow: este es un hijo de Undertale y Deltarune, con una narrativa muy buena como es de esperarse y un combate por turnos bastante original (chequear)
+Grimm's hollow: este es un hijo de Undertale y Deltarune, con una narrativa muy buena como es de esperarse y un combate por turnos bastante original (chequear)
 
 
