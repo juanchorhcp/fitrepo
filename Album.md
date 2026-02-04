@@ -12,4 +12,5 @@ atravesar adversidades
 Epico
 
 Concepto
-Buscar que
+Buscar que une a los temas pilares
+Lo que no entra ahi va al disco de b-sides de la arena
