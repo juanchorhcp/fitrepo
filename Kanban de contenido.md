@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Ideas ✨
 
 **Complete**
-- [ ] [[Guía de audio para game jams]]
+- [x] [[Guía de audio para game jams]] ✅ 2026-02-04
 
 
 ## Próximo a grabar 🔴
@@ -24,7 +24,7 @@ kanban-plugin: board
 ## Subido 🔼
 
 **Complete**
-- [ ] [[Guía de supervivencia GGJ2026]]
+- [x] [[Guía de supervivencia GGJ2026]] ✅ 2026-02-04
 
 
 
