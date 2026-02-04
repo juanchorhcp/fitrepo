@@ -4,7 +4,6 @@
 # Reflexiones
 - Jugamos para huir o para encontrarnos?
 # Compartir la Global Game Jam (26 enero al 2 de febrero)
-### Making of ¿Quién mató al Carnaval?
 
 
 
@@ -19,7 +18,7 @@
 
 
 
-# Mostrar riff y riff con variaciones
+# Mostrar riff de Coffee bombon
 
 # Cómo hice la música del trailer
 
