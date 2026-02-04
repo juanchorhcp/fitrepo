@@ -1,3 +1,6 @@
+---
+status: Ideas ✨
+---
 Conocer al equipo
 Rescatar de la idea general lo que mas necesito saber o definir
 Empezar a hacer mi documento de audio(texto) y mi tabla de assets de sonido(excel) y los comparto con el equipo
