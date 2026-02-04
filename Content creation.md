@@ -3,8 +3,6 @@
 
 # Reflexiones
 - Jugamos para huir o para encontrarnos?
-# Compartir la Global Game Jam (26 enero al 2 de febrero)
-
 
 
 
