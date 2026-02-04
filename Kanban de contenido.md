@@ -16,9 +16,10 @@ kanban-plugin: board
 - [ ] [[Making of Quién mató al carnaval]]
 
 
-## Editar ✂
+## Editar ✂ 🔺
 
 - [ ] [[Reflexión: usá internet a tu favor]]
+- [ ] hola
 
 
 ## Subido 🔼
