@@ -21,6 +21,7 @@ kanban-plugin: board
 
 ## Subido 🔼
 
+**Complete**
 - [ ] [[Guía de supervivencia GGJ2026]]
 
 
