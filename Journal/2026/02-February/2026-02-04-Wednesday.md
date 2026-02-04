@@ -6,7 +6,7 @@
 # [[🌅Morning pages]]
 _(escribir sin filtro, sin corregir, sin releer)_
 
-Buenos días! Nos levantamos con la primer alarma hoy. Escribí la nota semanal (jam) 
+Buenos días! Nos levantamos con la primer alarma hoy. Escribí la nota semanal (jam) y me va a quedar tiempo para leer un poco. El desayuno es simple pero cope. Rina está tranca en la ventana. Anoche metimos guiso de lentejas y pes en lo de Lucas. 
 
 
 
