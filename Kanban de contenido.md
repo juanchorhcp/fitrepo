@@ -13,6 +13,7 @@ kanban-plugin: board
 
 - [ ] Reel percusión
 - [ ] [[Making of Quién mató al carnaval]]
+- [ ] [[Música que creen que hago vs lo que realmente hago]]
 
 
 ## Editar ✂ 🔺
