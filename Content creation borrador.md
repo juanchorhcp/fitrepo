@@ -28,13 +28,9 @@ Te voy a contar por que NT es un juego de culto gracias a su game feel y por su 
 
   
 
-No le hace falta ser vistoso, confia en su frenetismo y en su personalidad. Y gran parte de su personalidad s
+No le hace falta ser vistoso, confia en su frenetismo y en su personalidad. Y gran parte de su personalidad la da la música, los sonidos de los mutantes y las armas
 
-  
-  
-
- la da la música, los sonidos se los mutantes y las armas
-
+**<mark style="background: #FFB8EBA6;">DESARROLLAR UN POCO MÁS!!</mark>**
   
 
 # Cosas en las que hago foco en una mezcla
