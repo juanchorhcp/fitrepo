@@ -20,9 +20,9 @@ E) como mezclar para q sea uniforme
 
 Te voy a contar por que NT es un juego de culto gracias a su game feel y por su puesto, a su sonido.
 
-Nuclea throne cumplió 10 años y con su actualización n
+Nuclear throne cumplió 10 años y con su actualización #100 nos recuerda por qué es uno de los mejores roguelike a día de hoy
 
-No le hace falta ser vistoso, confia en su frenetismo y en su personalidad. Y gran parte de su personalidad la da la música, los sonidos de los mutantes y las armas
+Al nuclear no le hace falta ser vistoso gráficamente, confia en su frenetismo y en su personalidad. Y gran parte de su personalidad la da la música, los sonidos de los mutantes y las armas
 
 #1 Sus armas tienen caracter, personalidad, con un estilo realista mezclado procesado con un bitcrusher pero manteniendo el peso y el crunch para que sea satisfatorio disparar
 
