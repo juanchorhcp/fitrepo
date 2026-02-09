@@ -173,10 +173,12 @@ Sheepy: si jugaste hollow knight lo vas a hermanar rapidamente con el, unas 3 ho
 
 Bloody hell: mv bullethell que se ve muy divertido y visualmente buenisimo
 
-Doki doki: lo que empieza como un simulador de citas onda animé da un repentino giro de 180 grados y eso es todo lo que te puedo decir de este juegazo. Se alarga un poco el principio pero metele que vale la pena
+~~Doki doki: lo que empieza como un simulador de citas onda animé da un repentino giro de 180 grados y eso es todo lo que te puedo decir de este juegazo. Se alarga un poco el principio pero metele que vale la pena~~
 
 The big catch: Tacklebox: aventura 3D estilo ps1 en la que tenes una caña para pescar pero tambien para moverte por el entorno. Funciona como prologo para the big catch que sale en... Esta nueva moda se esta haciendo cada vez mas fuerte y ...
 
 Grimm's hollow: este es un hijo de Undertale y Deltarune, con una narrativa muy buena como es de esperarse y un combate por turnos bastante original (chequear)
+
+PARECIDO AL VALHALLA
 
 
