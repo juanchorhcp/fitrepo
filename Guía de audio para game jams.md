@@ -11,4 +11,5 @@ Trato de darle carácter a la música sin depender de muchos cambios interactivo
 
 Cuando la musica ya esta un 80% lista voy pensando ya en dedicarme a los efectos de sonido.
 
-Esto lo dejo mas o menos para las ultimas horas o dias porque tengo que esperar a que se defina bien como va a ser el juego. No me gusta dedicarle tanto tiempo a los sfx en una jam ya que la musica suele tener mas peso
+Esto lo dejo mas o menos para las ultimas horas o dias porque tengo que esperar a que se defina bien como va a ser el juego. No me gusta dedicarle tanto tiempo a los sfx en una jam ya que la musica suele tener mas peso y tambien es lo mas divertido de crear. 
+Generalmente me baso en librerias de sonidos y le doy mucha importancia a los sonidos que se van a disparar mas frecuentemente como un golpe del pj, el
