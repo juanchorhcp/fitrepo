@@ -16,4 +16,4 @@ Cuando la musica ya esta un 80% lista voy pensando ya en dedicarle tiempo a los 
 Esto lo dejo mas o menos para las ultimas horas o dias porque tengo que esperar a que se defina bien como va a ser el juego. No me gusta dedicarle tanto tiempo a los sfx en una jam ya que la musica suele tener mas peso y tambien es lo mas divertido de crear. 
 Generalmente me baso en librerias de sonidos y le doy mucha importancia a los sonidos que se van a disparar mas frecuentemente como un golpe del pj, el sonido de salto, los sonidos de los enemigos (sobre todo darles identidad) y voy diseñando los sonidos en base a prioridad baja, media y alta según su necesidad y la forma en la que están presentes en el juego.
 
-Muy muy impor
+Muy muy importante es hacer una tabla de los sonidos que voy a crear para no perderme y para que el equipo sepa
