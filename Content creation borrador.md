@@ -179,6 +179,6 @@ The big catch: Tacklebox: aventura 3D estilo ps1 en la que tenes una caña para 
 
 Grimm's hollow: este es un hijo de Undertale y Deltarune, con una narrativa muy buena como es de esperarse y un combate por turnos bastante original (chequear)
 
-PARECIDO AL VALHALLA
+D1al-ogue: me dijeron es como el Coffee talk pero de reparar androides. Y es la mejor frase para describirlo. Vas a reparar a estos se
 
 
