@@ -122,6 +122,8 @@ Leading with sound
 
 # Recomendación libros de juegos:
 
+Sagas: assassins y la cruzada secreta, libros de RBA, saga witcher. LISTO!
+
 Blood, sweat and pixels - Jason Schrier: historias de desarrollo sobre juegos como Uncharted 4, TW3, Stardew Valley, el infame star wars 1313 y más 
 
 The beauty of games - Frank Lantz 2023: una lectura sobre por que los juegos deben ser considerados arte, a la altura de la literatura o la música. No solo vj tambien por ej ajedrez, tenis y varios mas
