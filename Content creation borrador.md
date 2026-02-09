@@ -20,15 +20,16 @@ E) como mezclar para q sea uniforme
 
 Te voy a contar por que NT es un juego de culto gracias a su game feel y por su puesto, a su sonido.
 
+No le hace falta ser vistoso, confia en su frenetismo y en su personalidad. Y gran parte de su personalidad la da la música, los sonidos de los mutantes y las armas
+
 #1 Sus armas tienen caracter, personalidad, con un estilo realista mezclado procesado con un bitcrusher pero manteniendo el peso y el crunch para que sea satisfatorio disparar
 
   
-
 #2 Las voces de los personajes. Los mutantes tienen pocas lineas de voz pero muy icónicas  y que te ponen en el contexto del mundo del juego
 
-  
+#3 Por último su música es un 10/10. El tema principal sobre todo ya te mete de lleno en este mundo desolado
 
-No le hace falta ser vistoso, confia en su frenetismo y en su personalidad. Y gran parte de su personalidad la da la música, los sonidos de los mutantes y las armas
+
 
 **<mark style="background: #FFB8EBA6;">DESARROLLAR UN POCO MÁS!!</mark>**
   
