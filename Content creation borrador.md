@@ -23,7 +23,6 @@ Te voy a contar por que NT es un juego de culto gracias a su game feel y por su 
 #1 Sus armas tienen caracter, personalidad, con un estilo realista mezclado procesado con un bitcrusher pero manteniendo el peso y el crunch para que sea satisfatorio disparar
 
   
-  
 
 #2 Las voces de los personajes. Los mutantes tienen pocas lineas de voz pero muy icónicas  y que te ponen en el contexto del mundo del juego
 
@@ -174,7 +173,7 @@ Sheepy: si jugaste hollow knight lo vas a hermanar rapidamente con el, unas 3 ho
 
 Bloody hell: mv bullethell que se ve muy divertido y visualmente buenisimo
 
-Doki doki: lo que empieza como un simulador de citas onda animé da un repentino giro de 180 grados y eso es todo lo que te puedo decir de este juegazo. Se alarga un poco el principio pero metele que vale la pena.
+Doki doki: lo que empieza como un simulador de citas onda animé da un repentino giro de 180 grados y eso es todo lo que te puedo decir de este juegazo. Se alarga un poco el principio pero metele que vale la pena
 
 The big catch: Tacklebox: aventura 3D estilo ps1 en la que tenes una caña para pescar pero tambien para moverte por el entorno. Funciona como prologo para the big catch que sale en... Esta nueva moda se esta haciendo cada vez mas fuerte y ...
 
