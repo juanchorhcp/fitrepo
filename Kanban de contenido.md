@@ -11,13 +11,15 @@ kanban-plugin: board
 
 ## Próximo a grabar 🔴⏫
 
-- [ ] Reel percusión
 - [ ] [[Making of Quién mató al carnaval]]
-- [ ] [[Música que creen que hago vs lo que realmente hago]]
 
 
 ## Editar ✂ 🔺
 
+- [ ] [[Reel: Nuclear throne]]
+- [ ] [[Música que creen que hago vs lo que realmente hago]]
+- [ ] Reel percusión
+- [ ] [[Reel: libros de videojuegos 1]]
 
 
 ## Subido 🔼
