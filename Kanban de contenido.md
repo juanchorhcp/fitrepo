@@ -18,13 +18,13 @@ kanban-plugin: board
 
 ## Editar ✂ 🔺
 
-- [ ] [[Reflexión: usá internet a tu favor]]
 
 
 ## Subido 🔼
 
 **Complete**
 - [x] [[Guía de supervivencia GGJ2026]] ✅ 2026-02-04
+- [x] [[Reflexión: usá internet a tu favor]] ✅ 2026-02-09
 
 
 
