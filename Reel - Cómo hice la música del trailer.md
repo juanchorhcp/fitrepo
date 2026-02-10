@@ -6,4 +6,4 @@ Me pidieron hacer primero la música, sin imágenes. Solo que me base en alguno 
 4. Cuando entra el tema original es cuando caemos a tierra armónicamente
 5. Al propio tema lo orqueté un poquito más con cuerdas y agregandole vientos de metal para un final épico
 6. Punto extra: dedicarle tiempo a la mezcla fue clave para que el track original se amalgame con lo que yo grabé, sobre todo porque me lo dieron en un solo track y tuve que hacer un trabajo fino para que todo suene como una sola composición
-Nos ayudan wishlisteando el juego y compartiendo este reel y comentando 
+Nos ayudan mucho wishlisteando el juego, compartiendo este reel y comentando cual es tu parte favorita del trailer
