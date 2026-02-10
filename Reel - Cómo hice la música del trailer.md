@@ -3,6 +3,6 @@ Me pidieron hacer primero la música, sin imágenes. Solo que me base en alguno 
 1. Musica ya hecha: agarré el tema que más hype daba y que dentor del juego se utiliza para los momentos de tensión narrativa y cuando se está resolviendo el caso
 2. partí desde el momento de la caminata y pensé bueno un bajo estilo Red hot chili peppers puede quedar bien, dando sensación de pasos y avanzando
 3. Agregué cuerdas poco a poco y compuse la armonía de modo tal que se genere tensión
-4. orquestrar el piano para mas epicidad
-5.  final 
+4. Cuando entra el tema original es cuando caemos a tierra armónicamente
+5.  A este mismo
 6. como mezclar para q sea uniforme
