@@ -1,3 +1,6 @@
+---
+status: Editar ✂ 🔺
+---
 1. Mario main theme
 2. Zelda 1 main theme
 
