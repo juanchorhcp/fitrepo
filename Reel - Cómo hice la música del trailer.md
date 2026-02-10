@@ -4,5 +4,5 @@ Me pidieron hacer primero la música, sin imágenes. Solo que me base en alguno 
 2. partí desde el momento de la caminata y pensé bueno un bajo estilo Red hot chili peppers puede quedar bien, dando sensación de pasos y avanzando
 3. Agregué cuerdas poco a poco y compuse la armonía de modo tal que se genere tensión
 4. Cuando entra el tema original es cuando caemos a tierra armónicamente
-5.  A este mismo
-6. como mezclar para q sea uniforme
+5. Al propio tema lo orqueté un poquito más con cuerdas y agregandole vientos de metal para un final épico
+6. Punto extra: darl
