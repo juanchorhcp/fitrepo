@@ -6,7 +6,7 @@
 # [[🌅Morning pages]]
 _(escribir sin filtro, sin corregir, sin releer)_
 
-Ayer me enojé y hablé mal en 2 momentos. Esos dos momentos fueron cuando me di cuenta que había que hacer un cambio de planes (al final no) y cuando me di cuenta de que era muy tarde y había que dormir. Quiero pensar más en la segunda ya que no me esperaba chocar por eso ni en ese momento. Creo que
+Ayer me enojé y hablé mal en 2 momentos. Esos dos momentos fueron cuando me di cuenta que había que hacer un cambio de planes (al final no) y cuando me di cuenta de que era muy tarde y había que dormir. Quiero pensar más en la segunda ya que no me esperaba chocar por eso ni en ese momento. Creo que ya nos conocemos y de saber lo que piensa el otro ya nos enojamos (ej: yo pienso que quiere seguir charlando, ella piensa que no quiero seguir escuchándola?)
 
 
 
