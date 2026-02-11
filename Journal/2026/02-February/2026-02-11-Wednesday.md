@@ -6,7 +6,7 @@
 # [[🌅Morning pages]]
 _(escribir sin filtro, sin corregir, sin releer)_
 
-
+Ayer me enojé y hablé mal en 2 momentos. Esos dos momentos fueron cuando me d
 
 
 
