@@ -10,7 +10,7 @@ Ayer me enojé y hablé mal en 2 momentos. Esos dos momentos fueron cuando me di
 
 Desayunar nueces está copado, nunca lo hice. El tecito hoy está bien también.
 
-Siento que la psico valora el hecho de detenerme a pensar cosas por mi mismo. Y lo valora en el hecho de que en esos casos se da más la charla (se puede tomar )
+Siento que la psico valora el hecho de detenerme a pensar cosas por mi mismo. Y lo valora en el hecho de que en esos casos se da más la charla (se puede tomar como una recompensa dentro del formato de la sesión). ¿El silencio es en parte castigo? No lo sé. Pero nadie quiere quedarse en silencio, por una cosa o por otra.
 
 
 
