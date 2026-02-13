@@ -33,12 +33,12 @@ Comprar 1-2L de más 
 
 Turing leaf: 2L
 
-Bunny cake:
+Bunny cake: 9L
 
 Blanco para techo: 5L
 
 Blanco antihongos: 2L
 
-Cobertor de color:
+Cobertor de color: 
 
 Recuplast:
