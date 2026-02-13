@@ -39,6 +39,6 @@ Blanco para techo: 5L
 
 Blanco antihongos: 2L
 
-Cobertor de color: 
+Cobertor de color: 2L
 
-Recuplast:
+*sinteplast recublock 3 en 1
