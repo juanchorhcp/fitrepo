@@ -31,13 +31,13 @@ Comprar 1-2L de más 
 
 
 
-Turing leaf:
+Turing leaf: 2L
 
 Bunny cake:
 
-Blanco para techo:
+Blanco para techo: 5L
 
-Blanco antihongos:
+Blanco antihongos: 2L
 
 Cobertor de color:
 
