@@ -41,4 +41,4 @@ Blanco antihongos: 2L
 
 Cobertor de color: 2L
 
-*sinteplast recublock 3 en 1
+Sinteplast recublock 3 en 1: la lata mas chica que venga
