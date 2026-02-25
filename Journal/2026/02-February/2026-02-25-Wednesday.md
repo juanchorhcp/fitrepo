@@ -6,7 +6,7 @@
 # [[🌅Morning pages]]
 _(escribir sin filtro, sin corregir, sin releer)_
 
-Vuelvo a las páginas después de 2 semanas completas. Hoy miércoles toca ir a la coope. Siento que estoy avanzando en mi dolor de  la 
+Vuelvo a las páginas después de 2 semanas completas. Hoy miércoles toca ir a la coope. Siento que estoy avanzando en mi dolor de la pierna fortaleciendo mis músculos. Hace 2 semanas iba por el libro de Dune 1 jajaja. Leí un montón y me siento orgulloso. También está el hecho de que me encantó lo que leí
 
 
 
