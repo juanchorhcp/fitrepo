@@ -10,7 +10,9 @@ Vuelvo a las páginas después de 2 semanas completas. Hoy miércoles toca ir a 
 
 Tuve problemas de rutina de componer agregándole las redes sociales. Siento que es una o es otra. Ojalá tuviera energía para las dos. Lo bueno de eso es que si no tengo ganas de una, ya se que tengo que dedicarme a la otra ese día/semana.
 
-Me hice un té porque me sentía inflamado (a)
+Me hice un té porque me sentía inflamado (anoche comí bastante).
+
+El lunes la despedimos a Clarita. Me hizo salir a la luz recuerdos de mis 
 
 
 
