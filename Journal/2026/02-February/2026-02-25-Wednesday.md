@@ -12,7 +12,7 @@ Tuve problemas de rutina de componer agregándole las redes sociales. Siento que
 
 Me hice un té porque me sentía inflamado (anoche comí bastante).
 
-El lunes la despedimos a Clarita. Me hizo salir a la luz recuerdos de mis 
+El lunes la despedimos a Clarita. Me hizo salir a la luz recuerdos de mis experiencias con muertes de mascotas, sobre todo de Gamuza al ser mi primera vez. Son dolores que nunca se nos van del todo. Uno aprende a vivir con ellos, como todo duelo. 
 
 
 
