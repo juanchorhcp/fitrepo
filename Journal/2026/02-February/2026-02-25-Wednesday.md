@@ -8,7 +8,9 @@ _(escribir sin filtro, sin corregir, sin releer)_
 
 Vuelvo a las páginas después de 2 semanas completas. Hoy miércoles toca ir a la coope. Siento que estoy avanzando en mi dolor de la pierna fortaleciendo mis músculos. Hace 2 semanas iba por el libro de Dune 1 jajaja. Leí un montón y me siento orgulloso. También está el hecho de que me encantó lo que leí.
 
-Tuve problemas de rutina de componer agregándole las redes sociales. Siento que es una o es otra. Ojalá tuviera energía para las dos. 
+Tuve problemas de rutina de componer agregándole las redes sociales. Siento que es una o es otra. Ojalá tuviera energía para las dos. Lo bueno de eso es que si no tengo ganas de una, ya se que tengo que dedicarme a la otra ese día/semana.
+
+Me hice un té porque me sentía inflamado (a)
 
 
 
