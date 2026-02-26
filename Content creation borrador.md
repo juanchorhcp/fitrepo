@@ -4,11 +4,6 @@
 
 # Juegos retro que son una joya podes jugar en cualquier celu o pc
 
-Ver ig Retrogames1337
-
-Zelda minish cap
-
-Megaman battle network
 
   
 
