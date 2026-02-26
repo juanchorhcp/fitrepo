@@ -29,56 +29,21 @@ _(escribir sin filtro, sin corregir, sin releer)_
 ---
 
 ## ✨ Algo que me emociona
-_(aunque sea chiquito o a futuro)_
+
 
 ---
 
 ## 🧠 Algo que pensé ayer
-_(rescate del día anterior)_
+
  
 ---
 
 ## 🏆 Logros del día 
-- Algo que hice bien ayer/hoy:
-- Algo que evité hacer y estuvo bien:
+
 
 ---
 
-## 🎵 Registro creativo — Música & Sonido
-_(no hace falta completar todo)_
-
-- 🎧 **Sonido del día:**  
-  *(ambiente, ruido, textura, sample mental)*
-- 🧪 **Idea sonora:**  
-  *(procesamiento, efecto, cadena, concepto)*
-- 🎼 **Canción del día:**
-- 🧠 **Música que apareció:**  
-  *(tema, OST, artista, juego, película*)
-- 🛠️ **Algo técnico:**  
-  *(plugin, mic, técnica, error interesante)*
-
----
-
-## 🎮 Registro creativo — Juegos / Mundos
-- 🎮 **Juego de hoy:** 
-- 🗺️ **Idea de mundo / escenario:**
-- 👤 **Personaje:**
-- ⚔️ **Mecánica:**
-- 🎭 **Tono emocional:**  
-- 🔊 **Idea de sonido para gameplay:**  
-
----
-## 📚 Registro creativo — Libros
-- 📕 **Libro de hoy:** 
-- 🗺️ **Idea de mundo / escenario:**
-- 👤 **Personaje:**
-- ✍🏼 **Frase interesante:** 
-- 🎭 **Tono emocional:**  
-- 📝 **Idea de plot:**  
-  
----
-## ❔ Pregunta del día
-*Ej: ¿Qué estoy evitando mirar? ¿Esto es miedo o intuición? ¿Qué necesita mi parte creativa hoy? ¿Estoy creando o solo preparándome para crear?*
+## 🎵 Registro creativo — Música, juegos, libros
 
 ---
 
