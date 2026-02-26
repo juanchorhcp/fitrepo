@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] [[Mostrar riff de Coffee bombon]]
 - [ ] [[Cosas en las que hago foco en una mezcla]]
 - [ ] [[Reel - Libros de música]]
+- [ ] [[Reel - Libros de videojuegos 2]]
 
 
 ## Próximo a grabar 🔴⏫
