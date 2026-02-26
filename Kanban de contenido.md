@@ -9,6 +9,8 @@ kanban-plugin: board
 - [x] [[Guía de audio para game jams]] ✅ 2026-02-04
 - [ ] [[Deberíamos trabajar juntos si...]]
 - [ ] [[Mostrar riff de Coffee bombon]]
+- [ ] [[Cosas en las que hago foco en una mezcla]]
+- [ ] Reel - Libros de música
 
 
 ## Próximo a grabar 🔴⏫
