@@ -2,9 +2,7 @@
 
 # Old game- new game recs
 
-Ej: blasphemous - mariachi legends
 
-Cuando me hypeen un par de próximos lanz o tapados ya lanzados
 
 # Free games
 No hay excusa para jugar si están estos
