@@ -40,14 +40,12 @@ _Escribir sin filtro, sin corregir, sin releer_
 
 ## 🎵 Registro creativo — Música, juegos, libros
 
+
 ---
 
 ## 🌙 Mini cierre
-- Pregunta que ronda en mi cabeza:
-- Necesito ser guiado en:
-
-
-*... por la mañana quizás escuche alguna respuesta*
+*Pregunta que ronda en mi cabeza/Necesito ser guiado en*...
+*…por la mañana quizás escuche alguna respuesta*
 
 
 ---
