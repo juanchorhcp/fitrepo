@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] [[Dump - Juegos retro que podes jugar en cualquier celu o PC]]
 - [ ] [[Reel - Old game new game recs]]
 - [ ] [[Dump o Reel - Juegos gratuitos]]
+- [ ] [[Dump o Reel - Juegos cooperativos]]
 
 
 ## Próximo a grabar 🔴⏫
