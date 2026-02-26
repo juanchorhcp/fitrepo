@@ -17,7 +17,7 @@ kanban-plugin: board
 
 ## Editar ✂ 🔺
 
-- [ ] [[Reel: Nuclear throne]]
+- [ ] [[Reel - Nuclear Throne]]
 - [ ] [[Música que creen que hago vs lo que realmente hago]]
 - [ ] Reel percusión
 - [ ] [[Reel - libros de videojuegos 1]]

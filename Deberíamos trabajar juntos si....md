@@ -1,3 +1,6 @@
+---
+status: Ideas ✨
+---
 Guardado en IG
 
 Si te gustan los rpg
