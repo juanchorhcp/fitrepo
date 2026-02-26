@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [x] [[Guía de audio para game jams]] ✅ 2026-02-04
 - [ ] [[Deberíamos trabajar juntos si...]]
+- [ ] [[Mostrar riff de Coffee bombon]]
 
 
 ## Próximo a grabar 🔴⏫
