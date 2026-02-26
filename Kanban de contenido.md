@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Ideas ✨
 
 - [x] [[Guía de audio para game jams]] ✅ 2026-02-04
+- [ ] [[Deberíamos trabajar juntos si...]]
 
 
 ## Próximo a grabar 🔴⏫
