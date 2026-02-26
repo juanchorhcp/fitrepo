@@ -1,3 +1,6 @@
+---
+status: Ideas ✨
+---
 Ej: blasphemous - mariachi legends
 
 Voy a mostrar:

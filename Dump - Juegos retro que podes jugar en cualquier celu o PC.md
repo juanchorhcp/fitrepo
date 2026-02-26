@@ -1,3 +1,6 @@
+---
+status: Ideas ✨
+---
 
 Ver ig Retrogames1337
 
