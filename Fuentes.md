@@ -1,0 +1,3 @@
+https://www.deryakbadesigns.com/blog/the-best-cozy-fonts-for-your-next-graphic-design-project?fbclid=PAT01DUAQL65BleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadRfXuVLSiPXmzL_JasmuECA4Z5YWYYfPPzbOxen_AANmwnjyRYTR7XxPbaQQ_aem_G-SLBidWqea2IFR5dFeWIg
+
+Cozy fonts (download)
