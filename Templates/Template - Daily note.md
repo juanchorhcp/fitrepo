@@ -25,10 +25,8 @@ _(realista, humano, no épico)_
 
 ---
 
-## 💭 En qué está girando mi cabeza
-- Pensamiento recurrente:
-- Preocupación no invitada:
-- Idea que apareció sin contexto:
+## ⌚ Daily log
+
 
 ---
 
