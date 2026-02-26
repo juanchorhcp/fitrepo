@@ -4,30 +4,25 @@
 
 ---
 # [[🌅Morning pages]]
-_(escribir sin filtro, sin corregir, sin releer)_
-
-
-
+_Escribir sin filtro, sin corregir, sin releer_
 
 
 ---
-
 ## 🎯 Algo que me gustaría hacer hoy
 *Realista, humano, no épico*
 
 
 ---
-
 ## 🧠 Algo con lo que estoy struggling
 *¿Qué es? ¿Qué lo hace difícil? ¿Qué emoción aparece primero?*
 
----
 
+---
 ## ⌚ Daily log
 *Poner horario y actividades*
 
----
 
+---
 ## ✨ Algo que me emociona
 
 
