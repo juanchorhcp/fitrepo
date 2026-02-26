@@ -4,4 +4,8 @@ Grabar en varios lados!
 
 Música:
 - Algo synthy
-- Algo orquestal: tr
+- Algo orquestal: trailer Outlawyer
+- Algo raro: Sekiro
+- Carnaval? medio repetititvo?
+
+Elegir lo mejor!!
