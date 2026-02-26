@@ -1,7 +1,7 @@
 ---
 status: Ideas ✨
 ---
-Guardado en IG
+! Guardado en IG (we should be friends if...)
 
 ### Si te gustan estos juegos (mis favoritos)
 Hyper light drifter
