@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] [[Cosas en las que hago foco en una mezcla]]
 - [ ] [[Reel - Libros de música]]
 - [ ] [[Reel - Libros de videojuegos 2]]
+- [ ] [[Reel - Hago música que suena así]]
 
 
 ## Próximo a grabar 🔴⏫
