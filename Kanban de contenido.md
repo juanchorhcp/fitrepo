@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] [[Reel - Hago música que suena así]]
 - [ ] [[Dump - Juegos retro que podes jugar en cualquier celu o PC]]
 - [ ] [[Reel - Old game new game recs]]
+- [ ] [[Dump o Reel - Juegos gratuitos]]
 
 
 ## Próximo a grabar 🔴⏫
