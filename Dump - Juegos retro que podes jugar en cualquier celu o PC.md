@@ -1,12 +1,12 @@
 
 Ver ig Retrogames1337
 
-Zelda minish cap
+Zelda minish cap (GBA)
 
-Megaman battle network
+Megaman battle network (GBA)
 
-Chrono trigger
+Chrono trigger (Android- iOS)
 
-Evan´s remains
+Evan´s remains (Crunchyroll)
 
-Thunder Ray?
+Thunder Ray? (Crunchyroll)

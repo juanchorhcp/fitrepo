@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] [[Reel - Libros de videojuegos 2]]
 - [ ] [[Reel - Hago música que suena así]]
 - [ ] [[Dump - Juegos retro que podes jugar en cualquier celu o PC]]
+- [ ] Reel - Old game new game recs
 
 
 ## Próximo a grabar 🔴⏫

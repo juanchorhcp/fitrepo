@@ -1,11 +1,4 @@
 
-# 
- 
-
-# Juegos retro que son una joya podes jugar en cualquier celu o pc
-
-
-  
 
 # Old game- new game recs
 
