@@ -13,15 +13,13 @@ _(escribir sin filtro, sin corregir, sin releer)_
 ---
 
 ## 🎯 Algo que me gustaría hacer hoy
-_(realista, humano, no épico)_
+*Realista, humano, no épico*
 
 
 ---
 
 ## 🧠 Algo con lo que estoy struggling
-- ¿Qué es?
-- ¿Qué lo hace difícil?
-- ¿Qué emoción aparece primero?
+*¿Qué es? ¿Qué lo hace difícil? ¿Qué emoción aparece primero?*
 
 ---
 
