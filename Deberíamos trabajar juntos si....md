@@ -25,5 +25,8 @@ Soy gamer primero y músico en segundo lugar. Tengo muchísimas referencias musi
 ### Si amás los juegos viejos
 Poner algo de la nostalgia y cuanto amamos los juegos con los que nos criamos
 
-###Si se te agota la batería social rapido
+### Si se te agota la batería social rapido (?)
+
+### Hola! Soy Juan 
+bio copadita ver post guardado
 
