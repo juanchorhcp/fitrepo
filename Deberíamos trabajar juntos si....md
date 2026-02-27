@@ -5,6 +5,7 @@ status: Ideas ✨
 
 ### Si necesitas darle música al mundo que estás creando
 Foto de libros + lenovo + kobo + joystick ... Sobre la cama o el sillon
+Hablar delntiempony el amor q le virnen poniendo a su juego
 
 ### Si te gustan estos juegos (mis favoritos)
 Hyper light drifter
