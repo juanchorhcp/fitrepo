@@ -7,6 +7,9 @@ status: Ideas ✨
 Foto de libros + lenovo + kobo + joystick ... Sobre la cama o el sillon
 Hablar delntiempony el amor q le virnen poniendo a su juego
 
+### Si queres audio que eleve ls experiencia
+
+Juego muchos juegos. Ya 
 ### Si te gustan estos juegos (mis favoritos)
 Hyper light drifter
 Hollow
