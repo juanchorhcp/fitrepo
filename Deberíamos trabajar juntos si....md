@@ -9,7 +9,7 @@ Hablar delntiempony el amor q le virnen poniendo a su juego
 
 ### Si queres audio que eleve ls experiencia
 
-Juego muchos juegos. Ya 
+Juego muchos juegos. Ya lo dije? Y los mejores juegos no tienen audio que solamente acompaña. Tienen audio wue 
 ### Si te gustan estos juegos (mis favoritos)
 Hyper light drifter
 Hollow
