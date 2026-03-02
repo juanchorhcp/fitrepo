@@ -6,3 +6,4 @@ The book of bobba fett
 Mandalorian S3
 Skeleton crew
 Ahsoka
+Acolyte
