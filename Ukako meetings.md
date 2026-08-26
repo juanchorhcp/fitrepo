@@ -11,4 +11,4 @@ Idea de encierro. Lugares estrechos por donde pasará el pj
 
 Oscuridad. El primer nivel muestra un lugar que da sensación de encierro, quedarse atrapado.
 
-Inicio de aventura. 
+Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a un héroe. Se puede lograr con un ritmo que de idea de avanzar, caminar, trotar
