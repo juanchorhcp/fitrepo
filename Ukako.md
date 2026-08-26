@@ -3,13 +3,13 @@ encierro, mitológico, autóctono, oscuro, extraño, inicio
 
 ### Refes: 
 Santaolalla
-
 Hades
-
 Blasphemous
 
 #### Pensamientos
 Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del litoral
+
+Comentario de Javi 26/8/26:
 
 ## Biomas
 
@@ -26,4 +26,5 @@ La región presenta los siguientes [biomas](https://es.wikipedia.org/wiki/Bioma
 ### Instrumentos
 Charango
 Guitarra nylon
-Erke(viento)
+Erke (viento)
+Sicu
