@@ -1,10 +1,11 @@
-Pensamientos:
+### Key words: 
+encierro, mitológico, autóctono, oscuro, extraño, inicio
 
-Emociones: encierro, mitológico, autóctono,
-
-Refes: 
+### Refes: 
 Santaolalla
 
 Hades
 
 Blasphemous
+
+#### Pensamientos
