@@ -5,6 +5,7 @@ encierro, mitológico, autóctono, oscuro, extraño, inicio
 **Santaolalla**
 [Gustavo Santaolalla - Alma (Audio) - YouTube](https://www.youtube.com/watch?v=GYQWGomAbns&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC) Me gusta como con un solo instrumento da la vibe que creo que debería tener el nivel 1. Me gustaría tener un mejor impacto de primeras 
 [Gustavo Santaolalla - Vamos (Audio) - YouTube](https://www.youtube.com/watch?v=MMCRqaFxwko&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC&index=2) Me gusta para un momento de hablar con NPC
+[Gustavo Santaolalla - Requiem (Audio) - YouTube](https://www.youtube.com/watch?v=jHxPj_H2XIE&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC&index=3) Momento de charla instrospectiva con NPC o para después de un jefe con peso en la historia
 
 
 **Hades**
