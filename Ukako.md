@@ -22,3 +22,8 @@ La región presenta los siguientes [biomas](https://es.wikipedia.org/wiki/Bioma
 - [Sierras subandinas](https://es.wikipedia.org/wiki/Sierras_subandinas "Sierras subandinas")
 - [Yunga](https://es.wikipedia.org/wiki/Yunga "Yunga")
 - El [ecotono](https://es.wikipedia.org/wiki/Ecotono "Ecotono") transicional entre el [Chaco](https://es.wikipedia.org/wiki/Gran_Chaco "Gran Chaco") y las [Yungas](https://es.wikipedia.org/wiki/Yungas "Yungas").
+- triángulo de Litio: NOA Argentino, Bolivia y Chile
+### Instrumentos
+Charango
+Guitarra nylon
+Erke(viento)
