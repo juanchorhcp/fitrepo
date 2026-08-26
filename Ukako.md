@@ -5,6 +5,7 @@ encierro, mitológico, autóctono, oscuro, extraño, inicio
 Santaolalla
 Hades
 Blasphemous
+[Embrujo - YouTube](https://www.youtube.com/watch?v=-wZWe2dPl8Q&list=OLAK5uy_nWls9fAiPKo_QkYeUhu8r8eZOuZfgBBW8&index=8) Me gusta la sensación de caminar que da. Sigue siendo muy uplifting pero se adecúa mucho más que otros temas folclóricos que escuché
 
 #### Pensamientos
 Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del litoral
