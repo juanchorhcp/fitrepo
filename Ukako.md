@@ -9,3 +9,4 @@ Hades
 Blasphemous
 
 #### Pensamientos
+Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folc
