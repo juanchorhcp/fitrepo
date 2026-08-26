@@ -9,4 +9,6 @@ Idea de pasillos. Momento de introspección del jugador. Posibilidad de narrador
 
 Idea de encierro. Lugares estrechos por donde pasará el pj
 
-Oscuridad. El primer nivel muestra un lugar que da sensación de encierro, quedarse atrapado, 
+Oscuridad. El primer nivel muestra un lugar que da sensación de encierro, quedarse atrapado.
+
+Inicio de aventura. 

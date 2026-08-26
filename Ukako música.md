@@ -2,12 +2,16 @@
 encierro, mitológico, autóctono, oscuro, extraño, inicio
 
 ### Refes: 
-Santaolalla
+**Santaolalla**
 [Gustavo Santaolalla - Alma (Audio) - YouTube](https://www.youtube.com/watch?v=GYQWGomAbns&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC) Me gusta como con un solo instrumento da la vibe que creo que debería tener el nivel 1. Me gustaría tener un mejor impacto de primeras 
-[Fetching Title#g9tj](https://www.youtube.com/watch?v=MMCRqaFxwko&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC&index=2) M
+[Gustavo Santaolalla - Vamos (Audio) - YouTube](https://www.youtube.com/watch?v=MMCRqaFxwko&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC&index=2) Me gusta para un momento de hablar con NPC
 
-Hades
-Blasphemous
+
+**Hades**
+
+**Blasphemous**
+
+**Otros**
 [Embrujo - YouTube](https://www.youtube.com/watch?v=-wZWe2dPl8Q&list=OLAK5uy_nWls9fAiPKo_QkYeUhu8r8eZOuZfgBBW8&index=8) Me gusta la sensación de caminar que da. Sigue siendo muy uplifting pero se adecúa mucho más que otros temas folclóricos que escuché
 
 ### Pensamientos
