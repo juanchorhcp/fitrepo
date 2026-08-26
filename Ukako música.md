@@ -10,10 +10,6 @@ Blasphemous
 ### Pensamientos
 Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del litoral
 
-Comentario de Javi 26/8/26:
-*hacer canal de "musica recursos en dicord para juancho, Ref imagenes, 
-descripciones de que se puede "sentir" o que instrumiento siento que escucharia en ese contexto, 
-los de arte son los mejores amigos del musico ayudarlo a acercar la experiencia y referencias a un lenguaje de emociones, las emocienoes e imagenes visuales son el puente entre ARTE y MÚSICA"
 
 ### Instrumentos
 Charango
@@ -32,3 +28,4 @@ La región presenta los siguientes [biomas](https://es.wikipedia.org/wiki/Bioma
 - [Yunga](https://es.wikipedia.org/wiki/Yunga "Yunga")
 - El [ecotono](https://es.wikipedia.org/wiki/Ecotono "Ecotono") transicional entre el [Chaco](https://es.wikipedia.org/wiki/Gran_Chaco "Gran Chaco") y las [Yungas](https://es.wikipedia.org/wiki/Yungas "Yungas").
 - triángulo de Litio: NOA Argentino, Bolivia y Chile
+
