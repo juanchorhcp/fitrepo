@@ -3,6 +3,8 @@ encierro, mitológico, autóctono, oscuro, extraño, inicio
 
 ### Refes: 
 Santaolalla
+[Gustavo Santaolalla - Alma (Audio) - YouTube](https://www.youtube.com/watch?v=GYQWGomAbns&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC) Me gusta como con un solo instrumento da la vibe que creo que debería tener el nivel 1. Me gustaría que
+
 Hades
 Blasphemous
 [Embrujo - YouTube](https://www.youtube.com/watch?v=-wZWe2dPl8Q&list=OLAK5uy_nWls9fAiPKo_QkYeUhu8r8eZOuZfgBBW8&index=8) Me gusta la sensación de caminar que da. Sigue siendo muy uplifting pero se adecúa mucho más que otros temas folclóricos que escuché
