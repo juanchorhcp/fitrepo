@@ -34,6 +34,7 @@ Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a 
 - Pedir todas las refes o info que necesite
 - Charlar cuestiones con Javi y Fede
 - Sesión de capacitación Git el miércoles 2/9
+- 
 - Prioridad: pj bien animado así que también será prioridad los ==SFX del PJ==
 
 #### Tareas:
@@ -42,3 +43,4 @@ Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a 
 - Acomodar Reaper
 - Repasar mis notas de El carnaval del diablo (instrumentos, etc.)
 - Sheet de sfx (pj, enemigo, poderes)
+- Recordar canal de discord de refes PERO sería apropiado filtrar y llevarlo al Milanote
