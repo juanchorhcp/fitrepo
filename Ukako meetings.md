@@ -49,4 +49,4 @@ Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a 
 - Recordar canal de discord de refes PERO sería apropiado filtrar y llevarlo al Milanote
 
 #### Ideas:
-Que el teleport 
+Que el teleport del pico haya que activarlo manualmente. Esto da juego para que se lance el pico, se camine/luche y luego se active el teleport convenientemente. También da juego para el plataformeo
