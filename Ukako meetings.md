@@ -14,3 +14,8 @@ Oscuridad. El primer nivel muestra un lugar que da sensación de encierro, queda
 Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a un héroe. Se puede lograr con un ritmo que de idea de avanzar, caminar, trotar
 
 #### Laboralmente me quedé con:
+- Refrescar FMOD
+- Instalar Reaper
+- Acomodar Reaper
+- Repasar mis notas de El carnaval del diablo
+- 
