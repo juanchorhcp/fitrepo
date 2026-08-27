@@ -34,11 +34,11 @@ Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a 
 - Pedir todas las refes o info que necesite
 - Charlar cuestiones con Javi y Fede
 - Sesión de capacitación Git el miércoles 2/9
+- Prioridad
 
 #### Tareas:
 - Refrescar FMOD
 - Instalar Reaper
 - Acomodar Reaper
 - Repasar mis notas de El carnaval del diablo (instrumentos, etc.)
-
-- 
+- Sheet de sfx (pj, enemigo, poderes)
