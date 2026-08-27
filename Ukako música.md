@@ -23,6 +23,8 @@ Esuchar the last of us OST
 **Otros**
 [Embrujo - YouTube](https://www.youtube.com/watch?v=-wZWe2dPl8Q&list=OLAK5uy_nWls9fAiPKo_QkYeUhu8r8eZOuZfgBBW8&index=8) Me gusta la sensación de caminar que da. Sigue siendo muy uplifting pero se adecúa mucho más que otros temas folclóricos que escuché
 
+https://music.youtube.com/watch?v=IgdiHIPDXIU&si=xSXpngycfml4hvh0 sensacion de desesperacion y encierro, epico. Impacta de primera. Me gusta mucho para el primer nivel
+
 ### Pensamientos
 Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del NOA
 
