@@ -26,6 +26,7 @@ Esuchar the last of us OST
 ### Pensamientos
 Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del NOA
 Cuales van a ser los momentos narrativos de esta demo?
+No hace falta q sea cinematica o dialogo. Cualquier momento
 
 ### Instrumentos
 Charango
