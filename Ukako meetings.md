@@ -6,6 +6,8 @@ los de arte son los mejores amigos del musico ayudarlo a acercar la experiencia 
 
 #### Equipo:
 Dirección: Fede
+Guión: 
+Arte: Javier, Lisandro
 
 
 #### Artísticamente me quedé con:
