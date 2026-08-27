@@ -1,1 +1,3 @@
-Cancion riff acustica ---> Acorde a doubt (it'd be sad to got through time) F chord (creo que es I pero la tonalidad es el relativo menor Dm)
+Cancion riff acustica ---> Acorde a doubt (it'd be sad to got through time) F chord (creo que es I pero la tonalidad esta en el relativo menor Dm)
+
+Gliff plugin https://getgliff.com/?mcp_token=eyJwaWQiOjgzNDc1MCwic2lkIjoxOTExODcxODM3LCJheCI6ImU4NTFhZjIyZmU1N2FjNGM3Yjg5M2FlYzgxYmU2NTVlIiwidHMiOjE3ODY2MTY1MzUsImV4cCI6MTc4OTAzNTczNX0.Zu49S4rCPHO9cVsLv1pt4aw_xqaVN5--nXcvT86MvC8&fbclid=PAT01DUATqejRwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2ezjR98tuKaRSB4mR9V9bwaCmHA__asvoN22mptqiiQYwKaYA334qWt0ouT_aem_Cds7CjX7w595Rmu4dCSIzw
