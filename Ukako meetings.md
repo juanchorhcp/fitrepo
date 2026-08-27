@@ -25,4 +25,4 @@ Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a 
 - Acomodar Reaper
 - Repasar mis notas de El carnaval del diablo
 - Pedir todas las refes o info que necesite
-- 
+- Sesión de capacitación Git el miércoles 2/9
