@@ -7,7 +7,7 @@ encierro, mitológico, autóctono, oscuro, extraño, inicio
 [Gustavo Santaolalla - Vamos (Audio) - YouTube](https://www.youtube.com/watch?v=MMCRqaFxwko&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC&index=2) Me gusta para un momento de hablar con NPC
 [Gustavo Santaolalla - Requiem (Audio) - YouTube](https://www.youtube.com/watch?v=jHxPj_H2XIE&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC&index=3) Momento de charla instrospectiva con NPC o para después de un jefe con peso en la historia
 The maze me gusta el tono a pelea o conflicto q tiene. La aceleraria.
-Parana: mg para expl pero se tirna alegre. Mg el contrapunto
+Parana: mg para expl pero se tirna alegre. Mg el contrapunto. Tambien sirve para momento
 
 Seguir escuchando: 
 Esuchar the last of us OST
