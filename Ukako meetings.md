@@ -10,7 +10,12 @@ Guión:
 Arte: Javier, Lisandro
 Programación: Jerónimo
 
-###
+#### La build de septiembre va a tener:
+- Escena introductoria con imágenes estáticas
+- 3 rooms
+- Animaciones del pj pulidas
+- Men
+- NO jefes
 
 #### Artísticamente me quedé con:
 Idea de pasillos. Momento de introspección del jugador. Posibilidad de narrador o que el pj hable
