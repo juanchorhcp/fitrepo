@@ -7,8 +7,7 @@ encierro, mitológico, autóctono, oscuro, extraño, inicio
 [Gustavo Santaolalla - Vamos (Audio) - YouTube](https://www.youtube.com/watch?v=MMCRqaFxwko&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC&index=2) Me gusta para un momento de hablar con NPC
 [Gustavo Santaolalla - Requiem (Audio) - YouTube](https://www.youtube.com/watch?v=jHxPj_H2XIE&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC&index=3) Momento de charla instrospectiva con NPC o para después de un jefe con peso en la historia
 Seguir escuchando: the maze
-
-Esuchar the last of us 
+Esuchar the last of us OST
 
 
 **Hades**
@@ -19,7 +18,7 @@ Esuchar the last of us
 [Embrujo - YouTube](https://www.youtube.com/watch?v=-wZWe2dPl8Q&list=OLAK5uy_nWls9fAiPKo_QkYeUhu8r8eZOuZfgBBW8&index=8) Me gusta la sensación de caminar que da. Sigue siendo muy uplifting pero se adecúa mucho más que otros temas folclóricos que escuché
 
 ### Pensamientos
-Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del litoral
+Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del NOA
 
 
 ### Instrumentos
