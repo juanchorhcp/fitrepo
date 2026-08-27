@@ -4,6 +4,8 @@ Comentario de Javi
 descripciones de que se puede "sentir" o que instrumiento siento que escucharia en ese contexto, 
 los de arte son los mejores amigos del musico ayudarlo a acercar la experiencia y referencias a un lenguaje de emociones, las emocienoes e imagenes visuales son el puente entre ARTE y MÚSICA"
 
+Javi participará de la charla para el Pitch 
+
 #### Equipo:
 Dirección: Fede
 Guión: 
