@@ -34,7 +34,7 @@ Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a 
 - Pedir todas las refes o info que necesite
 - Charlar cuestiones con Javi y Fede
 - Sesión de capacitación Git el miércoles 2/9
-- 
+- Se está escribiendo un docs sobre cirterios de aceptación de los assets
 - Prioridad: pj bien animado así que también será prioridad los ==SFX del PJ==
 
 #### Tareas:
