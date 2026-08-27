@@ -31,11 +31,14 @@ Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a 
 
 #### Laboralmente me quedé con:
 -  **Meta crítica es el *16 de septiembre* a las 14:30 horas en el Parque Yamacio Diama para la presentación**
-- 
+- Pedir todas las refes o info que necesite
+- Charlar cuestiones con Javi y Fede
+- Sesión de capacitación Git el miércoles 2/9
+
+#### Tareas:
 - Refrescar FMOD
 - Instalar Reaper
 - Acomodar Reaper
-- Repasar mis notas de El carnaval del diablo
-- Pedir todas las refes o info que necesite
-- Sesión de capacitación Git el miércoles 2/9
+- Repasar mis notas de El carnaval del diablo (instrumentos, etc.)
+
 - 
