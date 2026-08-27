@@ -8,7 +8,9 @@ los de arte son los mejores amigos del musico ayudarlo a acercar la experiencia 
 Dirección: Fede
 Guión: 
 Arte: Javier, Lisandro
+Programación: Jerónimo
 
+###
 
 #### Artísticamente me quedé con:
 Idea de pasillos. Momento de introspección del jugador. Posibilidad de narrador o que el pj hable
@@ -26,3 +28,4 @@ Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a 
 - Repasar mis notas de El carnaval del diablo
 - Pedir todas las refes o info que necesite
 - Sesión de capacitación Git el miércoles 2/9
+- 
