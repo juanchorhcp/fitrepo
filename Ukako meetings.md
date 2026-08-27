@@ -4,7 +4,7 @@ Comentario de Javi
 descripciones de que se puede "sentir" o que instrumiento siento que escucharia en ese contexto, 
 los de arte son los mejores amigos del musico ayudarlo a acercar la experiencia y referencias a un lenguaje de emociones, las emocienoes e imagenes visuales son el puente entre ARTE y MÚSICA"
 
-Javi participará de la charla para el Pitch 
+Javi participará de la charla para el Pitch de Incubate
 
 #### Equipo:
 Dirección: Fede
@@ -30,6 +30,8 @@ Oscuridad. El primer nivel muestra un lugar que da sensación de encierro, queda
 Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a un héroe. Se puede lograr con un ritmo que de idea de avanzar, caminar, trotar
 
 #### Laboralmente me quedé con:
+-  **Meta crítica es el *16 de septiembre* a las 14:30 horas en el Parque Yamacio Diama para la presentación**
+- 
 - Refrescar FMOD
 - Instalar Reaper
 - Acomodar Reaper
