@@ -41,12 +41,14 @@ Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a 
 - Prioridad: pj bien animado así que también será prioridad los ==SFX del PJ==
 
 #### Tareas:
+- Ver resumen de las meetings del 12, 19 y 26 (mentoring)
 - Refrescar FMOD
 - Instalar Reaper
 - Acomodar Reaper
 - Repasar mis notas de El carnaval del diablo (instrumentos, etc.)
 - Sheet de sfx (pj, enemigo, poderes)
 - Recordar canal de discord de refes PERO sería apropiado filtrar y llevarlo al Milanote
+- 
 
 #### Ideas:
 Que el teleport del pico haya que activarlo manualmente. Esto da juego para que se lance el pico, se camine/luche y luego se active el teleport convenientemente. También da juego para el plataformeo. Chequear como lo hace Aeterna noctis
