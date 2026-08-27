@@ -47,3 +47,6 @@ Inicio de aventura. Debería transmitirlo pero despacio. No estamos manejando a 
 - Repasar mis notas de El carnaval del diablo (instrumentos, etc.)
 - Sheet de sfx (pj, enemigo, poderes)
 - Recordar canal de discord de refes PERO sería apropiado filtrar y llevarlo al Milanote
+
+#### Ideas:
+Que el teleport 
