@@ -9,6 +9,8 @@ encierro, mitológico, autóctono, oscuro, extraño, inicio
 The maze me gusta el tono a pelea o conflicto q tiene. La aceleraria.
 Parana: mg para expl pero se tirna alegre. Mg el contrapunto. Tambien sirve para momento de pueblo o reencuentro
 
+Returning: momento pasill
+
 Seguir escuchando: 
 Esuchar the last of us OST
 
