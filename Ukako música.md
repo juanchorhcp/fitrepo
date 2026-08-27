@@ -8,7 +8,8 @@ encierro, mitológico, autóctono, oscuro, extraño, inicio
 [Gustavo Santaolalla - Requiem (Audio) - YouTube](https://www.youtube.com/watch?v=jHxPj_H2XIE&list=PLccjuxNZSsan0Al1cPitk-QU706hK4lmC&index=3) Momento de charla instrospectiva con NPC o para después de un jefe con peso en la historia
 The maze me gusta el tono a pelea o conflicto q tiene. La aceleraria.
 Parana: mg para expl pero se tirna alegre. Mg el contrapunto
-Seguir escuchando: the maze
+
+Seguir escuchando: 
 Esuchar the last of us OST
 
 
