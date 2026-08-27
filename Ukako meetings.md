@@ -7,14 +7,15 @@ los de arte son los mejores amigos del musico ayudarlo a acercar la experiencia 
 #### Equipo:
 Dirección: Fede
 Guión: 
-Arte: Javier, Lisandro
+Arte: Javier, Adriel, José
 Programación: Jerónimo
 
 #### La build de septiembre va a tener:
 - Escena introductoria con imágenes estáticas
 - 3 rooms
 - Animaciones del pj pulidas
-- Men
+- Menú, interfaz (menú de pausa imagino)
+- Posible voz en off narradora
 - NO jefes
 
 #### Artísticamente me quedé con:
