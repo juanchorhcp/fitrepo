@@ -10,6 +10,7 @@ The maze me gusta el tono a pelea o conflicto q tiene. La aceleraria.
 Parana: mg para expl pero se tirna alegre. Mg el contrapunto. Tambien sirve para momento de pueblo o reencuentro
 
 Returning: momento pasillo, de pausa, introspección 
+Joaillerie: climax, cambio de escenario a uno mas trascendental
 
 Seguir escuchando: 
 Esuchar the last of us OST
