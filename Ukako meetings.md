@@ -1,4 +1,5 @@
-
+### Notas sobre meetings anteriores:
+La narrativa se presentará mediante viñetas estilo cómic
 
 ### Meet del 26/8/26:
 Comentario de Javi 
