@@ -23,7 +23,7 @@ Esuchar the last of us OST
 **Otros**
 [Embrujo - YouTube](https://www.youtube.com/watch?v=-wZWe2dPl8Q&list=OLAK5uy_nWls9fAiPKo_QkYeUhu8r8eZOuZfgBBW8&index=8) Me gusta la sensación de caminar que da. Sigue siendo muy uplifting pero se adecúa mucho más que otros temas folclóricos que escuché
 
-https://music.youtube.com/watch?v=IgdiHIPDXIU&si=xSXpngycfml4hvh0 sensacion de desesperacion y encierro, epico. Impacta de primera. Me gusta mucho para el primer nivel.
+[guitar meditations (I) - YouTube](https://www.youtube.com/watch?v=IgdiHIPDXIU&list=RDIgdiHIPDXIU&start_radio=1) sensacion de desesperacion y encierro, epico. Impacta de primera. Me gusta mucho para el primer nivel.
 
 ### Instrumentos
 Charango
@@ -42,5 +42,7 @@ No hace falta q sea cinematica o dialogo. Cualquier momento que creamos/queramos
 
 
 ## Level 1
-Des
+Inspiración principal: [guitar meditations (I) - YouTube](https://www.youtube.com/watch?v=IgdiHIPDXIU&list=RDIgdiHIPDXIU&start_radio=1)
+
+Después de un primer acercamiento, puse la m´´
 
