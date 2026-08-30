@@ -25,19 +25,22 @@ Esuchar the last of us OST
 
 https://music.youtube.com/watch?v=IgdiHIPDXIU&si=xSXpngycfml4hvh0 sensacion de desesperacion y encierro, epico. Impacta de primera. Me gusta mucho para el primer nivel.
 
-### Pensamientos
-Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del NOA
-
-Cuales van a ser los momentos narrativos de esta demo?
-No hace falta q sea cinematica o dialogo. Cualquier momento que creamos/queramos que el jugador recuerde: encontrar x enemigo, sentimiento del escenario, un npc, un objetivo 
-
 ### Instrumentos
 Charango
 Guitarra nylon
 Erke (viento)
 Sicu
 
+### Pensamientos
+Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del NOA
+
+Cuales van a ser los momentos narrativos de esta demo?
+No hace falta q sea cinematica o dialogo. Cualquier momento que creamos/queramos que el jugador recuerde: encontrar x enemigo, sentimiento del escenario, un npc, un objetivo 
+
+
+
 
 
 ## Level 1
+Des
 
