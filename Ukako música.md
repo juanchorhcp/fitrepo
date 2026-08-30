@@ -44,5 +44,6 @@ No hace falta q sea cinematica o dialogo. Cualquier momento que creamos/queramos
 ## Level 1
 Inspiración principal: [guitar meditations (I) - YouTube](https://www.youtube.com/watch?v=IgdiHIPDXIU&list=RDIgdiHIPDXIU&start_radio=1)
 
-Después de un primer acercamiento, puse la m´´
+Después de un primer acercamiento, puse la música con el video y siento que tengo que darle más aire, mas espacio. Se siente apurada la nota siguiente. (marcador 2)
+
 
