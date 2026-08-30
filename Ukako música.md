@@ -46,4 +46,6 @@ Inspiración principal: [guitar meditations (I) - YouTube](https://www.youtube.c
 
 Después de un primer acercamiento, puse la música con el video y siento que tengo que darle más aire, mas espacio. Se siente apurada la nota siguiente. Parte B está bien. Parte C entra otra vez apurada. (marcador 2)
 
-Misma compo con mucho más espacio entre notas  (marcador 3)
+Misma compo con mucho más espacio entre notas  (marcador 3) 
+quede trabajando en 10:20
+
