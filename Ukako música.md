@@ -28,6 +28,7 @@ Esuchar the last of us OST
 ### Instrumentos
 Charango
 Guitarra nylon
+Contrabajo
 Erke (viento)
 Sicu
 
