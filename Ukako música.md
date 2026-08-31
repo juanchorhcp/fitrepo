@@ -24,7 +24,7 @@ Esuchar the last of us OST
 Buscar asociación con el inframundo
 
 **Blasphemous**
-Buscar asociación GTR nylon y aventura
+Buscar asociación con el instrumento (Gtr nylon) y con la aventura oscura
 
 **Otros**
 [Embrujo - YouTube](https://www.youtube.com/watch?v=-wZWe2dPl8Q&list=OLAK5uy_nWls9fAiPKo_QkYeUhu8r8eZOuZfgBBW8&index=8) Me gusta la sensación de caminar que da. Sigue siendo muy uplifting pero se adecúa mucho más que otros temas folclóricos que escuché
@@ -43,7 +43,9 @@ Sicu
 Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del NOA
 
 Cuales van a ser los momentos narrativos de esta demo?
-No hace falta q sea cinematica o dialogo. Cualquier momento que creamos/queramos que el jugador recuerde: encontrar x enemigo, sentimiento del escenario, un npc, un objetivo 
+No hace falta q sea cinematica o dialogo. Cualquier momento que creamos/queramos que el jugador recuerde: encontrar x enemigo, sentimiento del escenario, un npc, un objetivo.
+
+Sentimientos que quiero generar: estar perdido, encerrado, que impac
 
 
 
