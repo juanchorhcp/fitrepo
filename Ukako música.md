@@ -29,6 +29,7 @@ Esuchar the last of us OST
 Charango
 Guitarra nylon
 Contrabajo
+Cello (con gtr finita puede quedar espectacular, ej [YouTube Music](https://music.youtube.com/watch?v=ztHzj1W7XX8&list=OLAK5uy_l_VH2nf_TpePcsIAaxKwpaJxnYJ6BbGuQ))
 Erke (viento)
 Sicu
 
