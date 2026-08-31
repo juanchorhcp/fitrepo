@@ -45,7 +45,7 @@ Se contraponen la música autóctona norteña con lo que queremos mostrar en Uka
 Cuales van a ser los momentos narrativos de esta demo?
 No hace falta q sea cinematica o dialogo. Cualquier momento que creamos/queramos que el jugador recuerde: encontrar x enemigo, sentimiento del escenario, un npc, un objetivo.
 
-Sentimientos que quiero generar: estar perdido, encerrado, que impac
+Sentimientos que quiero generar: estar perdido, encerrado, que impacten los arpegios, buena reverb
 
 
 
