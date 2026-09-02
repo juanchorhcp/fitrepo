@@ -20,6 +20,8 @@ Esuchar the last of us OST
 
 [Key](https://music.youtube.com/watch?v=Y8RwNiFLM78&list=OLAK5uy_l_VH2nf_TpePcsIAaxKwpaJxnYJ6BbGuQ) Me gusta como mete el viento de fondo. Mg la gtr arpegiando a la vez que el charango
 
+[Vraell - Between (Official Video) - YouTube](https://www.youtube.com/watch?v=_zqIx2JRzpc&list=RD_zqIx2JRzpc&start_radio=1) Muy buen tema sin complicarse con la forma o la armonía
+
 [#guitarista #guitarlessons #music #guitara #guitarplaying #cover #guitarrist #guitartutorial - YouTube](https://www.youtube.com/watch?v=gFtZ2vf6zng) Melodía a contrapunto con la arpegiada
 
 **Hades**
