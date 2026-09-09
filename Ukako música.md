@@ -45,9 +45,11 @@ Sicu
 
 #### VSTs
 - Sine Dynamo (perc)
+	- 03 Kickdrum Ensemble
+	- 01 Solo Snare
 - Sine Gearbox (perc)
- - Sine Berlin Orchestra
-Splice (Spitfire):
+- Sine Berlin Orchestra
+- Splice (Spitfire):
 	Gaelic voices: pad/voces
 	Astral forms: pad
 	Harmonic flights: pad para dar tensión
