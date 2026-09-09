@@ -45,8 +45,9 @@ Sicu
 
 #### VSTs
 - Sine Dynamo (perc)
-	- 03 Kickdrum Ensemble
 	- 01 Solo Snare
+	- 03 Kickdrum Ensemble
+	- 08 Dundun***
 - Sine Gearbox (perc)
 - Sine Berlin Orchestra
 - Splice (Spitfire):
