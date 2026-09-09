@@ -60,6 +60,7 @@ Splice (Spitfire):
 	-
 	Cello moods
 	Mandolin
+	Charango
 	
 
 ### Pensamientos
