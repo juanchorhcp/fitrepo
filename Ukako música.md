@@ -55,7 +55,10 @@ Splice (Spitfire):
 	Uillean pipes: percu ambiental metálica
 	Organic textures: como LA Atmos pero de naturaleza
 	-
+	Percussion
+	-
 	Cello moods
+	Mandolin
 	
 
 ### Pensamientos
