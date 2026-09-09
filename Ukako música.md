@@ -49,7 +49,9 @@ Sine Gearbox (perc)
 Sine Berlin Orchestra
 Splice (Spitfire):
 	Gaelic voices: pad/voces
-	Uillean pipes: percu ambiental metali
+	Uillean pipes: percu ambiental metálica
+	Cello moods
+	
 
 ### Pensamientos
 Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del NOA
