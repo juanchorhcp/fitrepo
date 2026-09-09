@@ -43,6 +43,14 @@ Cello (con gtr finita puede quedar espectacular, ej [Lull (Guitar Version) - You
 Erke (viento)
 Sicu
 
+#### VSTs
+Sine Dynamo (perc)
+Sine Gearbox (perc)
+Sine Berlin Orchestra
+Splice (Spitfire):
+	Gaelic voices: pad/voces
+	Uillean pipes: percu ambiental metali
+
 ### Pensamientos
 Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del NOA
 
