@@ -44,16 +44,15 @@ Erke (viento)
 Sicu
 
 #### VSTs
-Sine Dynamo (perc)
-Sine Gearbox (perc)
-Sine Berlin Orchestra
+- Sine Dynamo (perc)
+- Sine Gearbox (perc)
+ - Sine Berlin Orchestra
 Splice (Spitfire):
 	Gaelic voices: pad/voces
 	Astral forms: pad
 	Harmonic flights: pad para dar tensión
 	Arctic swells
 	 -
-	Uillean pipes: percu ambiental metálica
 	Organic textures: como LA Atmos pero de naturaleza
 	-
 	Percussion
