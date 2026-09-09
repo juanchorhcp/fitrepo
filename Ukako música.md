@@ -58,9 +58,11 @@ Splice (Spitfire):
 	-
 	Percussion
 	-
-	Cello moods
+	Cello moods: excelente
+	Amplified Cello Quartet: no me gustó pero tener en cuenta
 	Mandolin
 	Charango
+	
 	
 
 ### Pensamientos
