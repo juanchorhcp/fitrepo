@@ -50,6 +50,7 @@ Sine Berlin Orchestra
 Splice (Spitfire):
 	Gaelic voices: pad/voces
 	Astral forms: pad
+	Harmonic flights: pad para dar tensión
 	Uillean pipes: percu ambiental metálica
 	Organic textures: como LA Atmos pero de naturaleza
 	Cello moods
