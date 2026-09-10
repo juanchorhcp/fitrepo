@@ -34,6 +34,7 @@ No hace falta q sea cinematica o dialogo. Cualquier momento que creamos/queramos
 **Dies irae** Leitmotiv de la condena sin vuelta atras
 
 **Chaman** Instrument en fmod. Conecta con Pachamama.
+Lo encontramos antes y despues del jefe
 
 **Boss fight** Ver como conecta con el lore para darle identidad a la melodía/track
 
