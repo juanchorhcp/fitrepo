@@ -15,75 +15,46 @@ Joaillerie: climax, cambio de escenario a uno mas trascendental
 Seguir escuchando: 
 Esuchar the last of us OST
 
-**Vraell**
-[guitar meditations (I) - YouTube](https://www.youtube.com/watch?v=IgdiHIPDXIU&list=RDIgdiHIPDXIU&start_radio=1) sensacion de desesperacion y encierro, epico. Impacta de primera. Me gusta mucho para el primer nivel.
-
-[Key](https://music.youtube.com/watch?v=Y8RwNiFLM78&list=OLAK5uy_l_VH2nf_TpePcsIAaxKwpaJxnYJ6BbGuQ) Me gusta como mete el viento de fondo. Mg la gtr arpegiando a la vez que el charango
-
-[Vraell - Between (Official Video) - YouTube](https://www.youtube.com/watch?v=_zqIx2JRzpc&list=RD_zqIx2JRzpc&start_radio=1) Muy buen tema sin complicarse con la forma o la armonía
-
-[#guitarista #guitarlessons #music #guitara #guitarplaying #cover #guitarrist #guitartutorial - YouTube](https://www.youtube.com/watch?v=gFtZ2vf6zng) Melodía a contrapunto con la arpegiada
 
 **Hades**
-Buscar asociación con el inframundo
 
 **Blasphemous**
-Buscar asociación con el instrumento (Gtr nylon) y con la aventura oscura
 
 **Otros**
 [Embrujo - YouTube](https://www.youtube.com/watch?v=-wZWe2dPl8Q&list=OLAK5uy_nWls9fAiPKo_QkYeUhu8r8eZOuZfgBBW8&index=8) Me gusta la sensación de caminar que da. Sigue siendo muy uplifting pero se adecúa mucho más que otros temas folclóricos que escuché
+
+https://music.youtube.com/watch?v=IgdiHIPDXIU&si=xSXpngycfml4hvh0 sensacion de desesperacion y encierro, epico. Impacta de primera. Me gusta mucho para el primer nivel.
+
+### Pensamientos
+Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del NOA
+
+Cuales van a ser los momentos narrativos de esta demo?
+No hace falta q sea cinematica o dialogo. Cualquier momento que creamos/queramos que el jugador recuerde: encontrar x enemigo, sentimiento del escenario, un npc, un objetivo 
+
+**Dies irae** Leitmotiv de la condena sin vuelta atras
+
+**Chaman** Instrument en fmod. Conecta con Pachanama
+
+**Boss fight** Ver como conecta con el lore para darle identidad a la melodía/track
+
 
 
 
 ### Instrumentos
 Charango
 Guitarra nylon
-Contrabajo
-Cello (con gtr finita puede quedar espectacular, ej [Lull (Guitar Version) - YouTube](https://www.youtube.com/watch?v=ztHzj1W7XX8&list=RDztHzj1W7XX8&start_radio=1))
 Erke (viento)
 Sicu
 
-#### VSTs
-- Sine Dynamo (perc)
-	- 01 Solo Snare
-	- 03 Kickdrum Ensemble
-	- 08 Dundun***
-- Sine Gearbox (perc)
-- Sine Berlin Orchestra
-- Splice (Spitfire):
-	Gaelic voices: pad/voces
-	Astral forms: pad
-	Harmonic flights: pad para dar tensión
-	Arctic swells
-	 -
-	Organic textures: como LA Atmos pero de naturaleza
-	-
-	Percussion
-	-
-	Cello moods: excelente
-	Amplified Cello Quartet: no me gustó pero tener en cuenta
-	Mandolin
-	Charango
-	
-	
+#### Biomas
+La región presenta los siguientes [biomas](https://es.wikipedia.org/wiki/Bioma "Bioma") de oeste a este:
 
-### Pensamientos
-Se contraponen la música autóctona norteña con lo que queremos mostrar en Ukako porque la música folclorica del NOA
-
-Cuales van a ser los momentos narrativos de esta demo?
-No hace falta q sea cinematica o dialogo. Cualquier momento que creamos/queramos que el jugador recuerde: encontrar x enemigo, sentimiento del escenario, un npc, un objetivo.
-
-Sentimientos que quiero generar: estar perdido, encerrado, que impacten los arpegios, buena reverb
-
-
-
-
-
-## Level 1
-Inspiración principal: [guitar meditations (I) - YouTube](https://www.youtube.com/watch?v=IgdiHIPDXIU&list=RDIgdiHIPDXIU&start_radio=1)
-
-Después de un primer acercamiento, puse la música con el video y siento que tengo que darle más aire, mas espacio. Se siente apurada la nota siguiente. Parte B está bien. Parte C entra otra vez apurada. (marcador 2)
-
-Misma compo con mucho más espacio entre notas  (marcador 3) 
-quede trabajando en 10:20
+- [Puna](https://es.wikipedia.org/wiki/Puna_de_Atacama "Puna de Atacama")
+- Altas montañas
+- [Valles fértiles](https://es.wikipedia.org/wiki/Valles_Calchaqu%C3%ADes "Valles Calchaquíes")
+- [Quebradas](https://es.wikipedia.org/wiki/Quebrada "Quebrada") de la [cordillera Oriental](https://es.wikipedia.org/wiki/Cordillera_Oriental_\(Argentina\) "Cordillera Oriental (Argentina)") o Salto jujeña
+- [Sierras subandinas](https://es.wikipedia.org/wiki/Sierras_subandinas "Sierras subandinas")
+- [Yunga](https://es.wikipedia.org/wiki/Yunga "Yunga")
+- El [ecotono](https://es.wikipedia.org/wiki/Ecotono "Ecotono") transicional entre el [Chaco](https://es.wikipedia.org/wiki/Gran_Chaco "Gran Chaco") y las [Yungas](https://es.wikipedia.org/wiki/Yungas "Yungas").
+- triángulo de Litio: NOA Argentino, Bolivia y Chile
 
