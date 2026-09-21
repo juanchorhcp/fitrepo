@@ -12,6 +12,13 @@ Parana: mg para expl pero se tirna alegre. Mg el contrapunto. Tambien sirve para
 Returning: momento pasillo, de pausa, introspección 
 Joaillerie: climax, cambio de escenario a uno mas trascendental
 
+**Aukai**
+[Raíces al Viento - YouTube](https://www.youtube.com/watch?v=yyPDF92kNQg&list=RDyyPDF92kNQg&start_radio=1)
+
+**Vraell**
+Guitar meditaations (I)
+Between
+varias más
 
 **Hades**
 **TLOU**
