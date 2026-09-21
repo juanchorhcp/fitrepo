@@ -22,3 +22,9 @@ tags:
 Cuánto tiempo tengo?
 Stinger sincronizado: tengo unos segundos de gameplay establecidos (script o similar)
 Stinger no sincronizado: cambio inmediato o de tiempo variable
+
+**Main menu**
+Interiorizarse por completo en la historia
+Melodía de 15-30 seg
+
+
