@@ -1,6 +1,7 @@
 ---
 tags:
 ---
+**Los seis pasos antes de componer**
 1) *Saber de mi juego:* 
 	- Historia
 	- Ritmo de juego
