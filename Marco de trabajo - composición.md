@@ -17,5 +17,3 @@ tags:
 5) *Elegir los ACTORES - instrumentos*
 
 6) *Aprovechar cualquier información para la* **melodía** 
-
-Tag:
