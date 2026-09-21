@@ -47,7 +47,8 @@ Sicu
 Instrumentos del proyecto anterior:
 	Kontakt: shekere G5 a B5
 	Sine Dynamo: Dundun ensemble
-	
+	Sine Dynamo: Kickdrum ensemble
+	Sine Gearbox: Cajon
 #### Biomas
 La región presenta los siguientes [biomas](https://es.wikipedia.org/wiki/Bioma "Bioma") de oeste a este:
 
