@@ -18,7 +18,7 @@ tags:
 
 6) *Aprovechar cualquier información para la* **melodía** 
 
-**STINGERS**
+**Stingers**
 Cuánto tiempo tengo?
 Stinger sincronizado: tengo unos segundos de gameplay establecidos (script o similar)
 Stinger no sincronizado: cambio inmediato o de tiempo variable
