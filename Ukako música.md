@@ -16,7 +16,7 @@ Joaillerie: climax, cambio de escenario a uno mas trascendental
 [Raíces al Viento - YouTube](https://www.youtube.com/watch?v=yyPDF92kNQg&list=RDyyPDF92kNQg&start_radio=1)
 
 **Vraell**
-Guitar meditaations (I)
+Guitar meditations (I)
 Between
 varias más
 
