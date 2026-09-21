@@ -45,7 +45,9 @@ Guitarra nylon
 Erke (viento)
 Sicu
 Instrumentos del proyecto anterior:
-	Kontakt: shekere
+	Kontakt: shekere G5 a B5
+	Sine Dynamo: Dundun ensemble
+	
 #### Biomas
 La región presenta los siguientes [biomas](https://es.wikipedia.org/wiki/Bioma "Bioma") de oeste a este:
 
