@@ -7,8 +7,9 @@ tags:
 	- Ritmo de juego
 	- De donde vengo y hacia donde voy
 
-2) *Referencias jugables:*
-	otros juegos del género o que transmitan mismas sensaciones
+2) *Referencias:*
+	Jugables: otros juegos del género o que transmitan mismas sensaciones
+	Sonoras: otros artistas y OST 
 
 3) *Qué quiero generar en el jugador:*
 	Sensaciones, marcar el ritmo de juego y/o contar una historia
