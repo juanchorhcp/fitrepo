@@ -26,5 +26,5 @@ Stinger no sincronizado: cambio inmediato o de tiempo variable
 **Main menu**
 Interiorizarse por completo en la historia
 Melodía de 15-30 seg
-
+Debe reflejar la historia completa del juego o hacer referencia a un concepto global de la obra
 
