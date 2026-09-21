@@ -20,4 +20,5 @@ tags:
 
 **STINGERS**
 Cuánto tiempo tengo?
-Stinger sincronizado o no sincroniz
+Stinger sincronizado: tengo unos segundos de gameplay establecidos (script o similar)
+Stinger no sincronizado: cambio inmediato o de tiempo variable
