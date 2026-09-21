@@ -12,14 +12,10 @@ Parana: mg para expl pero se tirna alegre. Mg el contrapunto. Tambien sirve para
 Returning: momento pasillo, de pausa, introspección 
 Joaillerie: climax, cambio de escenario a uno mas trascendental
 
-Seguir escuchando: 
-Esuchar the last of us OST
-
 
 **Hades**
-
+**TLOU**
 **Blasphemous**
-
 **Otros**
 [Embrujo - YouTube](https://www.youtube.com/watch?v=-wZWe2dPl8Q&list=OLAK5uy_nWls9fAiPKo_QkYeUhu8r8eZOuZfgBBW8&index=8) Me gusta la sensación de caminar que da. Sigue siendo muy uplifting pero se adecúa mucho más que otros temas folclóricos que escuché
 
@@ -48,7 +44,8 @@ Charango
 Guitarra nylon
 Erke (viento)
 Sicu
-
+Instrumentos del proyecto anterior:
+	Kontakt: shekere
 #### Biomas
 La región presenta los siguientes [biomas](https://es.wikipedia.org/wiki/Bioma "Bioma") de oeste a este:
 
