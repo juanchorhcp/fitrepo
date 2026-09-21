@@ -6,4 +6,5 @@
 1) *Referencias jugables*: 
 	otros juegos del género o que transmitan mismas sensaciones
 2) *Qué quiero generar en el jugador:*
-	Sensación, ritmo de juego o 
+	Sensaciones, marcar el ritmo de juego y/o contar una historia
+3) Escribir EMOCIONES a transmitir y ADJETIVOS 
