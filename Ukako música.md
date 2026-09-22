@@ -15,7 +15,7 @@ Joaillerie: climax, cambio de escenario a uno mas trascendental
 **Aukai**
 [Raíces al Viento - YouTube](https://www.youtube.com/watch?v=yyPDF92kNQg&list=RDyyPDF92kNQg&start_radio=1)
 [Zenith - YouTube](https://www.youtube.com/watch?v=RTEwJVRF9QQ)
-[Slow sun](https://music.youtube.com/watch?v=KGjAKEENiS8&list=OLAK5uy_njaS8KY7QarahQ8Fhy0DEQm4g-sqZh4k8) Mg las palmas. Mg el synth. Mg la parte B y C
+[Slow sun](https://music.youtube.com/watch?v=KGjAKEENiS8&list=OLAK5uy_njaS8KY7QarahQ8Fhy0DEQm4g-sqZh4k8) Mg las palmas. Mg el synth. Mg la parte B y C y solea muy videogamey
 Muy buena percu con gtr acustica
 
 
