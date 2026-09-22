@@ -65,3 +65,5 @@ Lo encontramos antes y despues del jefe
 **Boss fight** Ver como conecta con el lore para darle identidad a la melodía/track
 
 **Pico** Ver como asociar la mecánica principal con la música si cabe
+
+Usar **Bass** y **Synth**
