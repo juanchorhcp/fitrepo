@@ -62,6 +62,9 @@ Instrumentos del proyecto anterior:
 	Sine Dynamo: Kickdrum ensemble
 	Sine Gearbox: Cajon
 	Splice Cascabel A#4 ==????==
+
+Synths tipo swells (escuchar Aukai)
+Percu: cajon, shaker, bombo, 
 #### Biomas
 La región presenta los siguientes [biomas](https://es.wikipedia.org/wiki/Bioma "Bioma") de oeste a este:
 
