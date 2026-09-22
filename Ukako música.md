@@ -64,7 +64,8 @@ Instrumentos del proyecto anterior:
 	Splice Cascabel A#4 ==????==
 
 Synths tipo swells (escuchar Aukai)
-Percu: cajon, shaker, bombo, 
+Percu: cajon, shaker, bombo, redoblante bajito para dar ritmo
+Bajo
 #### Biomas
 La región presenta los siguientes [biomas](https://es.wikipedia.org/wiki/Bioma "Bioma") de oeste a este:
 
