@@ -15,7 +15,7 @@ Instrumentos del proyecto anterior:
 
 Synths tipo swells (escuchar Aukai)
 Percu: cajon, shaker, bombo, redoblante bajito para dar ritmo
-	Reverb: da much
+	Reverb: da mucho a una percu sencilla
 Bajo
 Piano - cuando quiera algo muy melancólico
 
