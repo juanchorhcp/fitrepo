@@ -54,8 +54,7 @@ Lo encontramos antes y despues del jefe
 ### Instrumentos
 Charango
 Guitarra nylon
-Erke (viento)
-Sicu
+Erke, siku (viento)
 Instrumentos del proyecto anterior:
 	Kontakt: shekere G5 a B5
 	Sine Dynamo: Dundun ensemble
@@ -66,6 +65,7 @@ Instrumentos del proyecto anterior:
 Synths tipo swells (escuchar Aukai)
 Percu: cajon, shaker, bombo, redoblante bajito para dar ritmo
 Bajo
+Piano - cuando quiera algo muy melancólico
 #### Biomas
 La región presenta los siguientes [biomas](https://es.wikipedia.org/wiki/Bioma "Bioma") de oeste a este:
 
