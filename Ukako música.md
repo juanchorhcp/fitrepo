@@ -66,5 +66,5 @@ Lo encontramos antes y despues del jefe
 
 **Pico** Ver como asociar la mecánica principal con la música si cabe
 
-Usar **Bass** y **Synths** va a hacer que le dé mi identidad y salga algo bueno
+Usar <mark style="background: #ABF7F7A6;">Bass y Synths</mark> va a hacer que le dé mi identidad y salga algo bueno
 
