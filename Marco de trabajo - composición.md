@@ -1,5 +1,6 @@
 ---
 tags:
+  - music
 ---
 ### Los seis pasos antes de componer
 1) *Saber de mi juego:* 
