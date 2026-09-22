@@ -50,6 +50,7 @@ Lo encontramos antes y despues del jefe
 
 
 
+
 ### Instrumentos
 Charango
 Guitarra nylon
