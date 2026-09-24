@@ -5,4 +5,6 @@ Revolver/mixear
 Revolver/mixear
 - jugo de medio limón
 - ralladura de medio limón
-Revovl
+Revolver/mixear
+- 1 taza de harina leudante
+Ir agregando de a poco y tamizada. Mezclar con espátula (mov. envolventes)
