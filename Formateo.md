@@ -10,7 +10,7 @@ Listas y favoritos del Analog Lab V
 OBS
 obs-asio (plugin de obs para conectarlo con reaper) [Releases · Andersama/obs-asio](https://github.com/Andersama/obs-asio/releases)
 Como configurarlo: [Cómo conectar la salida de audio de REAPER a OBS - YouTube](https://www.youtube.com/watch?v=n8WeZR1iw1A)
-Sería: Agregar ASIO en obs, luego en Reaper crear un send en el Master Track 
+Sería: Agregar ASIO en obs, seleccionar el dispositivo Rearoute, luego en Reaper crear un send en el Master Track que mande a Rearoute1/Rearoute2
 
 Kontakt 
 Splice (LABS)
