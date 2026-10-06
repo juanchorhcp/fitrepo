@@ -3,6 +3,7 @@ Se trata de plasmar en una carilla las características globales del audio.
 - Pilares temáticos: género, tono, sensación global
 - Pilares sonoros: estética sonora de la q nos agarramos
 - Esto NO es: todo lo q podría tener pero no queremos q tenga
-- Desafíos: cosas específicas que nos 
+- Desafíos: cosas específicas que tenemos en mente que hay que sobrellevar artísticamente
+- High ticket areas: marcar como y cuando va a destacar
 
 Sirve para conceptos en concreto como un personaje, un escenario, etc.
