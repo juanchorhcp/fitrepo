@@ -1,1 +1,3 @@
-Se trata de plasmar en una carilla las características globales del audio
+Se trata de plasmar en una carilla las características globales del audio.
+- Historia/temática
+- 
