@@ -17,6 +17,18 @@ Newsletters!
 
 Victoria Tran portfolio https://www.victoriatran.com/portfolio?utm_source=chatgpt.com
 
+Ainho:
+Ella debería enseñarte a:
+Realizar una reunión inicial con el cliente.
+Preguntar cuáles son sus objetivos comerciales.
+Preparar una propuesta de trabajo.
+Presentar un calendario de contenido.
+Recibir modificaciones y feedback.
+Entregar informes.
+Justificar decisiones de comunicación.
+Y debe:
+Revisar diseños y copies
+
 Semana 2 — Discord y gestión de comunidades
 Objetivo: aprender a construir y administrar una comunidad.
 Recursos:
