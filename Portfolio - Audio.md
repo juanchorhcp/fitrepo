@@ -15,6 +15,10 @@ About
 Contact
 
 #### Música
+
+*Agregar Quien mato al carnaval*
+*Agregar Outlawyer*
+
 Conservaría tus trabajos actuales, pero seleccionaría los mejores y los organizaría según su función o estilo.
 Por ejemplo:
 Orchestral / Cinematic
@@ -64,7 +68,7 @@ Parámetros y snapshots.
 
 No hace falta mostrar todos tus proyectos técnicos. Dos o tres ejemplos bien documentados pueden ser más convincentes que una larga lista.
 
-#### Proyectos
+#### Proyectos template
 ![[Screenshot_20261104_075020_ChatGPT.jpg]]
 
 #### Community management
