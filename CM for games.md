@@ -3,17 +3,10 @@ https://discord.com/safety/training-and-onboarding-new-moderators?utm_source=cha
 
 DLC leadership program (hay dos cursos gratuitos )
 
-O
-
-Semana 1 
-Ejercicio práctico:
-Elegí tres videojuegos indie que conozcas.
-Identificá sus audiencias.
-Analizá cómo se comunican sus desarrolladores.
-Identificá qué hacen bien y qué mejorarías.
-Entrega: un análisis comparativo de tres comunidades.
+Updating perfiles https://chatgpt.com/share/6aea8e4e-c454-83e8-9191-ad40be412ff3?ogimg=plain
 
 Newsletters!
+
 
 ### Portfolio
 
@@ -28,8 +21,15 @@ Una campaña de comunicación de lanzamiento.
 Instagram, TikTok, X, copies y calendario editorial.
 Caso 3 — Community Management Report
 Un informe de análisis de comunidad de un juego existente.
+### Guias de cada red social
+TikTok’s creator portal https://www.tiktok.com/creators/creator-portal/en-usor newly launched TikTok Academy for brands https://my.academywithtiktok.com/learn
 
-Ainho:
+Twitter’s getting started guide
+
+YouTube’s tips on growing your channel and building your community
+
+Instagram’s creator lab and algorithms
+### Ainho
 Ella debería enseñarte a:
 Realizar una reunión inicial con el cliente.
 Preguntar cuáles son sus objetivos comerciales.
@@ -40,6 +40,18 @@ Entregar informes.
 Justificar decisiones de comunicación.
 Y debe:
 Revisar diseños y copies
+
+
+
+### Plan semana a semana
+
+Semana 1 
+Ejercicio práctico:
+Elegí tres videojuegos indie que conozcas.
+Identificá sus audiencias.
+Analizá cómo se comunican sus desarrolladores.
+Identificá qué hacen bien y qué mejorarías.
+Entrega: un análisis comparativo de tres comunidades
 
 Semana 2 — Discord y gestión de comunidades
 Objetivo: aprender a construir y administrar una comunidad.
