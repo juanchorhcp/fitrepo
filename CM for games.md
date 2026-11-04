@@ -22,6 +22,7 @@ Instagram, TikTok, X, copies y calendario editorial.
 Caso 3 — Community Management Report
 Un informe de análisis de comunidad de un juego existente.
 ### Guias de cada red social
+
 TikTok’s creator portal https://www.tiktok.com/creators/creator-portal/en-usor newly launched TikTok Academy for brands https://my.academywithtiktok.com/learn
 
 Twitter’s getting started guide https://help.twitter.com/en/resources/twitter-guide
@@ -43,8 +44,16 @@ Justificar decisiones de comunicación.
 Y debe:
 Revisar diseños y copies
 
-### Ejemplo Unpacking
+
+### Inspo
+
+https://medium.com/kitfox-games/scrappy-social-media-management-reusing-content-7a501a01fdd2
+#### Ejemplo Unpacking
 ![[Pasted image 20261104002537.jpg]]
+
+#### Ejemplo Among us
+
+https://www.victoriatran.com/writing/among-us-tiktok
 
 ### Plan semana a semana
 
