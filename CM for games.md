@@ -28,7 +28,9 @@ Twitter’s getting started guide https://help.twitter.com/en/resources/twitter-
 
 YouTube’s tips on growing your channel https://www.youtube.com/intl/en_us/creators/how-things-work/content-creation-strategy/ and building your community https://www.youtube.com/intl/en_us/creators/how-things-work/building-community/
 
-Instagram’s creator lab and algorithms
+Instagram’s creator lab https://creators.instagram.com/lab and algorithms https://creators.instagram.com/grow/algorithms-and-ranking
+
+Tip: If you’re getting started as an indie, I’d ignore anything that is directed towards monetization and ads. Focus on your organic content creation first.
 ### Ainho
 Ella debería enseñarte a:
 Realizar una reunión inicial con el cliente.
@@ -41,7 +43,8 @@ Justificar decisiones de comunicación.
 Y debe:
 Revisar diseños y copies
 
-
+### Ejemplo Unpacking
+![[Pasted image 20261104002537.jpg]]
 
 ### Plan semana a semana
 
