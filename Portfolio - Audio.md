@@ -10,7 +10,7 @@ Game Audio
 Music Composition
 Sound Design
 Community Management
-Personal projects (Gran danés, que mas?)
+Personal projects? (Gran danés, Space invaders VN, que mas?)
 About
 Contact
 
@@ -54,12 +54,14 @@ Esto permite demostrar criterio, creatividad y conocimiento técnico.
 #### FMOD implementation
 
 Mantendría una pequeña sección de implementación técnica dentro de Game Audio.
+
 Podrías mostrar:
 Eventos de FMOD.
 Música adaptativa.
 Transiciones entre exploración y combate.
 Ambiences en loop.
 Parámetros y snapshots.
+
 No hace falta mostrar todos tus proyectos técnicos. Dos o tres ejemplos bien documentados pueden ser más convincentes que una larga lista.
 
 #### Proyectos
@@ -68,3 +70,14 @@ No hace falta mostrar todos tus proyectos técnicos. Dos o tres ejemplos bien do
 #### Community management
 
 
+Un portfolio de audio se escucha. Uno de Community Management se lee, se analiza y se evalúa visualmente.
+Para CM mostraría tres tipos de proyectos:
+
+Community Strategy
+Un caso de estudio de creación de una comunidad para un videojuego: estructura de Discord, roles, reglas, canales y estrategia de crecimiento.
+
+Social Media Strategy
+Una campaña ficticia de lanzamiento con calendario editorial, publicaciones, copies y estrategia de comunicación.
+
+Community Analysis
+Análisis de una comunidad existente: comportamiento de jugadores, reseñas, problemas frecuentes y oportunidades de mejora.
