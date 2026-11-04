@@ -4,7 +4,7 @@ Top 5 portfolio tips https://www.massive.se/article/my-top-5-portfolio-tips-audi
 
 https://indieguild.dev/?utm_source=chatgpt.com[Plataforma donde se puede ver portfolio de varias disciplinas]
 
-En el menú superior pondría:
+#### Menu principal
 Home
 Game Audio
 Music Composition
