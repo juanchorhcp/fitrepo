@@ -15,7 +15,19 @@ Entrega: un análisis comparativo de tres comunidades.
 
 Newsletters!
 
+### Portfolio
+
 Victoria Tran portfolio https://www.victoriatran.com/portfolio?utm_source=chatgpt.com
+
+Tu portfolio debería tener al menos tres casos:
+Caso 1 — Community Strategy
+Creación de una estrategia integral de comunidad para un videojuego indie.
+Discord, reglas, audiencia, engagement y moderación.
+Caso 2 — Social Media Campaign
+Una campaña de comunicación de lanzamiento.
+Instagram, TikTok, X, copies y calendario editorial.
+Caso 3 — Community Management Report
+Un informe de análisis de comunidad de un juego existente.
 
 Ainho:
 Ella debería enseñarte a:
