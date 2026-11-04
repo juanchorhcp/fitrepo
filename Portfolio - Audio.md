@@ -3,6 +3,14 @@ Tips para organizar los trabajos de audio en web https://www.paulboechler.com/no
 Top 5 portfolio tips https://www.massive.se/article/my-top-5-portfolio-tips-audio/?utm_source=chatgpt.com
 
 https://indieguild.dev/?utm_source=chatgpt.com[Plataforma donde se puede ver portfolio de varias disciplinas]
+#### Proyectos no subidos
+
+*Agregar Quien mato al carnaval*
+*Agregar Outlawyer*
+*Agregar UKAKO*
+*Agregar nivel de Unreal cuando lo termine*
+*Pensar como agregar voice editing de los vampiros*
+*Pensar más de Sound Design*
 
 #### Menu principal
 Home
@@ -16,11 +24,6 @@ Contact
 
 #### Música
 
-*Agregar Quien mato al carnaval*
-*Agregar Outlawyer*
-*Agregar UKAKO*
-*Agregar nivel de Unreal cuando lo termine*
-*Pensa*
 
 Conservaría tus trabajos actuales, pero seleccionaría los mejores y los organizaría según su función o estilo.
 Por ejemplo:
