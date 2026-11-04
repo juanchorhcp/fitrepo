@@ -24,9 +24,9 @@ Un informe de análisis de comunidad de un juego existente.
 ### Guias de cada red social
 TikTok’s creator portal https://www.tiktok.com/creators/creator-portal/en-usor newly launched TikTok Academy for brands https://my.academywithtiktok.com/learn
 
-Twitter’s getting started guide
+Twitter’s getting started guide https://help.twitter.com/en/resources/twitter-guide
 
-YouTube’s tips on growing your channel and building your community
+YouTube’s tips on growing your channel https://www.youtube.com/intl/en_us/creators/how-things-work/content-creation-strategy/ and building your community https://www.youtube.com/intl/en_us/creators/how-things-work/building-community/
 
 Instagram’s creator lab and algorithms
 ### Ainho
