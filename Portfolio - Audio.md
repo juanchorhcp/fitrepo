@@ -62,5 +62,8 @@ Ambiences en loop.
 Parámetros y snapshots.
 No hace falta mostrar todos tus proyectos técnicos. Dos o tres ejemplos bien documentados pueden ser más convincentes que una larga lista.
 
+#### Proyectos
+
+
 
 
