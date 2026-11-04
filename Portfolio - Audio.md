@@ -51,5 +51,16 @@ Los distintos elementos que construyen el resultado.
 Una breve explicación del proceso.
 Esto permite demostrar criterio, creatividad y conocimiento técnico.
 
+#### FMOD implementation
+
+Mantendría una pequeña sección de implementación técnica dentro de Game Audio.
+Podrías mostrar:
+Eventos de FMOD.
+Música adaptativa.
+Transiciones entre exploración y combate.
+Ambiences en loop.
+Parámetros y snapshots.
+No hace falta mostrar todos tus proyectos técnicos. Dos o tres ejemplos bien documentados pueden ser más convincentes que una larga lista.
+
 
 
