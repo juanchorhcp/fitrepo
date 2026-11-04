@@ -1,8 +1,8 @@
- https://www.paulboechler.com/notes?utm_source=chatgpt.com(Tips para organizar los trabajos de audio en web)
+ https://www.paulboechler.com/notes?utm_source=chatgpt.com (Tips para organizar los trabajos de audio en web)
 
- https://www.massive.se/article/my-top-5-portfolio-tips-audio/?utm_source=chatgpt.com[Top 5 portfolio tips]
+[Top 5 portfolio tips] (https://www.massive.se/article/my-top-5-portfolio-tips-audio/?utm_source=chatgpt.com 
 
-https://indieguild.dev/?utm_source=chatgpt.com[Plataforma donde se puede ver portfolio de varias disciplinas]
+[Plataforma donde se puede ver portfolio de varias disciplinas](https://indieguild.dev/?utm_source=chatgpt.com )
 #### Proyectos no subidos
 
 *Agregar Quien mato al carnaval*
@@ -91,3 +91,4 @@ Una campaña ficticia de lanzamiento con calendario editorial, publicaciones, co
 
 Community Analysis
 Análisis de una comunidad existente: comportamiento de jugadores, reseñas, problemas frecuentes y oportunidades de mejora.
+
