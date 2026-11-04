@@ -3,6 +3,8 @@ https://discord.com/safety/training-and-onboarding-new-moderators?utm_source=cha
 
 DLC leadership program (hay dos cursos gratuitos )
 
+O
+
 Semana 1 
 Ejercicio práctico:
 Elegí tres videojuegos indie que conozcas.
@@ -12,6 +14,8 @@ Identificá qué hacen bien y qué mejorarías.
 Entrega: un análisis comparativo de tres comunidades.
 
 Newsletters!
+
+Victoria Tran portfolio https://www.victoriatran.com/portfolio?utm_source=chatgpt.com
 
 Semana 2 — Discord y gestión de comunidades
 Objetivo: aprender a construir y administrar una comunidad.
@@ -65,7 +69,48 @@ Después redactá un anuncio ficticio de actualización, una respuesta a una res
 Entrega: un pequeño plan de comunicación para Steam.
 
 
+Semana 5 — Engagement y fidelización
+Objetivo: aprender a generar participación genuina.
+Recursos:
+DLC Leadership Program⁠.
+Community Dev Newsletter — Getting Players to Stick Around⁠.
+Ejercicio práctico:
+Diseñá una campaña de participación para una comunidad pequeña:
+Una encuesta.
+Un concurso de fan art.
+Una actividad relacionada con el lore.
+Una sesión de preguntas y respuestas con desarrolladores.
+Un evento dentro de Discord.
+Entrega: campaña de engagement con objetivos, calendario y métricas.
 
+
+Semana 6 — Moderación y crisis
+Objetivo: aprender a manejar situaciones difíciles sin perjudicar la reputación del estudio.
+Recursos:
+Discord — Training and Onboarding New Moderators⁠.
+Discord Community Guidelines⁠.
+Ejercicio práctico:
+Simulá cinco situaciones:
+Una actualización genera críticas negativas.
+Un jugador acusa públicamente al estudio de ignorar bugs.
+Aparece una discusión tóxica entre usuarios.
+Un creador de contenido publica información falsa.
+Se produce una demora en una fecha de lanzamiento anunciada.
+Escribí qué responderías, qué acciones tomarías y cuándo escalarías el problema al desarrollador.
+Entrega: protocolo de gestión de crisis y respuestas modelo.
+
+Semana 7 — Analytics y reporting
+Objetivo: aprender a demostrar que tu trabajo genera valor.
+Ejercicio práctico:
+Armá un informe mensual ficticio con:
+Crecimiento de seguidores.
+Participación en Discord.
+Engagement de publicaciones.
+Rendimiento de contenidos.
+Temas más comentados.
+Feedback recurrente de jugadores.
+Recomendaciones para el mes siguiente.
+Utilizá Google Sheets para organizar los datos.
 
 Entrega: un informe mensual con gráficos y conclusiones.
 Semana 8 — Portfolio y primeros clientes
