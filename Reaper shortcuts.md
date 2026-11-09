@@ -5,3 +5,4 @@ Alt + L: hide envelopes
 Shift + supr: eliminar espacio entre items
 Shift + Q: subir un semitono
 Shift + P: bajar un semitono
+Crtl + alt + F: Freeze track
