@@ -13,5 +13,6 @@ Space invaders reboot
 
 
 ### Rediseños
-Sekiro: Shadows Die Twice
-Hyper Light Srift
+Sekiro: Shadows Die Twice 🎹🎛️
+Hyper Light Drifter 🎹🔊
+Solar Ash 🎹
