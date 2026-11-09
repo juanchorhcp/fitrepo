@@ -1,16 +1,16 @@
 ### Lanzados
-Outlawyer🎹
-Ukako🎹🔊🎛️
+Outlawyer 🎹
+Ukako 🎹🔊🎛️
 
 
 ### Juegos de Jam
 Mutatio Adventures 🎹
 Pennumbras 🎹
-¡Sí! 🎹✏️
+¡Sí! 🎹 ✏️
 Ordenando el k-os 🎹
-Space invaders reboot✏️
-Plataformero del mago🎹
-¿Quién mató al Carnaval?🎹🔊
+Space invaders reboot ✏️
+Plataformero del mago 🎹
+¿Quién mató al Carnaval? 🎹 🔊
 
 
 ### Rediseños
