@@ -4,13 +4,13 @@ Ukako
 
 
 ### Juegos de Jam
-Mutatio Adventures
+Mutatio Adventures 
 Pennumbras
 ¡Sí!
 Ordenando el k-os
 Space invaders reboot
-¿Quién m
-
+Plataformero del mago
+¿Quién mató al Carnaval?
 
 
 ### Rediseños
