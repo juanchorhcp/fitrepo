@@ -1,7 +1,8 @@
 Guia de entrenamiento para nuevos moderadores:
 https://discord.com/safety/training-and-onboarding-new-moderators?utm_source=chatgpt.com
 
-DLC leadership program (hay dos cursos gratuitos )
+Cursos gratis (2):
+https://dlcleadership.org/resources/?utm_source=chatgpt.com#watch
 
 Updating perfiles https://chatgpt.com/share/6aea8e4e-c454-83e8-9191-ad40be412ff3?ogimg=plain
 
