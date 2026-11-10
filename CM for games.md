@@ -50,7 +50,7 @@ Revisar diseños y copies
 
 https://medium.com/kitfox-games/scrappy-social-media-management-reusing-content-7a501a01fdd2
 #### Ejemplo Unpacking
-![[Pasted image 20261104002537.jpg]]
+![[Unpacking social media strategy.jpg]]
 
 #### Ejemplo Among us
 
