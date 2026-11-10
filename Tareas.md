@@ -1,7 +1,7 @@
 
 
 - [ ] 🔺 Empaparme Accenture
-- [ ] Averiguar payrate por hora para VIDEO EDITOR
+- [ ] DEMO REEL de sound design ---> Postularme a los 2 faveados
 - [ ] Generar portoflio CM
 	- [ ] Armar presupuesto CM
 - [ ] Actualizar portfolio con más SOUND DESIGN en inicio
