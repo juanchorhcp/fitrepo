@@ -1,5 +1,5 @@
-Ukako: teleport, Katekate muriendo, 
-Prueba ARPG
-¿Quién mató al Carnaval?
-Hyper Light Drifter
+Ukako: teleport, Katekate muriendo, boss
+Prueba ARPG: todos
+¿Quién mató al Carnaval?: aca no hay mucho laburo de sonido no?
+Hyper Light Drifter: aca esta bueno el sonido
 
