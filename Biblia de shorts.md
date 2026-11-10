@@ -1,4 +1,4 @@
-###Los 6 componentes de un short
+### Los 6 componentes de un short
 Idea
 Hook
 Script/storytelling
