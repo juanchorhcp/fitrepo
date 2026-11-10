@@ -30,7 +30,8 @@ kanban-plugin: board
 - [ ] [[Música que creen que hago vs lo que realmente hago]]
 - [ ] Reel percusión
 - [ ] [[Reel - libros de videojuegos 1]]
-- [ ] [[Reel- Ukako 1]]
+- [ ] [[Reel - Ukako 1]]
+- [ ] [[Reel - Ukako 2]]
 
 
 ## Subido 🔼
