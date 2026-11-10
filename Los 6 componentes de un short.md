@@ -1,6 +1,7 @@
+###Los 6 componentes de un short
 Idea
 Hook
 Script/storytelling
-Edit
-Filming
-Visual package
+Recording
+Editing
+Visual packaging
