@@ -1,8 +1,8 @@
 
 
 - [ ] 🔺 Empaparme Accenture
-- [ ] DEMO REEL de sound design ---> Postularme a los 2 faveados
-	- [ ] Publicarlo en web
+- [ ] Postularme a los 2 faveados
+- [ ] Unreal Engine level
 - [ ] Generar portoflio CM
 	- [ ] Armar presupuesto CM
 ```tasks
