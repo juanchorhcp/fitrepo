@@ -1,7 +1,12 @@
 Acá voy a poner todo lo que aprenda sobre uso avanzado de FMOD.
 
-Event instrument: trae el sonido de otro evento al evento actual para manejarlo como un track
+## FMOD Audio Implementation for Video Games
+***by Beatrix Moersch***
 
-Scattered instrument: útil en ambiences - tipo aves y sonidos que se van disparando aleatoriamente
+Event instrument
+Trae el sonido de otro evento al evento actual para manejarlo como un track
+
+Scattered instrument
+Útil en ambiences - tipo aves y sonidos que se van disparando aleatoriamente
 
 Noise instrument: AudioWeather y AudioMotors en el video eran generadores de ruido DE PAGO
