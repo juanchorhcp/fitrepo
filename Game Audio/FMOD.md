@@ -4,4 +4,4 @@ Event instrument: trae el sonido de otro evento al evento actual para manejarlo 
 
 Scattered instrument: útil en ambiences - tipo aves y sonidos que se van disparando aleatoriamente
 
-Noise instrument: 
+Noise instrument: AudioWeather y AudioMotors en el video eran generadores de ruido DE PAGO
