@@ -12,3 +12,6 @@ Scattered instrument
 Noise instrument
 AudioWeather y AudioMotors en el video eran generadores de ruido DE PAGO
 
+## Truquitos
+Lena Raine (Celeste)
+En situacion de música por capas en la que se van agregando instrumentos
