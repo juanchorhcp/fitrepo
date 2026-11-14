@@ -20,4 +20,4 @@ En situacion de música por capas en la que se van agregando instrumentos, poner
 3 versiones de exploración + 3 versiones de combate
 Lo importante es componer las transiciones musicales entre cada conexión
 En este caso van a ser 9 de ida y 9 de vuelta
-	
+	Importante en roguelikes o niveles largos
