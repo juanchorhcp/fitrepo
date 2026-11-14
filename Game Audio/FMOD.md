@@ -14,4 +14,5 @@ AudioWeather y AudioMotors en el video eran generadores de ruido DE PAGO
 
 ## Truquitos
 Lena Raine (Celeste)
-En situacion de música por capas en la que se van agregando instrumentos
+En situacion de música por capas en la que se van agregando instrumentos, poner un raiser para que no suene pedorro el fade in del instrumento que entra [Simple Secret to Transition Game Music - YouTube](https://www.youtube.com/shorts/FhsgAM1AgX4)
+
