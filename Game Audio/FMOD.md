@@ -9,4 +9,6 @@ Trae el sonido de otro evento al evento actual para manejarlo como un track
 Scattered instrument
 Útil en ambiences - tipo aves y sonidos que se van disparando aleatoriamente
 
-Noise instrument: AudioWeather y AudioMotors en el video eran generadores de ruido DE PAGO
+Noise instrument
+AudioWeather y AudioMotors en el video eran generadores de ruido DE PAGO
+
