@@ -29,3 +29,4 @@ En este caso van a ser 9 de ida y 9 de vuelta
 ## Variation
 #### SFX compuestos
 Recordar que se puede hacer un multi-instrument para cada factor que compone al sfx
+	Ej: secuencia de ataques, muerte de enemigo (cae+grito+fuego), etc.
