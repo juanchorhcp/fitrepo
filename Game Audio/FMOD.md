@@ -24,3 +24,8 @@ En situacion de música por capas en la que se van agregando instrumentos, poner
 Lo importante es componer las transiciones musicales entre cada conexión
 En este caso van a ser 9 de ida y 9 de vuelta
 	Importante en roguelikes o niveles largos
+
+
+## Variation
+#### SFX compuestos
+Recordar que se puede hacer un multi-instrument para cada factor que compone al sfx
