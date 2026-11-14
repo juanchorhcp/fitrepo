@@ -1,7 +1,6 @@
 Acá voy a poner todo lo que aprenda sobre uso avanzado de FMOD.
 
-## FMOD Audio Implementation for Video Games
-***by Beatrix Moersch***
+## FMOD Audio Implementation for Video Games by Beatrix Moersch***
 
 Event instrument
 Trae el sonido de otro evento al evento actual para manejarlo como un track
@@ -14,6 +13,8 @@ Scattered instrument
 
 Noise instrument
 AudioWeather y AudioMotors en el video eran generadores de ruido DE PAGO
+
+*Al final no pude seguir el curso porque era una plataforma de pago*
 
 ## Truquitos
 #### Raiser - Lena Raine (Celeste)
