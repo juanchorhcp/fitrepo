@@ -6,6 +6,9 @@ Acá voy a poner todo lo que aprenda sobre uso avanzado de FMOD.
 Event instrument
 Trae el sonido de otro evento al evento actual para manejarlo como un track
 
+Multi-instrument
+Se puede poner eventos adentro a la vez que audios. Se lo llama "Stacking events"
+
 Scattered instrument
 Útil en ambiences - tipo aves y sonidos que se van disparando aleatoriamente
 
