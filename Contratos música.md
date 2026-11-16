@@ -1,0 +1,1 @@
+Pago: 50% por adelantado. Opción B es 30-30-40 (fijar cual sería el punto para el  medio)
