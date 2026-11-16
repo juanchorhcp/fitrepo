@@ -7,7 +7,7 @@
 	- [ ] Experiencia funcional y/o técnica en la implementación de soluciones Voice / Non-voice, por ejemplo, IVR, Callback, Web, Email, Chatbot, SMS, Social Media.
 	- [ ] Experiencia con plataformas de Contact Center Clou/On-Premise
 	- [ ] Experiencia practica y/o certificaciones en plataformas de Atención al cliente/Contact Center líderes como: Salesforce Cloud, Genesys Clou CX, AWs, Amazon Connect, Nice CX one, Microsoft cloud, Google cloud, Avaya
-- [ ] FMOD footsteps
+- [ ] FMOD footsteps hierba y barro
 - [ ] Unreal Engine level: ver si quedé en violinista o en el siguiente
 - [ ] Generar portoflio CM
 	- [ ] Armar presupuesto CM
