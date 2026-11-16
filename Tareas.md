@@ -1,6 +1,7 @@
 
 
 - [ ] 🔺 Empaparme Accenture
+	- [ ] Excel y PowerPoint
 	- [ ] 
 - [ ] Unreal Engine level
 - [ ] Generar portoflio CM
