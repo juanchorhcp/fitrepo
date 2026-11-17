@@ -14,8 +14,8 @@ game_source: manual
 title: Control
 note_language: en
 ---
+![[control.avif]]
 
-# Control
 
 
 
