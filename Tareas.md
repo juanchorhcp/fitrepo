@@ -1,6 +1,7 @@
 
 
-- [ ] 🔺 Empaparme Accenture
+
+- [ ]🔺 Empaparme Accenture
 	- [ ] Excel y PowerPoint
 	- [ ] Project Management: Trello, JIRA, Milanote, Notion
 	- [ ] Conocimiento en desarrollo de estrategias de customer service, transformaciones de contact center, desarrollo y mejora de customer journeys, customer analytics, Implementación cloud, workforce optimization, diseño de soluciones de atención al cliente y/o diseño e implementación de procesos en el ámbito de customer service.
