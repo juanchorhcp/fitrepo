@@ -2,7 +2,7 @@
 status: "completed"
 rating: 4.5
 ownership: "owned"
-started: null
+started: 2026-09-20
 finished: 2026-11-15
 playtime_minutes: 0
 tags: [ "games" ]
