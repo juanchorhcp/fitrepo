@@ -9,24 +9,24 @@ title: "Hollow Knight: Silksong"
 source_updated: "2026-11-12"
 source_fetched: "2026-11-17T19:56:53.248Z"
 release_date: "2025-09-04"
-release_dates: ["world: 2025-09-04"]
-platforms: ["Switch 2","Switch","PS5","PS4","Series X|S","XONE","PC","Steam","Mac","Linux"]
-genres: ["アクション","アドベンチャー","プラットフォーマー","ファンタジー","インディー"]
-developers: ["Team Cherry"]
-publishers: ["Team Cherry"]
+release_dates: [ "world: 2025-09-04" ]
+platforms: [ "Switch 2", "Switch", "PS5", "PS4", "Series X|S", "XONE", "PC", "Steam", "Mac", "Linux" ]
+genres: [ "アクション", "アドベンチャー", "プラットフォーマー", "ファンタジー", "インディー" ]
+developers: [ "Team Cherry" ]
+publishers: [ "Team Cherry" ]
 directors: []
 age_rating: "CERO B / ESRB E10+"
 release_status: null
 igdb_score: 92
 steam_positive_pct: 89
-status: "backlog"
+status: "completed"
 rating: null
 ownership: "owned"
 started: null
-finished: null
+finished: 2026-11-17
 playtime_minutes: 0
-tags: ["games"]
-cssclasses: ["game-shelf-note"]
+tags: [ "games" ]
+cssclasses: [ "game-shelf-note" ]
 cover: "Games/Attachments/gnd-hollow-knight-silksong.webp"
 note_language: "ja"
 ---

@@ -9,24 +9,24 @@ title: "NieR:Automata"
 source_updated: "2026-11-15"
 source_fetched: "2026-11-17T19:56:16.325Z"
 release_date: "2017-02-23"
-release_dates: ["JP: 2017-02-23"]
-platforms: ["PS4","XONE","PC","Steam"]
-genres: ["アクション","RPG","ハック＆スラッシュ","オープンワールド","ファンタジー","SF","ドラマ"]
-developers: ["PlatinumGames","Square Enix Business Division 6"]
-publishers: ["Square Enix"]
-directors: ["Yoko Taro"]
+release_dates: [ "JP: 2017-02-23" ]
+platforms: [ "PS4", "XONE", "PC", "Steam" ]
+genres: [ "アクション", "RPG", "ハック＆スラッシュ", "オープンワールド", "ファンタジー", "SF", "ドラマ" ]
+developers: [ "PlatinumGames", "Square Enix Business Division 6" ]
+publishers: [ "Square Enix" ]
+directors: [ "Yoko Taro" ]
 age_rating: "CERO D / ESRB M"
 release_status: null
 igdb_score: 90
 steam_positive_pct: 88
-status: "backlog"
+status: "completed"
 rating: null
 ownership: "owned"
 started: null
-finished: null
+finished: 2026-11-17
 playtime_minutes: 0
-tags: ["games"]
-cssclasses: ["game-shelf-note"]
+tags: [ "games" ]
+cssclasses: [ "game-shelf-note" ]
 cover: "Games/Attachments/gnd-nier-automata.webp"
 note_language: "ja"
 ---

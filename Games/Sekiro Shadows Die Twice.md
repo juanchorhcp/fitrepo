@@ -9,24 +9,24 @@ title: "Sekiro: Shadows Die Twice"
 source_updated: "2026-11-15"
 source_fetched: "2026-11-17T19:59:29.307Z"
 release_date: "2019-03-22"
-release_dates: ["world: 2019-03-22"]
-platforms: ["PS4","XONE","PC","Steam","Stadia"]
-genres: ["アクション","アドベンチャー","ファンタジー","ステルス","歴史"]
-developers: ["FromSoftware"]
-publishers: ["Activision"]
-directors: ["Hidetaka Miyazaki"]
+release_dates: [ "world: 2019-03-22" ]
+platforms: [ "PS4", "XONE", "PC", "Steam", "Stadia" ]
+genres: [ "アクション", "アドベンチャー", "ファンタジー", "ステルス", "歴史" ]
+developers: [ "FromSoftware" ]
+publishers: [ "Activision" ]
+directors: [ "Hidetaka Miyazaki" ]
 age_rating: "CERO D / ESRB M"
 release_status: null
 igdb_score: 90
 steam_positive_pct: 95
-status: "backlog"
+status: "completed"
 rating: null
 ownership: "owned"
 started: null
-finished: null
+finished: 2026-11-17
 playtime_minutes: 0
-tags: ["games"]
-cssclasses: ["game-shelf-note"]
+tags: [ "games" ]
+cssclasses: [ "game-shelf-note" ]
 cover: "Games/Attachments/gnd-sekiro-shadows-die-twice.webp"
 note_language: "ja"
 ---
