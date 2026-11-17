@@ -1,34 +1,50 @@
 ---
-game_id: "gnd:the-legend-of-zelda-breath-of-the-wild"
-game_source: "gamesneverdie"
-source_id: "the-legend-of-zelda-breath-of-the-wild"
-metadata_language: "ja"
-game_slug: "the-legend-of-zelda-breath-of-the-wild"
-game_url: "https://gamesneverdie.com/ja/games/the-legend-of-zelda-breath-of-the-wild"
-title: "ゼルダの伝説 ブレス オブ ザ ワイルド"
-source_updated: "2026-11-15"
-source_fetched: "2026-11-17T19:57:27.981Z"
-release_date: "2017-03-03"
-release_dates: ["world: 2017-03-03"]
-platforms: ["Switch 2","Switch","WiiU"]
-genres: ["アクション","アドベンチャー","パズル","オープンワールド","ファンタジー","SF","サンドボックス"]
-developers: ["Nintendo EPD Production Group No. 3"]
-publishers: ["Nintendo"]
-directors: ["Hidemaro Fujibayashi"]
-age_rating: "CERO B / ESRB E10+"
-release_status: null
+game_id: gnd:the-legend-of-zelda-breath-of-the-wild
+game_source: gamesneverdie
+source_id: the-legend-of-zelda-breath-of-the-wild
+metadata_language: ja
+game_slug: the-legend-of-zelda-breath-of-the-wild
+game_url: https://gamesneverdie.com/ja/games/the-legend-of-zelda-breath-of-the-wild
+title: The Legend of Zelda Breath of the Wild
+source_updated: 2026-11-15
+source_fetched: 2026-11-17T19:57:27.981Z
+release_date: 2017-03-03
+release_dates:
+  - "world: 2017-03-03"
+platforms:
+  - Switch 2
+  - Switch
+  - WiiU
+genres:
+  - アクション
+  - アドベンチャー
+  - パズル
+  - オープンワールド
+  - ファンタジー
+  - SF
+  - サンドボックス
+developers:
+  - Nintendo EPD Production Group No. 3
+publishers:
+  - Nintendo
+directors:
+  - Hidemaro Fujibayashi
+age_rating: CERO B / ESRB E10+
+release_status:
 igdb_score: 92
-steam_positive_pct: null
-status: "backlog"
-rating: null
-ownership: "owned"
-started: null
-finished: null
+steam_positive_pct:
+status: backlog
+rating:
+ownership: owned
+started:
+finished:
 playtime_minutes: 0
-tags: ["games"]
-cssclasses: ["game-shelf-note"]
-cover: "Games/Attachments/gnd-the-legend-of-zelda-breath-of-the-wild.webp"
-note_language: "ja"
+tags:
+  - games
+cssclasses:
+  - game-shelf-note
+cover: Games/Attachments/gnd-the-legend-of-zelda-breath-of-the-wild.webp
+note_language: ja
 ---
 
 ![[Games/Attachments/gnd-the-legend-of-zelda-breath-of-the-wild.webp]]
