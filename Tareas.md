@@ -9,6 +9,8 @@
 	- [ ] Experiencia con plataformas de Contact Center Clou/On-Premise
 	- [ ] Experiencia practica y/o certificaciones en plataformas de Atención al cliente/Contact Center líderes como: Salesforce Cloud, Genesys Clou CX, AWs, Amazon Connect, Nice CX one, Microsoft cloud, Google cloud, Avaya
 - [ ] FMOD footsteps hierba y barro
+- [ ] Ir a la Asociación médica (7:30 am)
+- [ ] Concurso docente Tec Penna
 - [ ] Unreal Engine level: ver si quedé en violinista o en el siguiente
 - [ ] Generar portoflio CM
 	- [ ] Armar presupuesto CM
