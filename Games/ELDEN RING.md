@@ -9,24 +9,24 @@ title: "ELDEN RING"
 source_updated: "2026-11-15"
 source_fetched: "2026-11-17T19:54:28.429Z"
 release_date: "2022-02-25"
-release_dates: ["world: 2022-02-25"]
-platforms: ["Switch 2","PS5","PS4","Series X|S","XONE","PC","Steam"]
-genres: ["アクション","アドベンチャー","RPG","オープンワールド","ファンタジー"]
-developers: ["FromSoftware"]
-publishers: ["Bandai Namco Entertainment","FromSoftware"]
-directors: ["Hidetaka Miyazaki"]
+release_dates: [ "world: 2022-02-25" ]
+platforms: [ "Switch 2", "PS5", "PS4", "Series X|S", "XONE", "PC", "Steam" ]
+genres: [ "アクション", "アドベンチャー", "RPG", "オープンワールド", "ファンタジー" ]
+developers: [ "FromSoftware" ]
+publishers: [ "Bandai Namco Entertainment", "FromSoftware" ]
+directors: [ "Hidetaka Miyazaki" ]
 age_rating: "CERO D / ESRB M"
 release_status: null
 igdb_score: 93
 steam_positive_pct: 93
-status: "backlog"
+status: "paused"
 rating: 4.5
 ownership: "owned"
 started: null
 finished: null
 playtime_minutes: 0
-tags: ["games"]
-cssclasses: ["game-shelf-note"]
+tags: [ "games" ]
+cssclasses: [ "game-shelf-note" ]
 cover: "Games/Attachments/gnd-elden-ring.webp"
 note_language: "ja"
 ---

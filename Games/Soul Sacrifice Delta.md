@@ -9,24 +9,24 @@ title: "Soul Sacrifice Delta"
 source_updated: "2026-11-14"
 source_fetched: "2026-11-17T20:03:53.265Z"
 release_date: "2014-03-06"
-release_dates: ["JP: 2014-03-06"]
-platforms: ["Vita"]
-genres: ["アクション","アドベンチャー","RPG","ホラー"]
-developers: ["SCE Japan Studio","Comcept","Marvelous AQL"]
-publishers: ["Sony Computer Entertainment"]
+release_dates: [ "JP: 2014-03-06" ]
+platforms: [ "Vita" ]
+genres: [ "アクション", "アドベンチャー", "RPG", "ホラー" ]
+developers: [ "SCE Japan Studio", "Comcept", "Marvelous AQL" ]
+publishers: [ "Sony Computer Entertainment" ]
 directors: []
 age_rating: "ESRB M"
 release_status: null
 igdb_score: 80
 steam_positive_pct: null
-status: "backlog"
+status: "completed"
 rating: null
 ownership: "owned"
 started: null
-finished: null
+finished: 2026-11-17
 playtime_minutes: 0
-tags: ["games"]
-cssclasses: ["game-shelf-note"]
+tags: [ "games" ]
+cssclasses: [ "game-shelf-note" ]
 cover: "Games/Attachments/gnd-soul-sacrifice-delta.webp"
 note_language: "ja"
 ---

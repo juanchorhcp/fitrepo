@@ -9,24 +9,24 @@ title: "Metal Gear Solid 4 Guns of the Patriots"
 source_updated: "2026-11-15"
 source_fetched: "2026-11-17T20:02:55.334Z"
 release_date: "2008-06-12"
-release_dates: ["world: 2008-06-12"]
-platforms: ["PS3"]
-genres: ["アクション","アドベンチャー","シューター","タクティカル","ファンタジー","サバイバル","ステルス","歴史"]
-developers: ["Kojima Productions"]
-publishers: ["Konami"]
-directors: ["Hideo Kojima"]
+release_dates: [ "world: 2008-06-12" ]
+platforms: [ "PS3" ]
+genres: [ "アクション", "アドベンチャー", "シューター", "タクティカル", "ファンタジー", "サバイバル", "ステルス", "歴史" ]
+developers: [ "Kojima Productions" ]
+publishers: [ "Konami" ]
+directors: [ "Hideo Kojima" ]
 age_rating: "CERO D / ESRB M"
 release_status: null
 igdb_score: 87
 steam_positive_pct: null
-status: "backlog"
+status: "completed"
 rating: null
 ownership: "owned"
 started: null
-finished: null
+finished: 2026-11-17
 playtime_minutes: 0
-tags: ["games"]
-cssclasses: ["game-shelf-note"]
+tags: [ "games" ]
+cssclasses: [ "game-shelf-note" ]
 cover: "Games/Attachments/gnd-metal-gear-solid-4-guns-of-the-patriots.webp"
 note_language: "ja"
 ---

@@ -9,24 +9,24 @@ title: "Final Fantasy X"
 source_updated: "2026-11-15"
 source_fetched: "2026-11-17T20:02:16.498Z"
 release_date: "2001-07-19"
-release_dates: ["JP: 2001-07-19"]
-platforms: ["PS2"]
-genres: ["アドベンチャー","RPG","ファンタジー","SF","ドラマ","恋愛"]
-developers: ["Square Product Development Division 1"]
-publishers: ["Square Electronic Arts","Square","Sony Computer Entertainment"]
-directors: ["Yoshinori Kitase"]
+release_dates: [ "JP: 2001-07-19" ]
+platforms: [ "PS2" ]
+genres: [ "アドベンチャー", "RPG", "ファンタジー", "SF", "ドラマ", "恋愛" ]
+developers: [ "Square Product Development Division 1" ]
+publishers: [ "Square Electronic Arts", "Square", "Sony Computer Entertainment" ]
+directors: [ "Yoshinori Kitase" ]
 age_rating: "CERO B / ESRB T"
 release_status: null
 igdb_score: 88
 steam_positive_pct: null
-status: "backlog"
+status: "completed"
 rating: null
 ownership: "owned"
 started: null
-finished: null
+finished: 2026-11-17
 playtime_minutes: 0
-tags: ["games"]
-cssclasses: ["game-shelf-note"]
+tags: [ "games" ]
+cssclasses: [ "game-shelf-note" ]
 cover: "Games/Attachments/gnd-final-fantasy-x.webp"
 note_language: "ja"
 ---

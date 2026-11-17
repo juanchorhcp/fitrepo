@@ -9,24 +9,24 @@ title: "CONTROL"
 source_updated: "2026-11-15"
 source_fetched: "2026-11-17T19:56:32.419Z"
 release_date: "2019-08-27"
-release_dates: ["world: 2019-08-27"]
-platforms: ["PS5","PS4","Series X|S","XONE","PC","Steam","Stadia"]
-genres: ["アクション","アドベンチャー","シューター","ファンタジー","SF","ホラー","スリラー"]
-developers: ["Remedy Entertainment"]
-publishers: ["505 Games"]
+release_dates: [ "world: 2019-08-27" ]
+platforms: [ "PS5", "PS4", "Series X|S", "XONE", "PC", "Steam", "Stadia" ]
+genres: [ "アクション", "アドベンチャー", "シューター", "ファンタジー", "SF", "ホラー", "スリラー" ]
+developers: [ "Remedy Entertainment" ]
+publishers: [ "505 Games" ]
 directors: []
 age_rating: "CERO D / ESRB M"
 release_status: null
 igdb_score: 83
 steam_positive_pct: 86
-status: "backlog"
+status: "completed"
 rating: null
 ownership: "owned"
 started: null
-finished: null
+finished: 2026-11-17
 playtime_minutes: 0
-tags: ["games"]
-cssclasses: ["game-shelf-note"]
+tags: [ "games" ]
+cssclasses: [ "game-shelf-note" ]
 cover: "Games/Attachments/gnd-control.webp"
 note_language: "ja"
 ---

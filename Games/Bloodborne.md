@@ -9,24 +9,24 @@ title: "Bloodborne"
 source_updated: "2026-11-15"
 source_fetched: "2026-11-17T20:03:29.008Z"
 release_date: "2015-03-26"
-release_dates: ["JP: 2015-03-26","world: 2015-03-24"]
-platforms: ["PS4"]
-genres: ["アクション","アドベンチャー","RPG","オープンワールド","ファンタジー","ホラー"]
-developers: ["FromSoftware","Japan Studio"]
-publishers: ["Sony Computer Entertainment"]
-directors: ["Hidetaka Miyazaki"]
+release_dates: [ "JP: 2015-03-26", "world: 2015-03-24" ]
+platforms: [ "PS4" ]
+genres: [ "アクション", "アドベンチャー", "RPG", "オープンワールド", "ファンタジー", "ホラー" ]
+developers: [ "FromSoftware", "Japan Studio" ]
+publishers: [ "Sony Computer Entertainment" ]
+directors: [ "Hidetaka Miyazaki" ]
 age_rating: "CERO D / ESRB M"
 release_status: null
 igdb_score: 91
 steam_positive_pct: null
-status: "backlog"
+status: "completed"
 rating: null
 ownership: "owned"
 started: null
-finished: null
+finished: 2026-11-17
 playtime_minutes: 0
-tags: ["games"]
-cssclasses: ["game-shelf-note"]
+tags: [ "games" ]
+cssclasses: [ "game-shelf-note" ]
 cover: "Games/Attachments/gnd-bloodborne.webp"
 note_language: "ja"
 ---

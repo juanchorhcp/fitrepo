@@ -9,24 +9,24 @@ title: "Death Stranding"
 source_updated: "2026-11-15"
 source_fetched: "2026-11-17T20:04:12.082Z"
 release_date: "2019-11-08"
-release_dates: ["world: 2019-11-08"]
-platforms: ["PS4","PC","Steam"]
-genres: ["アクション","アドベンチャー","RPG","シューター","オープンワールド","SF","サバイバル","ステルス"]
-developers: ["Kojima Productions"]
-publishers: ["Sony Interactive Entertainment","505 Games"]
-directors: ["Hideo Kojima"]
+release_dates: [ "world: 2019-11-08" ]
+platforms: [ "PS4", "PC", "Steam" ]
+genres: [ "アクション", "アドベンチャー", "RPG", "シューター", "オープンワールド", "SF", "サバイバル", "ステルス" ]
+developers: [ "Kojima Productions" ]
+publishers: [ "Sony Interactive Entertainment", "505 Games" ]
+directors: [ "Hideo Kojima" ]
 age_rating: "CERO D / ESRB M"
 release_status: null
 igdb_score: 86
 steam_positive_pct: 93
-status: "backlog"
+status: "completed"
 rating: null
 ownership: "owned"
 started: null
-finished: null
+finished: 2026-11-17
 playtime_minutes: 0
-tags: ["games"]
-cssclasses: ["game-shelf-note"]
+tags: [ "games" ]
+cssclasses: [ "game-shelf-note" ]
 cover: "Games/Attachments/gnd-death-stranding.webp"
 note_language: "ja"
 ---

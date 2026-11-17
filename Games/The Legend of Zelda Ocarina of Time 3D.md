@@ -27,11 +27,11 @@ age_rating: CERO A / ESRB E10+
 release_status:
 igdb_score: 90
 steam_positive_pct:
-status: backlog
+status: completed
 rating:
 ownership: owned
 started:
-finished:
+finished: 2026-11-17
 playtime_minutes: 0
 tags:
   - games
