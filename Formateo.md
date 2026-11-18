@@ -5,7 +5,7 @@ Partidas de juegos de Steam sin cloud
 
 Panel de control de NVIDIA (Microsoft store)
 
-Reaper cargar config 2025
+Reaper cargar config 2026
 
 Presets Archetype Tim Henson
 Listas y favoritos del Analog Lab V
