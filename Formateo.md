@@ -9,6 +9,7 @@ Reaper cargar config 2026
 
 Presets Archetype Tim Henson
 Listas y favoritos del Analog Lab V
+RELIC suite plugins (mixing - free)
 
 OBS (ajustes, salida, seleccionar carpeta D:\Videos OBS)
 obs-asio (plugin de obs para conectarlo con reaper) [Releases · Andersama/obs-asio](https://github.com/Andersama/obs-asio/releases)
