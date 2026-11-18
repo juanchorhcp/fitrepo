@@ -10,9 +10,4 @@ Del puerto
 Zandonadi
 Profertil
 AirLiquide
-
-
-
-
-
 Hospital Penna Tec Sup en F. hospitalaria
