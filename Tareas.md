@@ -1,6 +1,3 @@
-
-
-
 - [ ]🔺 Empaparme Accenture
 	- [ ] Excel y PowerPoint
 	- [ ] Project Management: Trello, JIRA, Milanote, Notion
