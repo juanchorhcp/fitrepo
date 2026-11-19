@@ -7,4 +7,4 @@ Te da una pre-mezcla a la cual podés hacerla gain staging dentro del mismo prog
 Al importar se pone todo en su respectivas familias y colores.
 También te da midi files para la batería en caso de querer reemplazar por un sample.
 
-YA A LA VENTA: https://tapeleader.com/pricing Precio de lanzamiento: 139 € / 139 $ hasta el 4 de diciembre de 2026
+YA A LA VENTA: https://tapeleader.com/pricing Precio de lanzamiento: 139 € / 139 $ hasta el 4 de diciembre de 2026. Luego 219 $
