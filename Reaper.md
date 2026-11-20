@@ -6,8 +6,8 @@ Cosas para customizarle:
 JS Nostalgizer
 
 #### EQ/Dynamic EQ
-*Reducir freq que solo molestan a veces. 
-Tighten up low end de la mezcla
-*
+	Reducir freq que solo molestan a veces. 
+	Tighten up low end de la mezcla
+	Arreglar Frequency masking entre instrumentos
 TDR Nova
 Green dynamic eq (Tukan)
