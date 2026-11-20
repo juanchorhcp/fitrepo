@@ -1,6 +1,7 @@
 SOFTGAMES (Alemania)
 Internship sound designer
 UpOneGames
+Innovative Suites (composer)
 Como 5 más
 
 Administrativo de farmacia
