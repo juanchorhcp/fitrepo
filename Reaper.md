@@ -6,4 +6,7 @@ Cosas para customizarle:
 JS Nostalgizer
 
 #### EQ/Dynamic EQ
-TDR NOVA
+*Reducir freq que solo molestan a veces. 
+*
+TDR Nova
+Green dynamic eq (Tukan)
