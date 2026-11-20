@@ -1,8 +1,9 @@
+SOFTGAMES (Alemania)
 Internship sound designer
 UpOneGames
-Sweet Justice Sound
 Como 5 más
 
+Administrativo de farmacia
 UNS Farmacología B
 UNS Inmunología 
 Documentación de estudios clínicos 
