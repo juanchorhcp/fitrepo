@@ -4,3 +4,6 @@ Cosas para customizarle:
 ### Plugins por categoría
 #### Lo-fi
 JS Nostalgizer
+
+#### EQ/Dynamic EQ
+TDR NOVA
