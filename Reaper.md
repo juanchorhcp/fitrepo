@@ -13,6 +13,10 @@ Chow tape model (free)
 TDR Nova
 Green dynamic eq (Tukan)
 
+
+#### Reverb
+Smartelectronix ambience
+
 #### Delays
 Deelay
 Valhalla supermassive
@@ -28,3 +32,4 @@ Texture loom by S1gns of life: atmospheric sounds
 Averiguar:
 Also, the Keepforest free instruments are delightful: if you're doing/looking to get into hybrid orchestral, I can recommend them without reservation.
 Bertom vocal compressor
+Soundbox - all the freebies
