@@ -2,6 +2,16 @@ Cosas para customizarle:
 [Level up your transport bar with Gridbox and Chordbox for REAPER](https://reapertips.com/post/level-up-your-transport-bar-with-gridbox-and-chordbox-for-reaper) (chordbox)
 
 ### Plugins por categoría
+#### Free bundles
+Kiloheartz (sound design effects)
+MFreeFXBundle (mixing y tools)
+
+
+#### Maybe-buy
+Gulfoss 
+DreamMachine $9
+Total VI max 2
+
 #### Lo-fi
 JS Nostalgizer
 Chow tape model (free)
@@ -24,7 +34,7 @@ Echodude (parecido al valhalla)
 
 #### Multifuncionales
 StudioVerse audio effects (free demo waves)
-StudioVerse Instruments (free demo )
+StudioVerse Instruments (free demo waves)
 
 #### Bass synths
 TAL Bassline
