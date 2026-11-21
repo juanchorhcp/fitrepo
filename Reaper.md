@@ -10,7 +10,9 @@ MFreeFXBundle (mixing y tools)
 #### Maybe-buy
 Gulfoss 
 DreamMachine $9
-Total VI max 2
+Total VI max 2 $49: modo bass 2, modo piano, modo drums 2
+Pigments
+
 
 #### Lo-fi
 JS Nostalgizer
@@ -45,6 +47,7 @@ Flow Motion FM synth (free - waves)
 
 #### Drums
 Synsonic bd-909: synth drum
+Addictive drums 2 (download)
 
 #### Sound engines
 Texture loom by S1gns of life: atmospheric sounds
