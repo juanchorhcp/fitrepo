@@ -13,8 +13,12 @@ Chow tape model (free)
 TDR Nova
 Green dynamic eq (Tukan)
 
-
+#### Delays
+Deelay
+Valhalla supermassive
+Echodude (parecido al valhalla)
 #### Bass synths
 TAL Bassline
 Moog en Analog Lab
 
+#### Atmos
