@@ -5,6 +5,7 @@ Cosas para customizarle:
 #### Free bundles
 Kiloheartz (sound design effects)
 MFreeFXBundle (mixing y tools)
+Blue Cat
 
 
 #### Maybe-buy
