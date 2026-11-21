@@ -27,7 +27,7 @@ TAL Bassline
 Moog en Analog Lab
 
 #### Drums
-Synsonic bd-909
+Synsonic bd-909: synth drum
 
 #### Sound engines
 Texture loom by S1gns of life: atmospheric sounds
