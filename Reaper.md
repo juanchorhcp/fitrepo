@@ -13,7 +13,6 @@ Chow tape model (free)
 TDR Nova
 Green dynamic eq (Tukan)
 
-
 #### Reverb
 Smartelectronix ambience: Classic flexible pleasant reverb
 
@@ -22,9 +21,17 @@ Deelay
 Valhalla supermassive
 Echodude (parecido al valhalla)
 
+
+#### Multifuncionales
+StudioVerse audio effects (free demo waves)
+StudioVerse Instruments (free demo )
+
 #### Bass synths
 TAL Bassline
 Moog en Analog Lab
+
+#### Synths
+Flow Motion FM synth (free - waves)
 
 #### Drums
 Synsonic bd-909: synth drum
@@ -36,3 +43,4 @@ Averiguar:
 Also, the Keepforest free instruments are delightful: if you're doing/looking to get into hybrid orchestral, I can recommend them without reservation.
 Bertom vocal compressor
 Soundbox - all the freebies
+https://www.pluginboutique.com/products/18100?a_aid=605d605c4aba7 aca estan todos los freebies que anoté 
