@@ -14,7 +14,8 @@ DreamMachine $9
 Total VI max 2 $49: modo bass 2, modo piano, modo drums 2 y más
 Pigments
 
-
+#### Tools
+MG-Mini: Conversor de audio a midi (free)
 #### Lo-fi
 JS Nostalgizer
 Chow tape model (free)
