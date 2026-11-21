@@ -10,7 +10,7 @@ MFreeFXBundle (mixing y tools)
 #### Maybe-buy
 Gulfoss 
 DreamMachine $9
-Total VI max 2 $49: modo bass 2, modo piano, modo drums 2
+Total VI max 2 $49: modo bass 2, modo piano, modo drums 2 y más
 Pigments
 
 
