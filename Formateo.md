@@ -11,13 +11,14 @@ Reaper cargar config 2026
 Presets Archetype Tim Henson
 Listas y favoritos del Analog Lab V
 RELIC suite plugins (mixing - free)
+Kontakt 
+Splice (LABS)
+Sine (percus)
+DRUMFLX
 
-
+### Software
 OBS (ajustes, salida, seleccionar carpeta D:\Videos OBS)
 obs-asio (plugin de obs para conectarlo con reaper) [Releases · Andersama/obs-asio](https://github.com/Andersama/obs-asio/releases)
 Como configurarlo: [Cómo conectar la salida de audio de REAPER a OBS - YouTube](https://www.youtube.com/watch?v=n8WeZR1iw1A)
 Sería: Agregar ASIO en obs, seleccionar el dispositivo Rearoute, luego en Reaper crear un send en el Master Track que mande a Rearoute1/Rearoute2
 
-Kontakt 
-Splice (LABS)
-Sine (percus )
