@@ -11,3 +11,7 @@ JS Nostalgizer
 	Arreglar Frequency masking entre instrumentos
 TDR Nova
 Green dynamic eq (Tukan)
+
+#### Bass synths
+TAL Bassline
+Moog en Analog Lab
