@@ -17,10 +17,14 @@ Green dynamic eq (Tukan)
 Deelay
 Valhalla supermassive
 Echodude (parecido al valhalla)
+
 #### Bass synths
 TAL Bassline
 Moog en Analog Lab
 
 #### Sound engines
-
 Texture loom by S1gns of life: atmospheric sounds
+
+Averiguar:
+Also, the Keepforest free instruments are delightful: if you're doing/looking to get into hybrid orchestral, I can recommend them without reservation.
+Bertom vocal compressor
