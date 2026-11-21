@@ -49,7 +49,7 @@ Flow Motion FM synth (free - waves)
 #### Drums
 Synsonic bd-909: synth drum
 Addictive drums 2 (download)
-
+DRUMFLX: drum machine (free)
 #### Sound engines
 Texture loom by S1gns of life: atmospheric sounds
 
