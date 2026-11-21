@@ -4,6 +4,7 @@ Cosas para customizarle:
 ### Plugins por categoría
 #### Lo-fi
 JS Nostalgizer
+Chow tape model (free)
 
 #### EQ/Dynamic EQ
 	Reducir freq que solo molestan a veces. 
@@ -12,6 +13,8 @@ JS Nostalgizer
 TDR Nova
 Green dynamic eq (Tukan)
 
+
 #### Bass synths
 TAL Bassline
 Moog en Analog Lab
+
