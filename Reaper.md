@@ -15,7 +15,7 @@ Green dynamic eq (Tukan)
 
 
 #### Reverb
-Smartelectronix ambience
+Smartelectronix ambience: Classic flexible pleasant reverb
 
 #### Delays
 Deelay
@@ -25,6 +25,9 @@ Echodude (parecido al valhalla)
 #### Bass synths
 TAL Bassline
 Moog en Analog Lab
+
+#### Drums
+Synsonic bd-909
 
 #### Sound engines
 Texture loom by S1gns of life: atmospheric sounds
