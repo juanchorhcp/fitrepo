@@ -6,3 +6,5 @@ Presets
 		Modern Creativity: mas equilibrado
 	INDIE
 		OH mix: steady rock
+	MODERN SOUL & R&B
+		Muchos copados. Buenas palmas y aros
