@@ -46,6 +46,8 @@ Moog en Analog Lab
 
 #### Synths
 Flow Motion FM synth (free - waves)
+Pigments Play
+Analog Lab V Pro
 
 #### Drums
 Synsonic bd-909: synth drum
