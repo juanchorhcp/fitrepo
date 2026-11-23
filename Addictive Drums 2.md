@@ -2,5 +2,5 @@ Presets
 	FUNK
 		Pearl Reference Clean: standard/funk
 	HIP HOP & GOSPEL
-		Modern Creativity: platos oscuros, snare seco
-		
+		Backyard Beak: platos oscuros, snare seco
+		Modern Creativity: mas equilibrado
