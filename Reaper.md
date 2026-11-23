@@ -30,6 +30,7 @@ Green dynamic eq (Tukan)
 
 #### Reverb
 Smartelectronix ambience: Classic flexible pleasant reverb
+REV Plate by Arturia
 
 #### Delays
 Deelay
@@ -43,13 +44,13 @@ StudioVerse Instruments (free demo waves)
 
 #### Electric pianos
 
-Stage 73 by Arturia
+Stage-73 by Arturia
 Wurli by Arturia
 
 #### Bass synths
 TAL Bassline
 Moog en Analog Lab
-Mini 
+Mini V3 by Arturia
 
 #### Synths
 Flow Motion FM synth (free - waves)
