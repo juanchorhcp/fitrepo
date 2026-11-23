@@ -41,9 +41,15 @@ Echodude (parecido al valhalla)
 StudioVerse audio effects (free demo waves)
 StudioVerse Instruments (free demo waves)
 
+#### Electric pianos
+
+Stage 73 by Arturia
+Wurli by Arturia
+
 #### Bass synths
 TAL Bassline
 Moog en Analog Lab
+Mini 
 
 #### Synths
 Flow Motion FM synth (free - waves)
