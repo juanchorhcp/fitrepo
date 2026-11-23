@@ -18,6 +18,7 @@ Pigments
 MG-Mini: Conversor de audio a midi (free)
 #### Lo-fi
 JS Nostalgizer
+Tape MELO-fi by Arturia
 Chow tape model (free)
 
 #### EQ/Dynamic EQ
