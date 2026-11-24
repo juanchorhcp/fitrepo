@@ -1,24 +1,34 @@
 Cosas para customizarle:
 [Level up your transport bar with Gridbox and Chordbox for REAPER](https://reapertips.com/post/level-up-your-transport-bar-with-gridbox-and-chordbox-for-reaper) (chordbox)
 
+
+### Scripts
+
+Reaticulate: para automatizar feeling de instrumentos orquestales
+
 ### Plugins por categoría
 #### Free bundles
 Kiloheartz (sound design effects)
 MFreeFXBundle (mixing y tools)
-Blue Cat
 
 
 #### Maybe-buy
 Gulfoss 
 DreamMachine $9
 Total VI max 2 $49: modo bass 2, modo piano, modo drums 2 y más
+Rc 20 $19
 Pigments
 
+
 #### Tools
-MG-Mini: Conversor de audio a midi (free)
+
+TDR Prism: spectrum analyser focused on human hearing
+
+#### Master
+TDR VOS SLICKEQ
+
 #### Lo-fi
 JS Nostalgizer
-Tape MELO-fi by Arturia
 Chow tape model (free)
 
 #### EQ/Dynamic EQ
@@ -30,7 +40,6 @@ Green dynamic eq (Tukan)
 
 #### Reverb
 Smartelectronix ambience: Classic flexible pleasant reverb
-REV Plate by Arturia
 
 #### Delays
 Deelay
@@ -42,26 +51,22 @@ Echodude (parecido al valhalla)
 StudioVerse audio effects (free demo waves)
 StudioVerse Instruments (free demo waves)
 
-#### Electric pianos
-
-Stage-73 by Arturia
-Wurli by Arturia
-
 #### Bass synths
 TAL Bassline
 Moog en Analog Lab
-Mini V3 by Arturia
 
 #### Synths
 Flow Motion FM synth (free - waves)
-Pigments Play
-Analog Lab V Pro
 
 #### Drums
 Synsonic bd-909: synth drum
 Addictive drums 2 (download)
-DRUMFLX: drum machine (free)
-UJAM Beatmaker Bundle (Download)
+
+#### Orquesta
+The free orchestra 2
+BBC
+Splice (Labs)
+
 #### Sound engines
 Texture loom by S1gns of life: atmospheric sounds
 
