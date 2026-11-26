@@ -15,4 +15,6 @@ Gorilla drive analog saturation pedal. Code: SANJAYFREE
 
 Cristalline by Baby audio $5
 
-Hardstop Basic (Free). Ver que tiene ka versión ge
+Hardstop Basic (Free). Ver que tiene la versión gratis, parece copada y es para procesar drums.
+
+La pagina de freebies de Native Instruments tiene muchas cosas 
