@@ -6,6 +6,10 @@ Cosas para customizarle:
 
 Reaticulate: para automatizar feeling de instrumentos orquestales
 
+Afinador
+
+Mas en reapertips
+
 ### Plugins por categoría
 #### Free bundles
 Kiloheartz (sound design effects)
