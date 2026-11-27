@@ -81,6 +81,9 @@ Splice (Labs)
 #### Sound engines
 Texture loom by S1gns of life: atmospheric sounds
 
+#### Marcas
+Izotope: Rx, Vinyl, Ozone imager, Vocal doubler, Insight
+
 Averiguar:
 Also, the Keepforest free instruments are delightful: if you're doing/looking to get into hybrid orchestral, I can recommend them without reservation.
 Bertom vocal compressor
