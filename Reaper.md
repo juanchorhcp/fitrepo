@@ -31,7 +31,7 @@ Pigments
 
 
 #### Tools
-
+RX elements (lo gane en una giveaway!)
 TDR Prism: spectrum analyser focused on human hearing
 BlueCat Freq Analyst
 
