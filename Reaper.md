@@ -25,14 +25,14 @@ Plugin Boutique
 #### Maybe-buy
 Gulfoss 
 DreamMachine $9
+Cristallizer $5 + plugin gratis
 Total VI max 2 $49: modo bass 2, modo piano, modo drums 2 y más
-Rc 20 $19
-Pigments
+Pigments $79
 
 
 #### Tools
-RX elements
-Insight
+Izotope RX elements
+Izotope Insight: datos de loudness, spectrum, etc.
 TDR Prism: spectrum analyser focused on human hearing
 BlueCat Freq Analyst
 
