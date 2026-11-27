@@ -14,6 +14,10 @@ Mas en reapertips
 #### Free bundles
 Kiloheartz (sound design effects)
 MFreeFXBundle (mixing y tools)
+Plugin Boutique 
+	Ample Bass
+	Ample Guitar
+	2 ebooks de mixing
 
 
 #### Maybe-buy
