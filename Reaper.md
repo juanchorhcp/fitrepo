@@ -17,7 +17,9 @@ MFreeFXBundle (mixing y tools)
 Plugin Boutique 
 	Ample Bass
 	Ample Guitar
+	Magic switch (chorus)
 	2 ebooks de mixing
+
 
 
 #### Maybe-buy
