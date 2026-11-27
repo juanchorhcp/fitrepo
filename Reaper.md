@@ -31,9 +31,7 @@ Pigments
 
 
 #### Tools
-RX elements (lo gane en una giveaway!) |   |   |
-|---|---|
-|Code:|SN-RX10ELE-NQHJ-JNAX-T573-5T48|
+RX elements (lo gane en una giveaway!) Code: SN-RX10ELE-NQHJ-JNAX-T573-5T48
 TDR Prism: spectrum analyser focused on human hearing
 BlueCat Freq Analyst
 
