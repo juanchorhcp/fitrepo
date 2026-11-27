@@ -31,7 +31,8 @@ Pigments
 
 
 #### Tools
-RX elements (lo gane en una giveaway!) Code: SN-RX10ELE-NQHJ-JNAX-T573-5T48
+RX elements
+Insight
 TDR Prism: spectrum analyser focused on human hearing
 BlueCat Freq Analyst
 
@@ -82,7 +83,7 @@ Splice (Labs)
 Texture loom by S1gns of life: atmospheric sounds
 
 #### Marcas
-Izotope: Rx, Vinyl, Ozone imager, Vocal doubler, Insight
+Izotope: RX elements, Vinyl, Ozone imager, Vocal doubler, Insight, Neutron 4 elements
 
 Averiguar:
 Also, the Keepforest free instruments are delightful: if you're doing/looking to get into hybrid orchestral, I can recommend them without reservation.
