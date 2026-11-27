@@ -31,6 +31,7 @@ Pigments
 #### Tools
 
 TDR Prism: spectrum analyser focused on human hearing
+BlueCat Freq Analyst
 
 #### Master
 TDR VOS SLICKEQ
